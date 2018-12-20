@@ -70,7 +70,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1545307426238">
         <mark key="'" line="360" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" timestamp="1545311283381">
+        <mark key="'" line="94" column="29" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V1/SellingResource.php" timestamp="1545295371859" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1545311230057">
+        <mark key="'" line="20" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545307204351">
         <mark key="'" line="142" column="23" />
       </file>
@@ -87,7 +95,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545304059136">
         <mark key="'" line="1517" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545308714807">
+      <file name="/Dummy.txt" timestamp="1545311190115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1545306061434">
@@ -127,20 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="35" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="324" column="55" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="327" column="25" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="572" column="28" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="1691" column="43" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="9" column="25" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" />
-      <jump line="7" column="25" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" />
-      <jump line="61" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" />
-      <jump line="77" column="26" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
-      <jump line="38" column="28" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" />
-      <jump line="331" column="17" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
-      <jump line="76" column="23" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" />
-      <jump line="150" column="31" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
-      <jump line="24" column="32" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
       <jump line="252" column="35" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
       <jump line="751" column="33" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
       <jump line="778" column="35" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
@@ -227,13 +221,27 @@
       <jump line="120" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphTo.php" />
       <jump line="152" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphTo.php" />
       <jump line="184" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
+      <jump line="192" column="65" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="191" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="1273" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="262" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="116" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="707" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="703" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="20" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="61" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="24" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="100" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="99" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="97" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
+      <jump line="94" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlTnVsbCgnbGluaHVpX3VzZXJzLnN0YXR1cycpLT5vcldoZXJlKCdsaW5odWlfdXNlcnMuc3RhdHVzJywgJ+emu+iBjCcpOwogICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>func_get_args()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjokZGlzcGF0Y2hlci0+bGlzdGVuKCJlbG9xdWVudC57JGV2ZW50fTogeyRuYW1lfSIsICRjYWxsYmFjayk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkY291bnROZXdDb250cmFjdFBoeXNpY2FsUmVzb3VyY2UgPSBDb250cmFjdEl0ZW06OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsIFskc3RhcnRUaW1lLCAkZW5kVGltZV0pCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3NlbGxpbmdfcmVzb3VyY2VzJywgJ3NlbGxpbmdfcmVzb3VyY2VfaWQnLCAnPScsICdzZWxsaW5nX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3BoeXNpY2FsX3Jlc291cmNlcycsICdwaHlzaWNhbF9yZXNvdXJjZV9pZCcsICc9JywgJ3BoeXNpY2FsX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGh5c2ljYWxfcmVzb3VyY2VfaWQnKQogICAgICAgICAgICAtPmNvdW50KCk7Cg==</text>
@@ -257,10 +265,10 @@
         <text>func_get_args()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmd1YXJkZWRcPg==</text>
+        <text encoding="base64">XDxvYnNlcnZhYmxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygn5byA5aeL57uT566X5pyI5bqm5oql6KGoLi4uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjokZGlzcGF0Y2hlci0+bGlzdGVuKCJlbG9xdWVudC57JGV2ZW50fTogeyRuYW1lfSIsICRjYWxsYmFjayk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
@@ -318,17 +326,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmd1YXJkZWRcPg==</last-search>
+      <last-search encoding="base64">XDxvYnNlcnZhYmxlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmd1YXJkZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvYnNlcnZhYmxlc1w+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXN0QXR0cmlidXRlXD4=</entry>
         <entry encoding="base64">XDxhZGRDYXN0QXR0cmlidXRlc1RvQXJyYXlcPg==</entry>
         <entry>sysCon</entry>
         <entry>SysCon</entry>
@@ -348,6 +355,7 @@
         <entry encoding="base64">XDxncmFtbWFyXD4=</entry>
         <entry encoding="base64">XDxyZWxhdGVkXD4=</entry>
         <entry encoding="base64">XDx1bmd1YXJkZWRcPg==</entry>
+        <entry encoding="base64">XDxvYnNlcnZhYmxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
