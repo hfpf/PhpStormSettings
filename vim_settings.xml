@@ -5,6 +5,9 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545307301204">
+        <mark key="'" line="700" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" timestamp="1545297746310">
         <mark key="'" line="67" column="58" />
         <mark key="[" line="20" column="56" />
@@ -48,6 +51,13 @@
         <mark key="." line="130" column="34" />
         <mark key="^" line="130" column="34" />
       </file>
+      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" timestamp="1545307337424">
+        <mark key="'" line="132" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" timestamp="1545307350676" />
+      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" timestamp="1545307236921">
+        <mark key="'" line="44" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" timestamp="1545305736323">
         <mark key="'" line="46" column="17" />
         <mark key="[" line="46" column="51" />
@@ -55,11 +65,14 @@
         <mark key="^" line="46" column="58" />
         <mark key="." line="46" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V1/SellingResource.php" timestamp="1545295371859" />
-      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545306604375">
-        <mark key="'" line="82" column="24" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1545307426238">
+        <mark key="'" line="360" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1545305680539">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V1/SellingResource.php" timestamp="1545295371859" />
+      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545307204351">
+        <mark key="'" line="142" column="23" />
+      </file>
+      <file name="/PHP Console" timestamp="1545307355621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545306468046">
@@ -68,7 +81,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545304059136">
         <mark key="'" line="1517" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545305175074">
+      <file name="/Dummy.txt" timestamp="1545307340184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1545306061434">
@@ -95,8 +108,8 @@
         <mark key="." line="30" column="76" />
         <mark key="^" line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1545306593118">
-        <mark key="'" line="517" column="28" />
+      <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1545307219692">
+        <mark key="'" line="524" column="29" />
         <mark key="[" line="1033" column="71" />
         <mark key="]" line="1033" column="84" />
         <mark key="." line="1033" column="84" />
@@ -104,21 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="23" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="451" column="33" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="473" column="23" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="285" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="288" column="27" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="189" column="23" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="1521" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="1510" column="25" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="76" column="32" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="1504" column="5" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="1685" column="31" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="45" column="12" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="199" column="65" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="204" column="35" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="31" column="12" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="202" column="45" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="898" column="39" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
       <jump line="899" column="41" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
@@ -184,8 +182,6 @@
       <jump line="59" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="28" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="60" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
-      <jump line="1033" column="39" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="1086" column="53" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="45" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="46" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="1035" column="51" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
@@ -203,7 +199,24 @@
       <jump line="287" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
       <jump line="286" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
       <jump line="302" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
-      <jump line="517" column="28" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="517" column="37" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="83" column="24" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
+      <jump line="84" column="42" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
+      <jump line="220" column="65" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" />
+      <jump line="1033" column="41" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="1086" column="52" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="525" column="29" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="28" column="54" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" />
+      <jump line="40" column="15" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" />
+      <jump line="67" column="36" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" />
+      <jump line="526" column="27" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="142" column="23" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" />
+      <jump line="524" column="29" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="44" column="26" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" />
+      <jump line="111" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
+      <jump line="133" column="45" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
+      <jump line="132" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
+      <jump line="700" column="21" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -234,7 +247,7 @@
         <text>func_get_args()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFtbWFyXD4=</text>
+        <text encoding="base64">XDxyZWxhdGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygn5byA5aeL57uT566X5pyI5bqm5oql6KGoLi4uJyk7Cg==</text>
@@ -295,9 +308,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFtbWFyXD4=</last-search>
+      <last-search encoding="base64">XDxyZWxhdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFtbWFyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWxhdGVkXD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
       <last-dir>1</last-dir>
@@ -305,7 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXJzdE9yTmV3XD4=</entry>
         <entry encoding="base64">XDxnZXRDYXN0c1w+</entry>
         <entry encoding="base64">XDxjYXN0QXR0cmlidXRlXD4=</entry>
         <entry encoding="base64">XDxhZGRDYXN0QXR0cmlidXRlc1RvQXJyYXlcPg==</entry>
@@ -325,6 +337,7 @@
         <entry encoding="base64">XDxwcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxncmFtbWFyXD4=</entry>
+        <entry encoding="base64">XDxyZWxhdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
