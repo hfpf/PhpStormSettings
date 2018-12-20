@@ -1,0 +1,57 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Code style issuesCSS</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Probable bugsCSS</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/Documents/PhpStormWorkcopy" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <MESSAGE value="kickoff" />
+        <option name="LAST_COMMIT_MESSAGE" value="kickoff" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

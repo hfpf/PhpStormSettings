@@ -1,0 +1,51 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.11.2" last-modified="1527753958000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://121.40.18.104" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://121.40.18.104" />
+        <option value="svn://121.40.18.104/LinhuibaServer/branches/LinhuibaServer" />
+        <option value="svn://121.40.18.104/LinhuibaServer/branch/LinhuibaServer" />
+        <option value="svn://121.40.18.104/LinhuibaServer/trunk/LinhuibaServer" />
+        <option value="svn://huangfu@121.40.18.104/" />
+        <option value="svn://huangfu@121.40.18.104/LinhuibaServer/trunk/LinhuibaServer" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn://huangfu@121.40.18.104/LinhuibaServer/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://huangfu@121.40.18.104/LinhuibaServer/trunk/LinhuibaServer">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="begint" value="DB::beginTransaction();&#10;try {&#10;    DB::commit();&#10;} catch (Exception $e) {&#10;    DB::rollback();&#10;    throw $e;&#10;}" description="DB::beginTransaction statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
