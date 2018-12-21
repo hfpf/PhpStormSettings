@@ -9,12 +9,13 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545307301204">
         <mark key="'" line="700" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1544775519560">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1545380551922" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1545380879686">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="17" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" timestamp="1545297746310">
         <mark key="'" line="67" column="58" />
@@ -42,6 +43,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/composer.json" timestamp="1545308426409" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithFaker.php" timestamp="1545277929158">
         <mark key="'" line="44" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/SysConfigControllerTest.php" timestamp="1545379972537">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1545097957894">
         <mark key="'" line="164" column="35" />
@@ -91,6 +98,12 @@
         <mark key="." line="59" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" timestamp="1545306475354" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/public/phpinfo.php" timestamp="1545382155871">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" timestamp="1545099640513">
         <mark key="'" line="3540" column="13" />
         <mark key="[" line="3635" column="0" />
@@ -118,6 +131,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphTo.php" timestamp="1545309107313">
         <mark key="'" line="152" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/bin/phpunit" timestamp="1545379951210" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/public/info.php" timestamp="1544510973447">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="12" />
@@ -281,7 +295,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545307204351">
         <mark key="'" line="142" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1545308230895">
+      <file name="/PHP Console" timestamp="1545381614100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545309398034">
@@ -301,7 +315,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545304059136">
         <mark key="'" line="1517" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545377411013">
+      <file name="/Dummy.txt" timestamp="1545382304267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/V1/StoreBrowseHistoryPostRequest.php" timestamp="1543806226732">
@@ -486,8 +500,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlTnVsbCgnbGluaHVpX3VzZXJzLnN0YXR1cycpLT5vcldoZXJlKCdsaW5odWlfdXNlcnMuc3RhdHVzJywgJ+emu+iBjCcpOwogICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjokZGlzcGF0Y2hlci0+bGlzdGVuKCJlbG9xdWVudC57JGV2ZW50fTogeyRuYW1lfSIsICRjYWxsYmFjayk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkY291bnROZXdDb250cmFjdFBoeXNpY2FsUmVzb3VyY2UgPSBDb250cmFjdEl0ZW06OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsIFskc3RhcnRUaW1lLCAkZW5kVGltZV0pCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3NlbGxpbmdfcmVzb3VyY2VzJywgJ3NlbGxpbmdfcmVzb3VyY2VfaWQnLCAnPScsICdzZWxsaW5nX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3BoeXNpY2FsX3Jlc291cmNlcycsICdwaHlzaWNhbF9yZXNvdXJjZV9pZCcsICc9JywgJ3BoeXNpY2FsX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGh5c2ljYWxfcmVzb3VyY2VfaWQnKQogICAgICAgICAgICAtPmNvdW50KCk7Cg==</text>
@@ -508,7 +522,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>func_get_args()</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYnNlcnZhYmxlc1w+</text>

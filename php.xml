@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/XAMPP/xamppfiles/bin/php-7.1.12" id="c6224412-6e18-4559-97be-d3707b7d680d" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/XAMPP/xamppfiles/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
+      <interpreter home="/Applications/XAMPP/xamppfiles/bin/php" id="c6224412-6e18-4559-97be-d3707b7d680d" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/XAMPP/xamppfiles/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -273,7 +273,7 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="1" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
