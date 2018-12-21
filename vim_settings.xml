@@ -177,7 +177,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/OpcacheServiceProvider.php" timestamp="1544597202664">
         <mark key="'" line="23" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1545397519017">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1545398046931">
         <mark key="'" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" timestamp="1544771164089">
@@ -433,7 +433,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545307204351">
         <mark key="'" line="142" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1545394184903">
+      <file name="/PHP Console" timestamp="1545398254499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545309398034">
@@ -459,7 +459,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545397472020">
         <mark key="'" line="1506" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545397631397">
+      <file name="/Dummy.txt" timestamp="1545398439020">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -477,6 +477,9 @@
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" timestamp="1545398392041">
+        <mark key="'" line="321" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/b.html" timestamp="1544682231830">
         <mark key="'" line="80" column="6" />
@@ -560,9 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/SysConfigControllerTest.php" />
-      <jump line="1517" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="1141" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/http-foundation/Tests/RequestTest.php" />
       <jump line="29" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/SysConfigControllerTest.php" />
       <jump line="34" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/SysConfigControllerTest.php" />
       <jump line="33" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/SysConfigControllerTest.php" />
@@ -660,6 +660,9 @@
       <jump line="1506" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" />
       <jump line="3" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
       <jump line="30" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" />
+      <jump line="301" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" />
+      <jump line="309" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" />
+      <jump line="321" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -690,7 +693,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYnNlcnZhYmxlc1w+</text>
+        <text encoding="base64">XDxsb2FkQ2xhc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjokZGlzcGF0Y2hlci0+bGlzdGVuKCJlbG9xdWVudC57JGV2ZW50fTogeyRuYW1lfSIsICRjYWxsYmFjayk7Cg==</text>
@@ -751,17 +754,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYnNlcnZhYmxlc1w+</last-search>
+      <last-search encoding="base64">XDxsb2FkQ2xhc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYnNlcnZhYmxlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkQ2xhc3NcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRDYXN0QXR0cmlidXRlc1RvQXJyYXlcPg==</entry>
         <entry>sysCon</entry>
         <entry>SysCon</entry>
         <entry>collateral</entry>
@@ -781,6 +783,7 @@
         <entry encoding="base64">XDxyZWxhdGVkXD4=</entry>
         <entry encoding="base64">XDx1bmd1YXJkZWRcPg==</entry>
         <entry encoding="base64">XDxvYnNlcnZhYmxlc1w+</entry>
+        <entry encoding="base64">XDxsb2FkQ2xhc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
