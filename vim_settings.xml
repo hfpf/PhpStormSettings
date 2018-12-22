@@ -193,12 +193,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CommunityService.php" timestamp="1545187376825">
         <mark key="'" line="213" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/sql/v3.9.sql" timestamp="1545447950143">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/sql/v3.9.sql" timestamp="1545474296870">
         <mark key="'" line="5" column="52" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="108" />
+        <mark key="." line="4" column="108" />
+        <mark key="^" line="4" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Lush.php" timestamp="1544688392670">
         <mark key="'" line="142" column="27" />
@@ -296,7 +296,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545470562854">
         <mark key="'" line="1506" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545470637100">
+      <file name="/Dummy.txt" timestamp="1545474321151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -448,8 +448,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlTnVsbCgnbGluaHVpX3VzZXJzLnN0YXR1cycpLT5vcldoZXJlKCdsaW5odWlfdXNlcnMuc3RhdHVzJywgJ+emu+iBjCcpOwogICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">emVuZF9leHRlbnNpb249b3BjYWNoZS5zbwo=</text>
+      <register name="&quot;" type="4">
+        <text>NULL</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkY291bnROZXdDb250cmFjdFBoeXNpY2FsUmVzb3VyY2UgPSBDb250cmFjdEl0ZW06OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsIFskc3RhcnRUaW1lLCAkZW5kVGltZV0pCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3NlbGxpbmdfcmVzb3VyY2VzJywgJ3NlbGxpbmdfcmVzb3VyY2VfaWQnLCAnPScsICdzZWxsaW5nX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3BoeXNpY2FsX3Jlc291cmNlcycsICdwaHlzaWNhbF9yZXNvdXJjZV9pZCcsICc9JywgJ3BoeXNpY2FsX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGh5c2ljYWxfcmVzb3VyY2VfaWQnKQogICAgICAgICAgICAtPmNvdW50KCk7Cg==</text>
@@ -470,7 +470,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNsMiA9IA==</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQ2xhc3NMb2FkZXJcPg==</text>
