@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545307301204">
         <mark key="'" line="700" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Mail/DeployEmail.php" timestamp="1545481765854">
+        <mark key="'" line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/phpunit/phpunit/src/Framework/TestResult.php" timestamp="1544512829621">
         <mark key="'" line="768" column="25" />
       </file>
@@ -100,7 +103,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1545224087067">
         <mark key="'" line="572" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1545401613726">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1545481310521">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="0" />
@@ -153,6 +156,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" timestamp="1545223299503">
         <mark key="'" line="76" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/bootstrap/app.php" timestamp="1545481387069">
+        <mark key="'" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Routing/Route.php" timestamp="1544616261322">
         <mark key="'" line="459" column="24" />
@@ -234,7 +240,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545470562854">
         <mark key="'" line="1506" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545475870785">
+      <file name="/Dummy.txt" timestamp="1545481687754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -270,8 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
-      <jump line="32" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/MonthlyStatisticControllerTest.php" />
       <jump line="16" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="21" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="59" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
@@ -370,6 +374,8 @@
       <jump line="257" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ThemeController.php" />
       <jump line="83" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/svn/LinhuibaServer/app/Http/Controllers/Api/V1/ThemeController.php" />
       <jump line="20" column="33" filename="$USER_HOME$/Desktop/laravel/app/Http/Kernel.php" />
+      <jump line="13" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/bootstrap/app.php" />
+      <jump line="9" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Mail/DeployEmail.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
