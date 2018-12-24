@@ -41,8 +41,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/phpunit/phpunit/src/Framework/TestResult.php" timestamp="1544512829621">
         <mark key="'" line="768" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1545639697168">
-        <mark key="'" line="157" column="33" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1545642516122">
+        <mark key="'" line="158" column="33" />
         <mark key="[" line="48" column="5" />
         <mark key="]" line="48" column="4" />
         <mark key="^" line="48" column="4" />
@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/blog/app/Tag.php" timestamp="1545115625871">
         <mark key="'" line="35" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/CommonDataShareMiddleware.php" timestamp="1545641916320" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Provider/LumenServiceProvider.php" timestamp="1544616233166">
         <mark key="'" line="52" column="34" />
       </file>
@@ -272,6 +273,7 @@
         <mark key="^" line="109" column="24" />
         <mark key="." line="109" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" timestamp="1545641974184" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Controller.php" timestamp="1544499695066">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -498,7 +500,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545470562854">
         <mark key="'" line="1506" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545641080806">
+      <file name="/Dummy.txt" timestamp="1545642930675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
