@@ -275,8 +275,8 @@
         <mark key="^" line="109" column="24" />
         <mark key="." line="109" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" timestamp="1545644127485">
-        <mark key="'" line="34" column="33" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" timestamp="1545646231559">
+        <mark key="'" line="48" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Controller.php" timestamp="1544499695066">
         <mark key="[" line="18" column="0" />
@@ -611,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="23" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" />
       <jump line="524" column="29" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="44" column="26" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" />
       <jump line="111" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
@@ -711,6 +710,7 @@
       <jump line="208" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
       <jump line="331" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
       <jump line="354" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="48" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
