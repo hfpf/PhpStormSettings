@@ -35,13 +35,14 @@
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" timestamp="1545622573571">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" timestamp="1545632371340">
         <mark key="'" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/phpunit/phpunit/src/Framework/TestResult.php" timestamp="1544512829621">
         <mark key="'" line="768" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1545629880813">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1545632226103">
+        <mark key="'" line="133" column="27" />
         <mark key="[" line="48" column="5" />
         <mark key="]" line="48" column="4" />
         <mark key="^" line="48" column="4" />
@@ -493,7 +494,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545470562854">
         <mark key="'" line="1506" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545622557902">
+      <file name="/Dummy.txt" timestamp="1545631844734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -556,6 +557,9 @@
         <mark key="^" line="88" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/composer.json" timestamp="1545475907444" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/session.php" timestamp="1545631824118">
+        <mark key="'" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/MonthlyStatisticControllerTest.php" timestamp="1545296546280">
         <mark key="'" line="32" column="23" />
         <mark key="[" line="30" column="76" />
@@ -597,9 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
-      <jump line="1035" column="51" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="457" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="930" column="20" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="462" column="44" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="478" column="27" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
@@ -695,8 +696,11 @@
       <jump line="518" column="75" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/FieldController.php" />
       <jump line="625" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/FieldController.php" />
       <jump line="6" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Request.php" />
-      <jump line="14" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
       <jump line="14" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/session.php" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/session.php" />
+      <jump line="133" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" />
+      <jump line="14" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
