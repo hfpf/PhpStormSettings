@@ -11,6 +11,10 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1545397629886">
         <mark key="'" line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_12_19_153913__add_pc_description_into_selling_resources.php" timestamp="1545717178709">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="49" />
+      </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545307301204">
         <mark key="'" line="700" column="21" />
       </file>
@@ -60,6 +64,10 @@
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_12_19_160819_create_monthly_statistic_table.php" timestamp="1545718760734">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/test/Faker/GeneratorTest.php" timestamp="1545219763320">
         <mark key="'" line="11" column="38" />
@@ -157,6 +165,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1545224281148">
         <mark key="'" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_12_25_135009_add_data_to_monthly_statistic_table.php" timestamp="1545718983659">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="18" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1545224087067">
         <mark key="'" line="572" column="28" />
@@ -388,12 +402,12 @@
         <mark key="^" line="33" column="22" />
         <mark key="." line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" timestamp="1545710159273">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="158" column="21" />
-        <mark key="]" line="158" column="39" />
-        <mark key="^" line="158" column="39" />
-        <mark key="." line="158" column="39" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" timestamp="1545720833840">
+        <mark key="'" line="70" column="51" />
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="17" />
+        <mark key="^" line="71" column="17" />
+        <mark key="." line="71" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/CreatesRequest.php" timestamp="1544688371333">
         <mark key="'" line="4" column="29" />
@@ -409,6 +423,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/storage/logs/laravel-2018-12-13.log" timestamp="1544682398034">
         <mark key="'" line="569" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_12_05_140941_add_type_into_user_assigns.php" timestamp="1545718018553">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="49" />
+        <mark key="^" line="30" column="49" />
+        <mark key="." line="30" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1545307426238">
         <mark key="'" line="360" column="20" />
@@ -479,7 +499,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545307204351">
         <mark key="'" line="142" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1545708276438">
+      <file name="/PHP Console" timestamp="1545720836040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545309398034">
@@ -505,12 +525,13 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1545470562854">
         <mark key="'" line="1506" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545642930675">
+      <file name="/Dummy.txt" timestamp="1545720828061">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
         <mark key="'" line="18" column="30" />
       </file>
+      <file name="/MonthlyStatisticSettle.php" timestamp="1545716488950" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/V1/StoreBrowseHistoryPostRequest.php" timestamp="1543806226732">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="30" column="29" />
@@ -611,9 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
-      <jump line="133" column="45" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
-      <jump line="132" column="30" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" />
       <jump line="700" column="21" filename="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
       <jump line="83" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
       <jump line="93" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
@@ -711,13 +729,16 @@
       <jump line="48" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="75" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" />
+      <jump line="71" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
+      <jump line="68" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
+      <jump line="70" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlTnVsbCgnbGluaHVpX3VzZXJzLnN0YXR1cycpLT5vcldoZXJlKCdsaW5odWlfdXNlcnMuc3RhdHVzJywgJ+emu+iBjCcpOwogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IENvbnRyYWN0SXRlbTo6d2hlcmUoJ2NvbnRyYWN0X2l0ZW1zLmNyZWF0ZWRfYXQnLCAnPCcsICRlbmRUaW1lKQogICAgICAgICAgICAtPmxlZnRKb2luKCdzZWxsaW5nX3Jlc291cmNlcycsICdzZWxsaW5nX3Jlc291cmNlX2lkJywgJz0nLCAnc2VsbGluZ19yZXNvdXJjZXMuaWQnKQogICAgICAgICAgICAtPmxlZnRKb2luKCdwaHlzaWNhbF9yZXNvdXJjZXMnLCAncGh5c2ljYWxfcmVzb3VyY2VfaWQnLCAnPScsICdwaHlzaWNhbF9yZXNvdXJjZXMuaWQnKQogICAgICAgICAgICAtPmxlZnRKb2luKCdtX2NvbW11bml0eV9yZXNvdXJjZXMnLCAncGh5c2ljYWxfcmVzb3VyY2VzLmNvbW11bml0eV9pZCcsICc9JywgJ21fY29tbXVuaXR5X3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+d2hlcmUoJ21fY29tbXVuaXR5X3Jlc291cmNlcy5zdGF0dXMnLCBDb21tdW5pdHlSZXNvdXJjZTo6QVBQUk9WRUQpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGh5c2ljYWxfcmVzb3VyY2VzLmNvbW11bml0eV9pZCcpCiAgICAgICAgICAgIC0+cGx1Y2soJ2lkJyktPnRvQXJyYXkoKTsKICAgICAgICAkYyA9IGltcGxvZGUoJywnLCAkYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaWQgPSBpbXBsb2RlKCcsJywgJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlcyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkY291bnROZXdDb250cmFjdFBoeXNpY2FsUmVzb3VyY2UgPSBDb250cmFjdEl0ZW06OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsIFskc3RhcnRUaW1lLCAkZW5kVGltZV0pCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3NlbGxpbmdfcmVzb3VyY2VzJywgJ3NlbGxpbmdfcmVzb3VyY2VfaWQnLCAnPScsICdzZWxsaW5nX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3BoeXNpY2FsX3Jlc291cmNlcycsICdwaHlzaWNhbF9yZXNvdXJjZV9pZCcsICc9JywgJ3BoeXNpY2FsX3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGh5c2ljYWxfcmVzb3VyY2VfaWQnKQogICAgICAgICAgICAtPmNvdW50KCk7Cg==</text>
@@ -738,58 +759,58 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG1vbnRoLT5vbl9zYWxlX3NlbGxpbmdfcmVzb3VyY2VfY291bnQg</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnaWQnKS0+dG9BcnJheSgpOwogICAgICAgICRhYTEgPSBpbXBsb2RlKCcsJywgJGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZV9kYXRhJyk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IENvbnRyYWN0SXRlbTo6d2hlcmUoJ2NvbnRyYWN0X2l0ZW1zLmNyZWF0ZWRfYXQnLCAnPCcsICRlbmRUaW1lKQogICAgICAgICAgICAtPmxlZnRKb2luKCdzZWxsaW5nX3Jlc291cmNlcycsICdzZWxsaW5nX3Jlc291cmNlX2lkJywgJz0nLCAnc2VsbGluZ19yZXNvdXJjZXMuaWQnKQogICAgICAgICAgICAtPmxlZnRKb2luKCdwaHlzaWNhbF9yZXNvdXJjZXMnLCAncGh5c2ljYWxfcmVzb3VyY2VfaWQnLCAnPScsICdwaHlzaWNhbF9yZXNvdXJjZXMuaWQnKQogICAgICAgICAgICAtPmxlZnRKb2luKCdtX2NvbW11bml0eV9yZXNvdXJjZXMnLCAncGh5c2ljYWxfcmVzb3VyY2VzLmNvbW11bml0eV9pZCcsICc9JywgJ21fY29tbXVuaXR5X3Jlc291cmNlcy5pZCcpCiAgICAgICAgICAgIC0+d2hlcmUoJ21fY29tbXVuaXR5X3Jlc291cmNlcy5zdGF0dXMnLCBDb21tdW5pdHlSZXNvdXJjZTo6QVBQUk9WRUQpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGh5c2ljYWxfcmVzb3VyY2VzLmNvbW11bml0eV9pZCcpCiAgICAgICAgICAgIC0+cGx1Y2soJ2lkJyktPnRvQXJyYXkoKTsKICAgICAgICAkYyA9IGltcGxvZGUoJywnLCAkYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaWQgPSBpbXBsb2RlKCcsJywgJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZCA9IENvbnRyYWN0SXRlbTo6d2hlcmUoJ2NvbnRyYWN0X2l0ZW1zLmNyZWF0ZWRfYXQnLCAnPj0nLCAkc3RhcnRUaW1lKQogICAgICAgICAgICAtPndoZXJlKCdjb250cmFjdF9pdGVtcy5jcmVhdGVkX2F0JywgJzwnLCAkZW5kVGltZSkKICAgICAgICAgICAgLT5sZWZ0Sm9pbignc2VsbGluZ19yZXNvdXJjZXMnLCAnc2VsbGluZ19yZXNvdXJjZV9pZCcsICc9JywgJ3NlbGxpbmdfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT5sZWZ0Sm9pbigncGh5c2ljYWxfcmVzb3VyY2VzJywgJ3BoeXNpY2FsX3Jlc291cmNlX2lkJywgJz0nLCAncGh5c2ljYWxfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT5sZWZ0Sm9pbignbV9jb21tdW5pdHlfcmVzb3VyY2VzJywgJ3BoeXNpY2FsX3Jlc291cmNlcy5jb21tdW5pdHlfaWQnLCAnPScsICdtX2NvbW11bml0eV9yZXNvdXJjZXMuaWQnKQogICAgICAgICAgICAtPndoZXJlKCdtX2NvbW11bml0eV9yZXNvdXJjZXMuc3RhdHVzJywgQ29tbXVuaXR5UmVzb3VyY2U6OkFQUFJPVkVEKQogICAgICAgICAgICAtPmdyb3VwQnkoJ3BoeXNpY2FsX3Jlc291cmNlcy5jb21tdW5pdHlfaWQnKQogICAgICAgICAgICAtPnBsdWNrKCdpZCcpLT50b0FycmF5KCk7CiAgICAgICAgJGUgPSBpbXBsb2RlKCcsJywgJGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkb25fc2FsZV9jb21tdW5pdHlfcmVzb3VyY2VfZGF0YSA9IFtdOwogICAgICAgIGZvcmVhY2ggKCRvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZXMgYXMgJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlKSB7CiAgICAgICAgICAgICRvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZV9kYXRhW10gPSBbCiAgICAgICAgICAgICAgICAndHlwZScgPT4gQ29tbXVuaXR5UmVzb3VyY2U6OmNsYXNzLAogICAgICAgICAgICAgICAgJ2lkJyA9PiAkb25fc2FsZV9jb21tdW5pdHlfcmVzb3VyY2UtPmlkLAogICAgICAgICAgICBdOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZiA9IFNlbGxpbmdSZXNvdXJjZTo6d2hlcmUoJ21fY29tbXVuaXR5X3Jlc291cmNlcy5jcmVhdGVkX2F0JywgJzwnLCAkZW5kVGltZSkKICAgICAgICAgICAgLT5sZWZ0Sm9pbigncGh5c2ljYWxfcmVzb3VyY2VzJywgJ3NlbGxpbmdfcmVzb3VyY2VzLnBoeXNpY2FsX3Jlc291cmNlX2lkJywgJz0nLCAncGh5c2ljYWxfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT5sZWZ0Sm9pbignbV9jb21tdW5pdHlfcmVzb3VyY2VzJywgJ3BoeXNpY2FsX3Jlc291cmNlcy5jb21tdW5pdHlfaWQnLCAnPScsICdtX2NvbW11bml0eV9yZXNvdXJjZXMuaWQnKQogICAgICAgICAgICAtPndoZXJlKCdzZWxsaW5nX3Jlc291cmNlcy5yZXNfdHlwZV9pZCcsIFNlbGxpbmdSZXNvdXJjZTo6UkVTT1VSQ0VfVFlQRV9GSUVMRCkKICAgICAgICAgICAgLT53aGVyZSgnc2VsbGluZ19yZXNvdXJjZXMuc3RhdHVzJywgU2VsbGluZ1Jlc291cmNlOjpBUFBST1ZFRCkKICAgICAgICAgICAgLT53aGVyZSgnbWF4X3NoYXJlJywgJz4nLCAwKSAvLyDmnInliIbmiJAKICAgICAgICAgICAgLT53aGVyZSgnbV9jb21tdW5pdHlfcmVzb3VyY2VzLnN0YXR1cycsIENvbW11bml0eVJlc291cmNlOjpBUFBST1ZFRCkKICAgICAgICAgICAgLT5ncm91cEJ5KCdwaHlzaWNhbF9yZXNvdXJjZXMuY29tbXVuaXR5X2lkJykKICAgICAgICAtPnBsdWNrKCdpZCcpLT50b0FycmF5KCk7CiAgICAgICAgJGcgPSBpbXBsb2RlKCcsJywgJGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYSA9IGNvdW50KCRvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbW9udGgtPm9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlX2NvdW50ID0gY291bnQoJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlcyk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnc3RhdHVzJywgQ29tbXVuaXR5UmVzb3VyY2U6OkFQUFJPVkVEKQogICAgICAgICAgICAtPmNvdW50KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYiA9IGltcGxvZGUoJywnLCAkYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdzaWduZWRfcGh5c2ljYWxfcmVzb3VyY2VfZGF0YScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn5L+d5a2Y562+57qm5bGV5L2N55qEaWTlkoznsbvlnovnmoRKU09OJyk7CiAgICAgICAgICAgICR0YWJsZS0+bWVkaXVtVGV4dCgnbmV3X3NpZ25lZF9waHlzaWNhbF9yZXNvdXJjZV9kYXRhJyktPmRlZmF1bHQoJycpLT5jb21tZW50KCfkv53lrZjmlrDlop7nrb7nuqblsZXkvY3nmoRpZOWSjOexu+Wei+eahEpTT04nKTsKICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdzaGFyZWRfcGh5c2ljYWxfcmVzb3VyY2VfZGF0YScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn5L+d5a2Y5YiG5oiQ5bGV5L2N55qEaWTlkoznsbvlnovnmoRKU09OJyk7CiAgICAgICAgICAgICR0YWJsZS0+bWVkaXVtVGV4dCgnbmV3X3NoYXJlZF9waHlzaWNhbF9yZXNvdXJjZV9kYXRhJyktPmRlZmF1bHQoJycpLT5jb21tZW50KCfkv53lrZjmlrDlop7liIbmiJDlsZXkvY3nmoRpZOWSjOexu+Wei+eahEpTT04nKTsKICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdyZWdpc3RlcmVkX3BoeXNpY2FsX3Jlc291cmNlX2RhdGEnKS0+ZGVmYXVsdCgnJyktPmNvbW1lbnQoJ+S/neWtmOazqOWGjOWxleS9jeeahGlk5ZKM57G75Z6L55qESlNPTicpOwogICAgICAgICAgICAkdGFibGUtPm1lZGl1bVRleHQoJ25ld19yZWdpc3RlcmVkX3BoeXNpY2FsX3Jlc291cmNlX2RhdGEnKS0+ZGVmYXVsdCgnJyktPmNvbW1lbnQoJ+S/neWtmOaWsOWinuazqOWGjOWxleS9jeaVsOeahGlk5ZKM57G75Z6L55qESlNPTicpOwogICAgICAgICAgICAkdGFibGUtPm1lZGl1bVRleHQoJ25ld19waHlzaWNhbF9yZXNvdXJjZV9kYXRhJyktPmRlZmF1bHQoJycpLT5jb21tZW50KCfkv53lrZjmlrDlop7lsZXkvY3nmoRpZOWSjOexu+Wei+eahEpTT04nKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZV9kYXRhJyk7CiAgICAgICAgICAgICR0YWJsZS0+ZHJvcENvbHVtbignb25fc2FsZV9jb21tdW5pdHlfcmVzb3VyY2VfZGF0YScpOwogICAgICAgICAgICAkdGFibGUtPm1lZGl1bVRleHQoJ29uX3NhbGVfc2VsbGluZ19yZXNvdXJjZV9kYXRhJyktPmRlZmF1bHQoJycpLT5jb21tZW50KCfkv53lrZjlnKjllK7kvpvnu5nnmoRpZOWSjOexu+Wei+eahEpTT04nKTsKICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdzaGFyZWRfc2VsbGluZ19yZXNvdXJjZV9kYXRhJyktPmRlZmF1bHQoJycpLT5jb21tZW50KCfkv53lrZjlnKjllK7lnLrliIbmiJDkvpvnu5nnmoRpZOWSjOexu+Wei+eahEpTT04nKTsKICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCduZXdfc2hhcmVkX3NlbGxpbmdfcmVzb3VyY2VfZGF0YScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn5L+d5a2Y5paw5aKe5YiG5oiQ5L6b57uZ55qEaWTlkoznsbvlnovnmoRKU09OJyk7CiAgICAgICAgICAgICR0YWJsZS0+bWVkaXVtVGV4dCgncmVnaXN0ZXJlZF9zZWxsaW5nX3Jlc291cmNlX2RhdGEnKS0+ZGVmYXVsdCgnJyktPmNvbW1lbnQoJ+S/neWtmOazqOWGjOS+m+e7meeahGlk5ZKM57G75Z6L55qESlNPTicpOwogICAgICAgICAgICAkdGFibGUtPm1lZGl1bVRleHQoJ25ld19yZWdpc3RlcmVkX3NlbGxpbmdfcmVzb3VyY2VfZGF0YScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn5L+d5a2Y5paw5aKe5rOo5YaM5L6b57uZ55qEaWTlkoznsbvlnovnmoRKU09OJyk7CiAgICAgICAgICAgICR0YWJsZS0+bWVkaXVtVGV4dCgnbmV3X3NlbGxpbmdfcmVzb3VyY2VfZGF0YScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn5L+d5a2Y5paw5aKe5L6b57uZ55qEaWTlkoznsbvlnovnmoRKU09OJyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
