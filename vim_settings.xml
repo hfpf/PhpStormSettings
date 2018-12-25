@@ -402,12 +402,12 @@
         <mark key="^" line="33" column="22" />
         <mark key="." line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" timestamp="1545725073437">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="12" />
-        <mark key="^" line="132" column="49" />
-        <mark key="." line="131" column="12" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" timestamp="1545728876051">
+        <mark key="'" line="151" column="13" />
+        <mark key="[" line="238" column="94" />
+        <mark key="]" line="239" column="11" />
+        <mark key="^" line="239" column="11" />
+        <mark key="." line="239" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/CreatesRequest.php" timestamp="1544688371333">
         <mark key="'" line="4" column="29" />
@@ -499,7 +499,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1545307204351">
         <mark key="'" line="142" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1545725077932">
+      <file name="/PHP Console" timestamp="1545728878669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545309398034">
@@ -632,9 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
-      <jump line="93" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
-      <jump line="97" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
       <jump line="103" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
       <jump line="107" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
       <jump line="112" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" />
@@ -732,10 +729,13 @@
       <jump line="68" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="70" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="91" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
+      <jump line="138" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
+      <jump line="146" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
+      <jump line="151" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>select('m_community_resources.id')</text>
+        <text>select('physical_resources.id')</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
@@ -746,8 +746,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAkbW9udGgtPnNoYXJlZF9jb21tdW5pdHlfcmVzb3VyY2VfY291bnQgPSBjb3VudCgkc2hhcmVkX2NvbW11bml0eV9yZXNvdXJjZXMpOwogICAgICAgICRtb250aC0+c2hhcmVkX2NvbW11bml0eV9yZXNvdXJjZV9kYXRhID0gaW1wbG9kZSgnLCcsICRzaGFyZWRfY29tbXVuaXR5X3Jlc291cmNlcyk7Cg==</text>
       </register>
-      <register name="d" type="4">
-        <text>联系电话</text>
+      <register name="d" type="2">
+        <text encoding="base64">ICAgICAgICAkbW9udGgtPm5ld19zaWduZWRfcGh5c2ljYWxfcmVzb3VyY2VfY291bnQgPSBjb3VudCgkbmV3X3NpZ25lZF9waHlzaWNhbF9yZXNvdXJjZXMpOwogICAgICAgICRtb250aC0+bmV3X3NpZ25lZF9waHlzaWNhbF9yZXNvdXJjZV9kYXRhID0gaW1wbG9kZSgnLCcsICRuZXdfc2lnbmVkX3BoeXNpY2FsX3Jlc291cmNlcyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>微信号</text>
@@ -759,13 +759,13 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>month-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bmV3X3NoYXJlZF9jb21tdW5pdHlfcmVzb3VyY2VzIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkbW9udGgtPm5ld19zaWduZWRfcGh5c2ljYWxfcmVzb3VyY2VfY291bnQgPSBjb3VudCgkbmV3X3NpZ25lZF9waHlzaWNhbF9yZXNvdXJjZXMpOwogICAgICAgICRtb250aC0+bmV3X3NpZ25lZF9waHlzaWNhbF9yZXNvdXJjZV9kYXRhID0gaW1wbG9kZSgnLCcsICRuZXdfc2lnbmVkX3BoeXNpY2FsX3Jlc291cmNlcyk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
@@ -795,22 +795,22 @@
         <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaWQgPSBpbXBsb2RlKCcsJywgJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkb25fc2FsZV9jb21tdW5pdHlfcmVzb3VyY2VfZGF0YSA9IFtdOwogICAgICAgIGZvcmVhY2ggKCRvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZXMgYXMgJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlKSB7CiAgICAgICAgICAgICRvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZV9kYXRhW10gPSBbCiAgICAgICAgICAgICAgICAndHlwZScgPT4gQ29tbXVuaXR5UmVzb3VyY2U6OmNsYXNzLAogICAgICAgICAgICAgICAgJ2lkJyA9PiAkb25fc2FsZV9jb21tdW5pdHlfcmVzb3VyY2UtPmlkLAogICAgICAgICAgICBdOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IGNvdW50KCRvbl9zYWxlX2NvbW11bml0eV9yZXNvdXJjZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9udGgtPm9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlX2NvdW50ID0gY291bnQoJG9uX3NhbGVfY29tbXVuaXR5X3Jlc291cmNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
