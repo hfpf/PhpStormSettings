@@ -59,6 +59,7 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="19" />
       </file>
+      <file name="$USER_HOME$/code/laravel.com/build/docs.sh" timestamp="1545896226862" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/test/Faker/GeneratorTest.php" timestamp="1545219763320">
         <mark key="'" line="11" column="38" />
       </file>
@@ -150,6 +151,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/LushFacade.php" timestamp="1544688372949">
         <mark key="'" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/laravel.com/app/Console/Commands/IndexDocuments.php" timestamp="1545896269189">
+        <mark key="'" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Request.php" timestamp="1545622571517">
         <mark key="'" line="6" column="35" />
@@ -537,6 +541,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php" timestamp="1545117934026">
         <mark key="'" line="71" column="22" />
       </file>
+      <file name="$USER_HOME$/code/laravel.com/.env" timestamp="1545896101474" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SysConfig.php" timestamp="1545377593166">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="29" column="34" />
@@ -562,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" />
@@ -662,6 +666,7 @@
       <jump line="135" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="40" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_12_25_135009_add_data_to_monthly_statistic_table.php" />
       <jump line="3872" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" />
+      <jump line="30" column="14" filename="$USER_HOME$/code/laravel.com/app/Console/Commands/IndexDocuments.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
