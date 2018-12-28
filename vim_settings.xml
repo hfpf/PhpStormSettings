@@ -243,11 +243,11 @@
         <mark key="'" line="79" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" timestamp="1545889724842">
-        <mark key="'" line="3872" column="41" />
-        <mark key="[" line="3956" column="0" />
-        <mark key="]" line="3957" column="46" />
-        <mark key="^" line="3441" column="61" />
-        <mark key="." line="3441" column="61" />
+        <mark key="'" line="3877" column="41" />
+        <mark key="[" line="3961" column="0" />
+        <mark key="]" line="3962" column="46" />
+        <mark key="^" line="3446" column="61" />
+        <mark key="." line="3446" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/V1/UserControllerTest.php" timestamp="1545889695915">
         <mark key="'" line="155" column="0" />
