@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/Base.php" timestamp="1545120931787">
         <mark key="'" line="184" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" timestamp="1546485072595">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" timestamp="1546487210734">
         <mark key="'" line="901" column="36" />
         <mark key="[" line="908" column="41" />
         <mark key="]" line="908" column="44" />
@@ -262,7 +262,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/fzaninotto/faker/src/Faker/Provider/Base.php" timestamp="1545221060562">
         <mark key="'" line="211" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546485629847">
+      <file name="/Dummy.txt" timestamp="1546486800106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/Authenticate.php" timestamp="1546412723698" />
