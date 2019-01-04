@@ -72,12 +72,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/Base.php" timestamp="1545120931787">
         <mark key="'" line="184" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" timestamp="1546487210734">
-        <mark key="'" line="901" column="36" />
-        <mark key="[" line="908" column="41" />
-        <mark key="]" line="908" column="44" />
-        <mark key="^" line="908" column="44" />
-        <mark key="." line="908" column="44" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" timestamp="1546591470342">
+        <mark key="'" line="909" column="12" />
+        <mark key="[" line="911" column="28" />
+        <mark key="]" line="911" column="28" />
+        <mark key="^" line="911" column="28" />
+        <mark key="." line="911" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1545295355493">
         <mark key="'" line="2610" column="27" />
@@ -187,7 +187,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/fzaninotto/faker/src/Faker/Provider/Base.php" timestamp="1545221060562">
         <mark key="'" line="211" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546581987509">
+      <file name="/Dummy.txt" timestamp="1546591607092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/Authenticate.php" timestamp="1546412723698" />
@@ -415,10 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
-      <jump line="29" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/MonthlyStatisticDetailGet.php" />
-      <jump line="174" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php" />
-      <jump line="103" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="104" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="140" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MonthlyStatisticController.php" />
       <jump line="351" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/PhysicalResource.php" />
@@ -515,13 +511,17 @@
       <jump line="45" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php" />
       <jump line="88" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php" />
       <jump line="18" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php" />
+      <jump line="840" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" />
+      <jump line="919" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" />
+      <jump line="911" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" />
+      <jump line="909" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2VzID0gQ29tbXVuaXR5UmVzb3VyY2U6OnNlbGVjdCgnaWQnLCAnbmFtZScsICdjcmVhdGVkX2F0IGFzIHRpbWUnKS0+d2hlcmVJbignaWQnLCAkcmFuZ2UpLT5nZXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5sZWZ0Sm9pbigndXNlcnMnLCAnbV9jb21tdW5pdHlfcmVzb3VyY2VzLmNyZWF0ZWRfYnknLCAnPScsICd1c2Vycy5pZCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnbV9jb21tdW5pdHlfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT50b0FycmF5KCk7Cg==</text>
@@ -542,7 +542,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RSYWRpb1w+</text>
