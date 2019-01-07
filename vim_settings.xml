@@ -212,8 +212,8 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" timestamp="1546866906450">
-        <mark key="'" line="38" column="13" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" timestamp="1546867712520">
+        <mark key="'" line="38" column="50" />
         <mark key="[" line="38" column="112" />
         <mark key="]" line="38" column="113" />
         <mark key="^" line="38" column="113" />
@@ -547,7 +547,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1546412670808">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546866852362">
+      <file name="/Dummy.txt" timestamp="1546866919461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -766,7 +766,7 @@
       <jump line="20" column="100" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
       <jump line="21" column="85" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
       <jump line="36" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
-      <jump line="38" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="38" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
