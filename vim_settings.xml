@@ -212,6 +212,13 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" timestamp="1546866906450">
+        <mark key="'" line="38" column="13" />
+        <mark key="[" line="38" column="112" />
+        <mark key="]" line="38" column="113" />
+        <mark key="^" line="38" column="113" />
+        <mark key="." line="38" column="113" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/Inner/LabelControllerTest.php" timestamp="1546571107802">
         <mark key="'" line="0" column="0" />
       </file>
@@ -540,7 +547,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1546412670808">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546865203494">
+      <file name="/Dummy.txt" timestamp="1546866852362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -660,15 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3872" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" />
-      <jump line="30" column="14" filename="$USER_HOME$/code/laravel.com/app/Console/Commands/IndexDocuments.php" />
-      <jump line="10" column="22" filename="$USER_HOME$/code/laravel.com/routes/web.php" />
-      <jump line="0" column="10" filename="$USER_HOME$/code/laravel.com/resources/views/marketing.blade.php" />
-      <jump line="20" column="27" filename="$USER_HOME$/code/laravel.com/resources/views/app.blade.php" />
-      <jump line="47" column="17" filename="$USER_HOME$/code/laravel5.7/composer.json" />
-      <jump line="47389" column="86" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V4/ConfigController.php" />
-      <jump line="47601" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V4/ConfigController.php" />
-      <jump line="885" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" />
       <jump line="900" column="67" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ConfigController.php" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V4/ConfigController.php" />
       <jump line="47438" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V4/ConfigController.php" />
@@ -760,6 +758,15 @@
       <jump line="35" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/3.10部署流程.md" />
       <jump line="227" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/FieldOrder.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Events/OrderStatusUpdated.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="67" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="33" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="34" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="20" column="100" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="21" column="85" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="36" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
+      <jump line="38" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -790,7 +797,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1wcm9jc1w+</text>
+        <text encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5sZWZ0Sm9pbigndXNlcnMnLCAnc2VsbGluZ19yZXNvdXJjZXMuY3JlYXRlZF9ieScsICc9JywgJ3VzZXJzLmlkJykKICAgICAgICAgICAgLT5sZWZ0Sm9pbignbGluaHVpX3VzZXJzJywgJ3VzZXJzLmlkJywgJz0nLCAnbGluaHVpX3VzZXJzLnVzZXJfaWQnKQogICAgICAgICAgICAtPndoZXJlKGZ1bmN0aW9uICgkcXVlcnkpIHsKICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVOdWxsKCdsaW5odWlfdXNlcnMuc3RhdHVzJyktPm9yV2hlcmUoJ2xpbmh1aV91c2Vycy5zdGF0dXMnLCAn56a76IGMJyk7CiAgICAgICAgICAgIH0pCg==</text>
@@ -851,9 +858,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1wcm9jc1w+</last-search>
+      <last-search encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1wcm9jc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
       <last-dir>1</last-dir>
@@ -861,8 +868,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21tb25EYXRhU2hhcmVNaWRkbGV3YXJlXD4=</entry>
-        <entry encoding="base64">XDxjb21tb25fZGF0YV9zaGFyZVw+</entry>
         <entry encoding="base64">XDxBZGRRdWV1ZWRDb29raWVzVG9SZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxTdGFydFNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxTaGFyZUVycm9yc0Zyb21TZXNzaW9uXD4=</entry>
@@ -881,6 +886,8 @@
         <entry encoding="base64">XDxjaGVja09yZGVyU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RSYWRpb1w+</entry>
         <entry encoding="base64">XDxudW1wcm9jc1w+</entry>
+        <entry encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
