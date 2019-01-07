@@ -24,12 +24,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1546503182581">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1546874957663">
         <mark key="'" line="73" column="37" />
-        <mark key="[" line="100" column="16" />
-        <mark key="]" line="100" column="19" />
-        <mark key="^" line="100" column="19" />
-        <mark key="." line="100" column="19" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Mail/DeployEmail.php" timestamp="1545527012996">
         <mark key="'" line="9" column="29" />
@@ -212,7 +212,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" timestamp="1546867712520">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/CommunityListResource.php" timestamp="1546874333462">
         <mark key="'" line="38" column="50" />
         <mark key="[" line="38" column="112" />
         <mark key="]" line="38" column="113" />
@@ -773,7 +773,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2VzID0gQ29tbXVuaXR5UmVzb3VyY2U6OnNlbGVjdCgnaWQnLCAnbmFtZScsICdjcmVhdGVkX2F0IGFzIHRpbWUnKS0+d2hlcmVJbignaWQnLCAkcmFuZ2UpLT5nZXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>AR730UHu@ngfu</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnbV9jb21tdW5pdHlfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT50b0FycmF5KCk7Cg==</text>
@@ -794,7 +794,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>AR730UHu@ngfu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</text>
