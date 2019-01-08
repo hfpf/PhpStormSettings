@@ -128,6 +128,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/SellingResourceController.php" timestamp="1545191097438">
         <mark key="'" line="454" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/3.9部署流程.md" timestamp="1546947953718" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Http/Middleware/RateLimit.php" timestamp="1544704958154">
         <mark key="'" line="63" column="64" />
       </file>
@@ -550,7 +551,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1546937698629">
         <mark key="'" line="1495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546947749676">
+      <file name="/Dummy.txt" timestamp="1546947783732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
