@@ -481,11 +481,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" timestamp="1545708297270">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V4/ConfigController.php" timestamp="1546400368309">
-        <mark key="'" line="46463" column="25" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/phpunit.xml" timestamp="1544690844752">
         <mark key="'" line="9" column="16" />
         <mark key="[" line="19" column="34" />
@@ -547,7 +542,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1546412670808">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546866919461">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1546929469377" />
+      <file name="/Dummy.txt" timestamp="1546929324519">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -565,11 +561,6 @@
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" timestamp="1546504110241">
-        <mark key="'" line="342" column="0" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="344" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" timestamp="1545401661795">
         <mark key="'" line="321" column="18" />
