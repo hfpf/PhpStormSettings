@@ -122,7 +122,7 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" timestamp="1544685139849">
         <mark key="'" line="258" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Inspire.php" timestamp="1547195446259">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Inspire.php" timestamp="1547204236369">
         <mark key="'" line="32" column="26" />
         <mark key="[" line="32" column="38" />
         <mark key="]" line="32" column="36" />
@@ -255,12 +255,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/mombei/app/Http/Controllers/DeviceController.php" timestamp="1545112784093">
         <mark key="'" line="300" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/channels.php" timestamp="1547203028370">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/channels.php" timestamp="1547204093115">
         <mark key="'" line="13" column="5" />
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="24" />
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="43" />
         <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="24" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" timestamp="1545307236921">
         <mark key="'" line="44" column="26" />
@@ -380,12 +380,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/OrderController.php" timestamp="1547193469316">
         <mark key="'" line="99" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" timestamp="1547203377205">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" timestamp="1547204118951">
         <mark key="'" line="267" column="62" />
-        <mark key="[" line="356" column="42" />
-        <mark key="]" line="356" column="30" />
-        <mark key="." line="356" column="30" />
-        <mark key="^" line="356" column="30" />
+        <mark key="[" line="357" column="44" />
+        <mark key="]" line="357" column="43" />
+        <mark key="." line="357" column="43" />
+        <mark key="^" line="357" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" timestamp="1545401661795">
         <mark key="'" line="321" column="18" />
@@ -538,7 +538,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2VzID0gQ29tbXVuaXR5UmVzb3VyY2U6OnNlbGVjdCgnaWQnLCAnbmFtZScsICdjcmVhdGVkX2F0IGFzIHRpbWUnKS0+d2hlcmVJbignaWQnLCAkcmFuZ2UpLT5nZXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>channel</text>
+        <text>, $orderId</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnbV9jb21tdW5pdHlfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT50b0FycmF5KCk7Cg==</text>
@@ -559,7 +559,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text>, $orderId</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
