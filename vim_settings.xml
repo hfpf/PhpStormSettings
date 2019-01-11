@@ -255,8 +255,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/mombei/app/Http/Controllers/DeviceController.php" timestamp="1545112784093">
         <mark key="'" line="300" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/channels.php" timestamp="1547195315196">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/channels.php" timestamp="1547203028370">
         <mark key="'" line="13" column="5" />
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" timestamp="1545307236921">
         <mark key="'" line="44" column="26" />
@@ -270,12 +274,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/CreatesRequest.php" timestamp="1544688371333">
         <mark key="'" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Events/OrderStatusUpdated.php" timestamp="1547196362409">
-        <mark key="'" line="50" column="27" />
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="34" />
-        <mark key="." line="50" column="34" />
-        <mark key="^" line="50" column="34" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Events/OrderStatusUpdated.php" timestamp="1547203363175">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1545225288168">
         <mark key="'" line="778" column="35" />
@@ -323,12 +327,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/BroadcastServiceProvider.php" timestamp="1546410902424">
         <mark key="'" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" timestamp="1547199999810">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" timestamp="1547202728350">
         <mark key="'" line="381" column="29" />
-        <mark key="[" line="333" column="26" />
-        <mark key="]" line="333" column="24" />
-        <mark key="^" line="333" column="24" />
-        <mark key="." line="333" column="24" />
+        <mark key="[" line="332" column="45" />
+        <mark key="]" line="332" column="34" />
+        <mark key="^" line="332" column="34" />
+        <mark key="." line="332" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/http-foundation/Tests/RequestTest.php" timestamp="1545273833241">
         <mark key="'" line="1141" column="39" />
@@ -376,12 +380,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/OrderController.php" timestamp="1547193469316">
         <mark key="'" line="99" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" timestamp="1547199989514">
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="347" column="62" />
-        <mark key="]" line="347" column="60" />
-        <mark key="." line="347" column="60" />
-        <mark key="^" line="347" column="60" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" timestamp="1547203377205">
+        <mark key="'" line="267" column="62" />
+        <mark key="[" line="356" column="42" />
+        <mark key="]" line="356" column="30" />
+        <mark key="." line="356" column="30" />
+        <mark key="^" line="356" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/ClassLoader.php" timestamp="1545401661795">
         <mark key="'" line="321" column="18" />
@@ -428,7 +432,6 @@
       <file name="$USER_HOME$/code/laravel5.7/app/Providers/BroadcastServiceProvider.php" timestamp="1547195202527" />
     </filemarks>
     <jumps>
-      <jump line="73" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="433" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/orders/payment.blade.php" />
       <jump line="438" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/orders/payment.blade.php" />
       <jump line="581" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/orders/payment.blade.php" />
@@ -528,13 +531,14 @@
       <jump line="24" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="14" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
+      <jump line="267" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2VzID0gQ29tbXVuaXR5UmVzb3VyY2U6OnNlbGVjdCgnaWQnLCAnbmFtZScsICdjcmVhdGVkX2F0IGFzIHRpbWUnKS0+d2hlcmVJbignaWQnLCAkcmFuZ2UpLT5nZXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>192.168.0.196</text>
+        <text>channel</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnbV9jb21tdW5pdHlfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT50b0FycmF5KCk7Cg==</text>
@@ -555,13 +559,13 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.0.196</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVESVNfSE9TVD0xOTIuMTY4LjAuMTk2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWNoby5jaGFubmVsKGBvcmRlci4ke29yZGVySWR9YCkKICAgICAgICAgICAgICAgIC5saXN0ZW4oJy5vcmRlci51cGRhdGVkJywgKGUpID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlLm9yZGVyKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
@@ -612,7 +616,7 @@
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
       <register name="z" type="4">
         <text encoding="base64">LCBbJ3JvbGUnID0+IEVudGVycHJpc2U6OlJPTEVfQURNSU5d</text>
@@ -669,8 +673,8 @@
         <entry>action MethodUp</entry>
         <entry>s</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
