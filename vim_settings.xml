@@ -24,8 +24,8 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1546874957663">
-        <mark key="'" line="73" column="37" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1547188510326">
+        <mark key="'" line="17" column="13" />
         <mark key="[" line="31" column="14" />
         <mark key="]" line="31" column="13" />
         <mark key="^" line="31" column="13" />
@@ -69,8 +69,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/Person.php" timestamp="1545219573686">
         <mark key="'" line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" timestamp="1546411690392">
-        <mark key="'" line="59" column="49" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" timestamp="1547189473522">
+        <mark key="'" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Request/CurlRequest.php" timestamp="1544688415069">
         <mark key="'" line="72" column="30" />
@@ -108,6 +108,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" timestamp="1545401436757">
         <mark key="'" line="47" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/orders/payment.blade.php" timestamp="1547188994836" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" timestamp="1544685139849">
         <mark key="'" line="258" column="14" />
       </file>
@@ -132,8 +133,8 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1545224281148">
         <mark key="'" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php" timestamp="1546411677597">
-        <mark key="'" line="56" column="31" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php" timestamp="1547189419428">
+        <mark key="'" line="56" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1545224087067">
         <mark key="'" line="572" column="28" />
@@ -171,7 +172,7 @@
         <mark key="'" line="23" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1547037279950">
-        <mark key="'" line="373" column="0" />
+        <mark key="'" line="374" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" timestamp="1544771164089">
         <mark key="'" line="61" column="23" />
@@ -230,7 +231,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/mombei/app/Http/Controllers/DeviceController.php" timestamp="1545112784093">
         <mark key="'" line="300" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/channels.php" timestamp="1546412837503">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/channels.php" timestamp="1547189229094">
         <mark key="'" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" timestamp="1545307236921">
@@ -318,7 +319,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1546937698629">
         <mark key="'" line="1495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547100554304">
+      <file name="/Dummy.txt" timestamp="1547189305469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -377,12 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastController.php" />
-      <jump line="56" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php" />
-      <jump line="60" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" />
-      <jump line="59" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" />
-      <jump line="439" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
-      <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
       <jump line="498" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
       <jump line="43" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Http/Request.php" />
       <jump line="64" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Providers/FormRequestServiceProvider.php" />
@@ -477,6 +472,12 @@
       <jump line="34" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="33" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="373" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="25" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
+      <jump line="19" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
+      <jump line="17" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
+      <jump line="56" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php" />
+      <jump line="60" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -507,7 +508,7 @@
         <text>AR730UHu@ngfu</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</text>
+        <text encoding="base64">XDx2YWxpZEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy8nLCAnSG9tZUNvbnRyb2xsZXJAZ2V0SW5kZXgnKTsK</text>
@@ -568,9 +569,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</last-search>
+      <last-search encoding="base64">XDx2YWxpZEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
       <last-dir>1</last-dir>
@@ -578,8 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZGRRdWV1ZWRDb29raWVzVG9SZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxTdGFydFNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxTaGFyZUVycm9yc0Zyb21TZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxWZXJpZnlDc3JmVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxTdWJzdGl0dXRlQmluZGluZ3NcPg==</entry>
@@ -598,6 +597,8 @@
         <entry encoding="base64">XDxudW1wcm9jc1w+</entry>
         <entry encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</entry>
+        <entry>redis</entry>
+        <entry encoding="base64">XDx2YWxpZEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
