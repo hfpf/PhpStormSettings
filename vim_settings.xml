@@ -188,7 +188,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" timestamp="1547019801745">
         <mark key="'" line="33" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/public/index.php" timestamp="1547452407593">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/public/index.php" timestamp="1547453193170">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -213,6 +213,9 @@
         <mark key="'" line="459" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php" timestamp="1547435630824" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResourcePrice.php" timestamp="1547453257427">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php" timestamp="1546410877243">
         <mark key="'" line="18" column="32" />
       </file>
@@ -283,6 +286,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsTo.php" timestamp="1545117974138">
         <mark key="'" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/IndexManagement.php" timestamp="1547453515407" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/predis/predis/src/Client.php" timestamp="1547433936262">
         <mark key="'" line="330" column="47" />
       </file>
@@ -292,7 +296,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php" timestamp="1546589313398">
         <mark key="'" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" timestamp="1545708297270">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" timestamp="1547453214945">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/fzaninotto/faker/src/Faker/Provider/zh_TW/Person.php" timestamp="1545220980156">
@@ -320,7 +324,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/3.7部署流程.md" timestamp="1546660672035">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1547452138469">
+      <file name="/PHP Console" timestamp="1547453403978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_static.php" timestamp="1545401627616">
@@ -335,7 +339,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1546937698629">
         <mark key="'" line="1495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547451777504">
+      <file name="/Dummy.txt" timestamp="1547453264416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -398,8 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
-      <jump line="48" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/MonthlyStatisticSettle.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/Inner/LabelControllerTest.php" />
       <jump line="45" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php" />
       <jump line="88" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php" />
@@ -498,6 +500,8 @@
       <jump line="466" column="1" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
       <jump line="106" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResourcePrice.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
