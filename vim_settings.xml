@@ -191,7 +191,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Request/LushRequest.php" timestamp="1544688395596">
         <mark key="'" line="212" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" timestamp="1547712350648" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" timestamp="1547716996365">
+        <mark key="'" line="134" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/NotUpdatedNotification.php" timestamp="1547634090353">
         <mark key="'" line="92" column="28" />
       </file>
@@ -267,6 +269,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1545224685771">
         <mark key="'" line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_07_31_031746_create_businesses_table.php" timestamp="1547716566599" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendMessage.php" timestamp="1547532744386">
         <mark key="'" line="62" column="75" />
       </file>
@@ -360,7 +363,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1547435249070">
         <mark key="'" line="40" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547710101782">
+      <file name="/Dummy.txt" timestamp="1547716643290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -423,9 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
-      <jump line="172" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
-      <jump line="34" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="33" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="373" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
@@ -523,6 +523,9 @@
       <jump line="92" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/NotUpdatedNotification.php" />
       <jump line="102" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
       <jump line="1600" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" />
+      <jump line="113" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" />
+      <jump line="55" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" />
+      <jump line="134" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -553,7 +556,7 @@
         <text>例如：home</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYW5uZXJfdHlwZV9pZFw+</text>
+        <text encoding="base64">XDxuYXZfc3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IExHIEVORCA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iwo=</text>
@@ -614,17 +617,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYW5uZXJfdHlwZV9pZFw+</last-search>
+      <last-search encoding="base64">XDxuYXZfc3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYW5uZXJfdHlwZV9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxuYXZfc3RhdHVzXD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kT3JkZXJOb3RpZmljdGlvbjJCdXNpbmVzc1w+</entry>
         <entry encoding="base64">XDxwYXltZW50XD4=</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RSYWRpb1w+</entry>
@@ -644,6 +646,7 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxMR1w+</entry>
         <entry encoding="base64">XDxiYW5uZXJfdHlwZV9pZFw+</entry>
+        <entry encoding="base64">XDxuYXZfc3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
