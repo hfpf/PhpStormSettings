@@ -82,6 +82,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/svn/LinhuibaServer/app/Http/Controllers/Api/V1/ThemeController.php" timestamp="1545467204519">
         <mark key="'" line="83" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" timestamp="1547804342321" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithFaker.php" timestamp="1545277929158">
         <mark key="'" line="44" column="28" />
       </file>
@@ -360,6 +361,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_static.php" timestamp="1545401627616">
         <mark key="'" line="475" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_07_31_031746_create_abilities_table.php" timestamp="1547804360743">
+        <mark key="'" line="23" column="29" />
+      </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/fzaninotto/faker/src/Faker/Provider/Base.php" timestamp="1545221060562">
         <mark key="'" line="211" column="36" />
       </file>
@@ -436,7 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="56" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php" />
       <jump line="60" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" />
@@ -536,6 +539,7 @@
       <jump line="55" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" />
       <jump line="134" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" />
       <jump line="20" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserLoginLog.php" />
+      <jump line="23" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_07_31_031746_create_abilities_table.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
