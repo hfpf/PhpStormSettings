@@ -67,7 +67,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" timestamp="1547189473522">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1547864179847">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1547866615281">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="61" column="0" />
@@ -215,9 +215,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/ThemeController.php" timestamp="1547618443777">
         <mark key="'" line="257" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/User.php" timestamp="1545889778207">
-        <mark key="'" line="129" column="25" />
-      </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" timestamp="1545223299503">
         <mark key="'" line="76" column="32" />
       </file>
@@ -364,7 +361,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1547435249070">
         <mark key="'" line="40" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547863040001">
+      <file name="/Dummy.txt" timestamp="1547866604528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
