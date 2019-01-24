@@ -348,6 +348,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1547435640643">
         <mark key="'" line="40" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserReleaseRule.php" timestamp="1548316663800" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/BroadcastServiceProvider.php" timestamp="1546410902424">
         <mark key="'" line="13" column="14" />
       </file>
@@ -385,7 +386,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1547435249070">
         <mark key="'" line="40" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548312990382">
+      <file name="/Dummy.txt" timestamp="1548316610642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -427,6 +428,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/Http/Controllers/OpcacheController.php" timestamp="1544667595610">
         <mark key="'" line="49" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReleaseFollower.php" timestamp="1548316863694">
+        <mark key="'" line="34" column="87" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Searchable.php" timestamp="1547199153472">
         <mark key="'" line="115" column="27" />
       </file>
@@ -450,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/bootstrap.js" />
       <jump line="0" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/orders/payment.blade.php" />
       <jump line="869" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-echo/dist/echo.common.js" />
       <jump line="348" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
@@ -550,6 +553,7 @@
       <jump line="623" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/BusinessController.php" />
       <jump line="142" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" />
       <jump line="645" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" />
+      <jump line="34" column="87" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReleaseFollower.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
