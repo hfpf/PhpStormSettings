@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
@@ -348,7 +348,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1547435640643">
         <mark key="'" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserReleaseRule.php" timestamp="1548316663800" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserReleaseRule.php" timestamp="1548338440811">
+        <mark key="'" line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/BroadcastServiceProvider.php" timestamp="1546410902424">
         <mark key="'" line="13" column="14" />
       </file>
@@ -364,8 +366,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/3.7部署流程.md" timestamp="1546660672035">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" timestamp="1548313827948">
-        <mark key="'" line="645" column="46" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" timestamp="1548339178689">
+        <mark key="'" line="1674" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_static.php" timestamp="1545401627616">
         <mark key="'" line="475" column="45" />
@@ -454,9 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/orders/payment.blade.php" />
-      <jump line="869" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-echo/dist/echo.common.js" />
-      <jump line="348" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
       <jump line="238" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" />
       <jump line="274" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" />
       <jump line="275" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" />
@@ -554,6 +553,9 @@
       <jump line="142" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" />
       <jump line="645" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" />
       <jump line="34" column="87" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReleaseFollower.php" />
+      <jump line="6" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserReleaseRule.php" />
+      <jump line="1604" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" />
+      <jump line="1674" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -584,7 +586,7 @@
         <text>safasdfasdfas</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb2xsb3dlZF9ieVw+</text>
+        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IExHIEVORCA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iwo=</text>
@@ -648,9 +650,9 @@ and the query response time is available with microsecond resolution.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb2xsb3dlZF9ieVw+</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb2xsb3dlZF9ieVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
       <last-dir>1</last-dir>
@@ -658,7 +660,6 @@ and the query response time is available with microsecond resolution.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudW1wcm9jc1w+</entry>
         <entry encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</entry>
         <entry encoding="base64">XDx2YWxpZEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</entry>
@@ -678,6 +679,7 @@ and the query response time is available with microsecond resolution.</text>
         <entry encoding="base64">XDxzeXNfY291bnRcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxmb2xsb3dlZF9ieVw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
@@ -746,6 +748,9 @@ and the query response time is available with microsecond resolution.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
