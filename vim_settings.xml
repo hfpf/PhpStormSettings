@@ -133,8 +133,8 @@
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1547622424274">
-        <mark key="'" line="238" column="38" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1548641749378">
+        <mark key="'" line="153" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/Base.php" timestamp="1545120931787">
         <mark key="'" line="184" column="34" />
@@ -463,8 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" />
-      <jump line="110" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/webpack.mix.js" />
       <jump line="50" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Events/OrderStatusUpdated.php" />
       <jump line="335" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" />
       <jump line="419" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/assets/js/front/vue-page/orderPayment.vue" />
@@ -563,6 +561,8 @@
       <jump line="7" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Controller.php" />
       <jump line="7" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Ability.php" />
       <jump line="17" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="53" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="153" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -593,7 +593,7 @@
         <text>safasdfasdfas</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxXRUxDT01FX1RFWFRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IExHIEVORCA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iwo=</text>
@@ -657,9 +657,9 @@ and the query response time is available with microsecond resolution.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxXRUxDT01FX1RFWFRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxXRUxDT01FX1RFWFRcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>collateral</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +667,6 @@ and the query response time is available with microsecond resolution.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlfaW1nXD4=</entry>
         <entry encoding="base64">XDx2YWxpZEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxqc1w+</entry>
@@ -687,6 +686,7 @@ and the query response time is available with microsecond resolution.</text>
         <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxmb2xsb3dlZF9ieVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxXRUxDT01FX1RFWFRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
