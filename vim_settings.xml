@@ -5,8 +5,8 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1546412324545">
-        <mark key="'" line="639" column="21" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1548762215189">
+        <mark key="'" line="621" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1545397629886">
         <mark key="'" line="30" column="22" />
@@ -17,12 +17,12 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1545307301204">
         <mark key="'" line="700" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1547618529257">
-        <mark key="'" line="30" column="9" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1548761352392">
+        <mark key="'" line="31" column="9" />
         <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="16" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1547432472248">
         <mark key="'" line="17" column="13" />
@@ -58,18 +58,21 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/mombei/app/Models/DeviceCore.php" timestamp="1544680144627">
         <mark key="'" line="292" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Auth/Provider/JWT.php" timestamp="1548762164824">
+        <mark key="'" line="42" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/Person.php" timestamp="1545219573686">
         <mark key="'" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php" timestamp="1547189473522">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1548753543242">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1548756349692">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="248" column="373" />
-        <mark key="]" line="248" column="321" />
-        <mark key="^" line="248" column="321" />
-        <mark key="." line="248" column="321" />
+        <mark key="]" line="91" column="28" />
+        <mark key="^" line="91" column="28" />
+        <mark key="." line="91" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Request/CurlRequest.php" timestamp="1544688415069">
         <mark key="'" line="72" column="30" />
@@ -95,6 +98,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/sql/v3.10.sql" timestamp="1547619189030">
         <mark key="'" line="80" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/jwt.php" timestamp="1548762068119" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/SellingResourceController.php" timestamp="1545191097438">
         <mark key="'" line="454" column="68" />
       </file>
@@ -169,6 +173,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1545224087067">
         <mark key="'" line="572" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.5/app/Http/Kernel.php" timestamp="1548759943884" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserLoginLog.php" timestamp="1547724862003">
         <mark key="'" line="20" column="22" />
       </file>
@@ -193,8 +198,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/OpcacheServiceProvider.php" timestamp="1544597202664">
         <mark key="'" line="23" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1547197535053">
-        <mark key="'" line="186" column="6" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1548759595490">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" timestamp="1544771164089">
         <mark key="'" line="61" column="23" />
@@ -214,6 +223,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/UserController.php" timestamp="1547724753659">
         <mark key="'" line="134" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1548759397382">
+        <mark key="'" line="69" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/NotUpdatedNotification.php" timestamp="1547634090353">
         <mark key="'" line="92" column="28" />
       </file>
@@ -227,8 +239,8 @@
         <mark key="'" line="69" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionRolledBack.php" timestamp="1548733657097" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" timestamp="1547019801745">
-        <mark key="'" line="33" column="49" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" timestamp="1548760111904">
+        <mark key="'" line="29" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Controller.php" timestamp="1548566377352">
         <mark key="'" line="7" column="23" />
@@ -251,6 +263,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendNotification.php" timestamp="1547533236707">
         <mark key="'" line="50" column="84" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" timestamp="1548762426904">
+        <mark key="'" line="107" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResourcePrice.php" timestamp="1547453257427">
         <mark key="'" line="0" column="0" />
       </file>
@@ -263,11 +278,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Console/ImportCommand.php" timestamp="1547199205034">
         <mark key="'" line="42" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.testing" timestamp="1548667672379">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php" timestamp="1545307337424">
         <mark key="'" line="132" column="30" />
       </file>
@@ -277,11 +287,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php" timestamp="1547432791755">
         <mark key="'" line="67" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" timestamp="1548724712834">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="81" column="36" />
-        <mark key="^" line="81" column="36" />
-        <mark key="." line="81" column="36" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" timestamp="1548761871683">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/mombei/app/Http/Controllers/DeviceController.php" timestamp="1545112784093">
         <mark key="'" line="300" column="24" />
@@ -292,6 +302,9 @@
         <mark key="]" line="15" column="43" />
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/api.php" timestamp="1548762132288">
+        <mark key="'" line="170" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php" timestamp="1545307236921">
         <mark key="'" line="44" column="26" />
@@ -308,12 +321,16 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/UserMessageController.php" timestamp="1547887158079">
         <mark key="'" line="59" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1548758134585">
+        <mark key="'" line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/laravel-opcache/src/CreatesRequest.php" timestamp="1544688371333">
         <mark key="'" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/OrderItemController.php" timestamp="1548311748299">
         <mark key="'" line="1637" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/Cors.php" timestamp="1548757016792" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" timestamp="1548724851873">
         <mark key="'" line="82" column="33" />
       </file>
@@ -359,7 +376,7 @@
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" timestamp="1545224374122">
         <mark key="'" line="77" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1547435640643">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1548762313028">
         <mark key="'" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/UserReleaseRule.php" timestamp="1548338440811">
@@ -383,7 +400,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" timestamp="1548339178689">
         <mark key="'" line="1674" column="45" />
       </file>
-      <file name="/PHP Console" timestamp="1548749731711">
+      <file name="/PHP Console" timestamp="1548762435143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_static.php" timestamp="1545401627616">
@@ -406,7 +423,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1547435249070">
         <mark key="'" line="40" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548733673602">
+      <file name="/Dummy.txt" timestamp="1548762361801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
@@ -415,7 +432,7 @@
       <file name="$USER_HOME$/code/laravel.com/resources/views/app.blade.php" timestamp="1545898295102">
         <mark key="'" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/OrderController.php" timestamp="1547193469316">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/OrderController.php" timestamp="1548758538999">
         <mark key="'" line="99" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" timestamp="1548566369250">
@@ -477,28 +494,14 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" timestamp="1545308536865">
         <mark key="'" line="114" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Auth/IlluminateAuthAdapter.php" timestamp="1548762354646">
+        <mark key="'" line="18" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V3/ConfigController.php" timestamp="1544520044186">
         <mark key="'" line="811" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
-      <jump line="14" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
-      <jump line="267" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
-      <jump line="32" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Inspire.php" />
-      <jump line="111" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/layouts/frontend-seo.blade.php" />
-      <jump line="41" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
-      <jump line="19" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
-      <jump line="173" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
-      <jump line="34" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Inspire.php" />
-      <jump line="330" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/predis/predis/src/Client.php" />
-      <jump line="18" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastController.php" />
-      <jump line="498" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
-      <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
-      <jump line="511" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
-      <jump line="85" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" />
-      <jump line="40" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" />
       <jump line="238" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
       <jump line="244" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
       <jump line="247" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
@@ -582,13 +585,30 @@
       <jump line="42" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Jobs/MakeSearchable.php" />
       <jump line="39" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="18" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
+      <jump line="34" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
+      <jump line="64" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" />
+      <jump line="32" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
+      <jump line="6" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerifyCsrfToken.php" />
+      <jump line="4" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerifyCsrfToken.php" />
+      <jump line="69" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" />
+      <jump line="29" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
+      <jump line="170" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/api.php" />
+      <jump line="45" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Auth/Provider/JWT.php" />
+      <jump line="129" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" />
+      <jump line="42" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/dingo/api/src/Auth/Provider/JWT.php" />
+      <jump line="621" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" />
+      <jump line="107" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" />
+      <jump line="38" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Auth/IlluminateAuthAdapter.php" />
+      <jump line="18" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/Providers/Auth/IlluminateAuthAdapter.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2VzID0gQ29tbXVuaXR5UmVzb3VyY2U6OnNlbGVjdCgnaWQnLCAnbmFtZScsICdjcmVhdGVkX2F0IGFzIHRpbWUnKS0+d2hlcmVJbignaWQnLCAkcmFuZ2UpLT5nZXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzo6ZXJyb3IoJ21vZGVscyBpcyBlbXB0eScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>redis</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnbV9jb21tdW5pdHlfcmVzb3VyY2VzLmlkJykKICAgICAgICAgICAgLT50b0FycmF5KCk7Cg==</text>
@@ -609,58 +629,58 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>safasdfasdfas</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmaXhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SE9SSVpPTl9QUkVGSVg9bGluaHVpLmNvbS1ob3Jpem9uLXByZWZpeC0KUkVESVNfUFJFRklYPWxpbmh1aS5jb20tcmVkaXMtcHJlZml4LQo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL2InLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gcmVkaXJlY3QodXJsKCdhcHAvYnVzaW5lc3NfZG93bmxvYWRfYXBwLmh0bWwnKSk7Cn0pOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzo6ZXJyb3IoJ21vZGVscyBpcyBlbXB0eScpOwo=</text>
+        <text encoding="base64">CSAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SE9SSVpPTl9QUkVGSVg9bGFuaGFuYmEubmV0LQo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBUb2tlbk1pc21hdGNoRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzo6ZXJyb3IoJ21vZGVscyBpcyBlbXB0eScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+Cg==</text>
+        <text encoding="base64">SE9SSVpPTl9QUkVGSVg9bGFuaGFuYmEubmV0LQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICNFeHBpcmVzQnlUeXBlIHRleHQvaHRtbCAiYWNjZXNzIHBsdXMgMSBtb250aHMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIHNsb3cgcXVlcnkgbG9nIGlzIHRoZSBsb3dlc3Qtb3ZlcmhlYWQsCmhpZ2hlc3QtZmlkZWxpdHkgd2F5IHRvIG1lYXN1cmUgcXVlcnkgZXhlY3V0aW9uIHRpbWUgaW4gY3VycmVudCB2ZXJzaW9ucyBvZiBNWVNRTC4K</text>
+        <text encoding="base64">Pj4+Pj4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlIHNsb3cgcXVlcnkgbG9nIGlzIHRoZSBsb3dlc3Qtb3ZlcmhlYWQsIApoaWdoZXN0LWZpZGVsaXR5IHdheSB0byBtZWFzdXJlIHF1ZXJ5IGV4ZWN1dGlvbiB0aW1lcyBpbiBjdXJyZW50IHZlcnNpb25zIG9mIE1ZU1FMLgo=</text>
+        <text encoding="base64">ICAgICNFeHBpcmVzQnlUeXBlIHRleHQvaHRtbCAiYWNjZXNzIHBsdXMgMSBtb250aHMiCg==</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SWYgeW91IGFyZSB1c2luZyBQZXJjb25hIFNlcnZlciwKdGhpcyBmdW5jdGlvbmFsaXR5IGlzIGF2YWlsYWJsZSBpbiB2ZXJzaW9uIDUuMCwKYW5kIHRoZSBQZXJjb25hIFNlcnZlciBhZGRzIGEgZ3JlYXQgZGVhbCBtb3JlIGNvbnRyb2wgb3ZlciB0aGUgbG9nJ3MgY29udGVudHMgYW5kIGNhcHR1cmluZyBxdWVyaWVzLgo=</text>
+        <text encoding="base64">VGhlIHNsb3cgcXVlcnkgbG9nIGlzIHRoZSBsb3dlc3Qtb3ZlcmhlYWQsCmhpZ2hlc3QtZmlkZWxpdHkgd2F5IHRvIG1lYXN1cmUgcXVlcnkgZXhlY3V0aW9uIHRpbWUgaW4gY3VycmVudCB2ZXJzaW9ucyBvZiBNWVNRTC4K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SWYgeW91IGFyZSB1c2luZyBQZXJjb25hIFNlcnZlciwKdGhpcyBmdW5jdGlvbmFsaXR5IGlzIGF2YWlsYWJsZSBpbiB2ZXJzaW9uIDUuMCwKYW5kIFBlcmNvbmEgU2VydmVyIGFkZHMgYSBncmVhdCBkZWFsIG1vcmUgY29udHJvbCBvdmVyIHRoZSBsb2cncyBjb250ZW50cyBhbmQgY2FwdHVyaW5nIHF1ZXJpZXMuCg==</text>
+        <text encoding="base64">VGhlIHNsb3cgcXVlcnkgbG9nIGlzIHRoZSBsb3dlc3Qtb3ZlcmhlYWQsIApoaWdoZXN0LWZpZGVsaXR5IHdheSB0byBtZWFzdXJlIHF1ZXJ5IGV4ZWN1dGlvbiB0aW1lcyBpbiBjdXJyZW50IHZlcnNpb25zIG9mIE1ZU1FMLgo=</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
