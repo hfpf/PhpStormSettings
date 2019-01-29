@@ -74,6 +74,7 @@
         <mark key="^" line="91" column="28" />
         <mark key="." line="91" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/Inner/Crm/DataControllerTest.php" timestamp="1548769013303" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Request/CurlRequest.php" timestamp="1544688415069">
         <mark key="'" line="72" column="30" />
       </file>
@@ -420,7 +421,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1547435249070">
         <mark key="'" line="40" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548767527015">
+      <file name="/Dummy.txt" timestamp="1548769013893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
