@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Request/CurlRequest.php" timestamp="1544688415069">
         <mark key="'" line="72" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/DataController.php" timestamp="1548807948741">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/DataController.php" timestamp="1548813340225">
         <mark key="'" line="78" column="45" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="16" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="35" />
+        <mark key="^" line="56" column="35" />
+        <mark key="." line="56" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1544773695067">
         <mark key="'" line="32" column="46" />
@@ -438,7 +438,7 @@
         <mark key="]" line="1593" column="34" />
         <mark key="." line="1593" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548808241352">
+      <file name="/Dummy.txt" timestamp="1548813672539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
