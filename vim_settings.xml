@@ -97,6 +97,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1544773695067">
         <mark key="'" line="32" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/issue_templates/Bug.md" timestamp="1548905120988">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="86" column="10" />
+        <mark key="^" line="86" column="10" />
+        <mark key="." line="86" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/svn/LinhuibaServer/app/Http/Controllers/Api/V1/ThemeController.php" timestamp="1545467204519">
         <mark key="'" line="83" column="20" />
       </file>
@@ -185,6 +191,12 @@
         <mark key="'" line="56" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/queue.php" timestamp="1548665922660" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/database.php" timestamp="1548667596196">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="118" column="9" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1545224087067">
         <mark key="'" line="572" column="28" />
       </file>
@@ -318,7 +330,6 @@
         <mark key="'" line="67" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" timestamp="1548767519833">
-        <mark key="'" line="77" column="13" />
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="19" />
@@ -467,8 +478,9 @@
         <mark key="]" line="1593" column="34" />
         <mark key="." line="1593" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548846161054">
+      <file name="/Dummy.txt" timestamp="1548905395945">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Factory.php" timestamp="1545120436438">
         <mark key="'" line="18" column="30" />
