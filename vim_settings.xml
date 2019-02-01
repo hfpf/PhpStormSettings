@@ -346,6 +346,13 @@
       <file name="$USER_HOME$/code/laravel5.7/resources/views/layouts/app.blade.php" timestamp="1546419191186">
         <mark key="'" line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/UserMessageController.php" timestamp="1549002583745">
+        <mark key="'" line="59" column="16" />
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+        <mark key="." line="69" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1548758134585">
         <mark key="'" line="4" column="48" />
       </file>
@@ -448,7 +455,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1547435249070">
         <mark key="'" line="40" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548990534678">
+      <file name="/Dummy.txt" timestamp="1549002450337">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
