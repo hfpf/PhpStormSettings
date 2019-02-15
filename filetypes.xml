@@ -1,14 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.integration" type="PLAIN_TEXT" />
-      <mapping pattern="new_shared_community_resource_data_40" type="PLAIN_TEXT" />
-      <mapping pattern="LinhuibaServer" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
-      <mapping pattern="apidoc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="new_shared_community_resource_data_40" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
+      <mapping pattern="LinhuibaServer" type="PLAIN_TEXT" />
+      <mapping pattern=".env.integration" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="new_registered_selling_resource_data_45" type="PLAIN_TEXT" />
+      <mapping pattern="apidoc" type="PLAIN_TEXT" />
+      <mapping pattern="new_registered_physical_resource_data_45" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
     </extensionMap>
