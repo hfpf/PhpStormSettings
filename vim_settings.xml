@@ -52,6 +52,9 @@
         <mark key="^" line="135" column="22" />
         <mark key="." line="135" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/PhysicalResource.php" timestamp="1551771539679">
+        <mark key="'" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/scrapy.sql" timestamp="1551249961250">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -67,15 +70,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/addlabel.sql" timestamp="1551249891470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Engines/ElasticsearchEngine.php" timestamp="1550717933776">
-        <mark key="'" line="247" column="43" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Engines/ElasticsearchEngine.php" timestamp="1551771802527">
+        <mark key="'" line="45" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
-      <jump line="9" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Controller.php" />
-      <jump line="7" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Controller.php" />
-      <jump line="7" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Ability.php" />
       <jump line="17" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="53" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="153" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
@@ -172,6 +171,10 @@
       <jump line="31" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/V1/StoreBrowseHistoryPostRequest.php" />
       <jump line="27" column="69" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/V1/StoreBrowseHistoryPostRequest.php" />
       <jump line="144" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" />
+      <jump line="20" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/PhysicalResource.php" />
+      <jump line="21" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/PhysicalResource.php" />
+      <jump line="375" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Engines/ElasticsearchEngine.php" />
+      <jump line="45" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Engines/ElasticsearchEngine.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
