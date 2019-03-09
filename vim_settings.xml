@@ -25,6 +25,7 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/BrowseHistoryControllerTest.php" timestamp="1552123389871" />
       <file name="/PHP Console" timestamp="1551872814056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,7 +46,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ListResourceService.php" timestamp="1550800490712">
         <mark key="'" line="702" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552114540635">
+      <file name="/Dummy.txt" timestamp="1552122752009">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
@@ -77,8 +78,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/SellingResourceController.php" timestamp="1551082795688">
         <mark key="'" line="1382" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" timestamp="1551409226655">
-        <mark key="'" line="33" column="39" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" timestamp="1552124281268">
+        <mark key="'" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1551864578268">
         <mark key="'" line="17" column="12" />
@@ -102,8 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Jobs/MakeSearchable.php" />
-      <jump line="52" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" />
       <jump line="51" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" />
       <jump line="68" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" />
       <jump line="82" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" />
@@ -202,6 +201,8 @@
       <jump line="850" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V3/OrderController.php" />
       <jump line="645" column="57" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/InvoiceOrderController.php" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" />
+      <jump line="39" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" />
+      <jump line="68" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -232,7 +233,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyc3luY1w+</text>
+        <text encoding="base64">XDxzb3VyY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I01FUkNIQU5UX1BSSVZBVEVfS0VZPU1JSUVwUUlCQUFLQ0FRRUExcEwzSEFhb21DbHpySlBPWlpiTDdXRmxkRHlITlRxSUNYSkZXcDFmMHVQcEpnYVhEQ00xbDZCN1RyRHUwc29qZlN2YUdCTGwvbEJva3lTdGh2RDdoQ2IzSFdpYnB1c2x0aDU3cGRiRDRNbG1KUzV6NDg1SU00bGtiMklzZVFMVE1RT29LZEQrUHVqdG9JYUxqaUhXd1AyT2VQd2dVQ0M3RDkyVVZKN24xQlp6U0dhdktGdHZtUWk3UDQ2T2lQZ2V4U3JYZ09zVEdHRUFSQmd6dXgvcWF0UEFVb3IrTXpBNVNvb1RlZkdmV2J0bEtRbS9KQ3BHUktNV29ObzY3VldUOTgzWW1VT3hiWjNBeUc5eXVDUDc4VU81VDJILzU5U2JNNm5PZDY0bFVlVTdDQ3UrV2VxT1oxVElLS2tiaVNYRXJRM0ZrQTE3Wnh4WG1HOHVJRGdjaHdJREFRQUJBb0lCQVFDb05OZFArZ3hLRkJ5Z3lkRi9vOEhER1ptOWtBRnlBYXRJdEhLWHdVeXY5b2Y3amlqMGs5bGNQcXJMR2pwdHRaWXlkcURtUkZKVmxWVVZIQ2lINHZ0WU1tOS9kMVNsZWlxNjVKU0xnWnRWNkt1Uk5DUVhEY3RkMHpPUGVVZGhxWXhESFJuRGhoajQyZ0lGMTlNb25YQkxJN2wvTUM1b2dmQUNWUElGai9ndU1lZS85Qm51cTFSSUxuUm9YSFFDN2tsSGxldFdlZ2t4QVZGV2ZkbS9DaUhJdjQ3OVdUa0x0ajNNYXhNRmIwVkliSHJDdXdMS2pCd0tpWUJ5QW40RXgva2NWQTFOQnFGRUZ4akZRS3BCL3JWRWw5OFk3ODlFM1dVWXR0MU5uM2kzQ1A3a2IycUZlSUxGQzBSaUlwc2preUNKZ2hoRzNHekVPeGZiR0ZzeTQ5NXBBb0dCQU92RWxZYUsyRWV5c2dDWExkL3o5Q1NpUUUwa2VWNjFLUHZXNUw2YWIxVy92YTU4K3lXVWFpTHlrLzN1Y2pzSUw3RWZxaS9xYVJQdnZrSUE3VEVyOXBGZ2dramttU3REVmRhTkJsUThCYXhEK05adDJzMEFoYlFJdng4WjZpbzhJYXViOGkyRnRFaEdvOU5pblQ5TU5wY2NySVVSTTdlY0JtUCticVVqMzNoTkFvR0JBT2o4eWc3NVhMRk1McGZuQmpSUUprRCtyZFZXZmgwbmZ0TFZBQkpzOUdlZ3V0cE44d2tCVWcwa1NkeFJabFY4V3dkWnpmUmN0S2xZdW1GNGdzNWFIbngzeVh1WlhCc01OUGNtc3dFRnNYOHhhUVpZZ0g3bnlJUjhBVGtRTFVkNTgvSDZqb3pzUVRJR0RWYVhucnltYkNLa3BIa203c0ZEZi9nQmJYSkZxbElqQW9HQkFKa0V5dU02cENyTW9OamZSZWZ2Wm9xTVA5MlJpYkJkTmM5VjVycUtjeTRkTnhmVGlCRVk1Vlh2U1B2clVYcGMwczlMdE9KS2FvNkU4Ri9ZU0JtODVkZnU0a0E3RmVwTlZwM2NnN29TQnNDS2tTdGl1enFJVno3RTJuNXVERndERVB0WFNIUWhMaVFtck5kYVRxS3hiVkRnVEZ4RkVPTGZRZ3FPTFBQRGQ1dVZBb0dBUkZQK25pMmJkWk8yQm02R2Iwa2lMdVdCN1pNVUlWQzM3UFR5dEhTbnFNeUdnQWRrUXp2VDZHN0FDcEVFeGdWV1hPMkZiU2pUQXVjMm9lZEoxV0t3bGlnN09yaGJQc054dFJud1hWaGlHYjlQNGNDS3pxMERMWGVBbEUrZU45d1lJdHNzZXorK1R3RmZZQW5QVDl3dTBtb2Vvams4eEFrYnVvd1FvUGExWUtrQ2dZRUFpV3M5TjNxUGlhQ2piQU82RjRYR2I0dzV4ZmZOODNmMGU4cWhFYlhhaUk0YWVjcGFRZ3lBcDVlZHE0UUEwSlJ2bUxZRkhtNVRqMkQxL0h3SUVBNURwS280MkR1ZlRtTlc5QmE4LzY2SFFXL1pvR0IzclRkWEprNThrVnY3QmtrY1ZIenBNQTlrTnRyVlZILzdKZVhaSWorOTdUUEo2N0NPN1FMQjM4SDNkUlU9Cg==</text>
@@ -293,17 +294,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyc3luY1w+</last-search>
+      <last-search encoding="base64">XDxzb3VyY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyc3luY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzb3VyY2VcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>REDIS</entry>
         <entry>redis</entry>
         <entry encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</entry>
         <entry encoding="base64">XDxiYW5uZXJzXD4=</entry>
@@ -323,6 +323,7 @@
         <entry encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</entry>
         <entry encoding="base64">XDxwYXlfbW9kZVw+</entry>
         <entry encoding="base64">XDxyc3luY1w+</entry>
+        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
