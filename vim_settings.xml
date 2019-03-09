@@ -15,6 +15,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/OfflineTransaction.php" timestamp="1552035042455" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_06_112849__add_lng_lat_into_physical_resources.php" timestamp="1552130811273" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CommunityService.php" timestamp="1550717800750">
         <mark key="'" line="1690" column="36" />
       </file>
@@ -46,7 +47,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ListResourceService.php" timestamp="1550800490712">
         <mark key="'" line="702" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552122752009">
+      <file name="/Dummy.txt" timestamp="1552130903080">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
