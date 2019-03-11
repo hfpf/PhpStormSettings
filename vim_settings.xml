@@ -20,18 +20,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CommunityService.php" timestamp="1550717800750">
         <mark key="'" line="1690" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.testing" timestamp="1551778638430">
-        <mark key="'" line="82" column="1" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/BrowseHistoryControllerTest.php" timestamp="1552123389871" />
       <file name="/PHP Console" timestamp="1551872814056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/InvoiceOrderController.php" timestamp="1552272350571">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/InvoiceOrderController.php" timestamp="1552285260237">
         <mark key="'" line="650" column="19" />
         <mark key="[" line="650" column="21" />
         <mark key="]" line="650" column="22" />
@@ -92,13 +85,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1551864578268">
         <mark key="'" line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/PhysicalResource.php" timestamp="1551791005488">
-        <mark key="'" line="394" column="8" />
-        <mark key="[" line="394" column="5" />
-        <mark key="]" line="394" column="18" />
-        <mark key="^" line="394" column="18" />
-        <mark key="." line="394" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1552272340006" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/scrapy.sql" timestamp="1551873083007">
