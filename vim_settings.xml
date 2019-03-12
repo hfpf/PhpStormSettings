@@ -31,16 +31,8 @@
         <mark key="^" line="650" column="22" />
         <mark key="." line="650" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1552015561955">
-        <mark key="[" line="62" column="1" />
-        <mark key="]" line="62" column="1" />
-        <mark key="." line="62" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/TransactionController.php" timestamp="1552034444488">
-        <mark key="[" line="75" column="94" />
-        <mark key="]" line="75" column="92" />
-        <mark key="^" line="75" column="92" />
-        <mark key="." line="75" column="92" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1552377131336">
+        <mark key="'" line="1108" column="201" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/3.10.1部署流程.md" timestamp="1552373713878">
         <mark key="'" line="47" column="31" />
@@ -48,7 +40,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ListResourceService.php" timestamp="1550800490712">
         <mark key="'" line="702" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552373714660">
+      <file name="/Dummy.txt" timestamp="1552377076806">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
@@ -86,20 +78,23 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1551864578268">
         <mark key="'" line="17" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/psr/container/src/ContainerInterface.php" timestamp="1552377116701" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php" timestamp="1552377093389">
+        <mark key="'" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1552272340006" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/IndexManagement.php" timestamp="1552373920537">
         <mark key="'" line="43" column="91" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1552377091123">
+        <mark key="'" line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" timestamp="1552376973796" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Admin/ProfileController.php" timestamp="1551082693121">
         <mark key="'" line="103" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
-      <jump line="18" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
-      <jump line="34" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
-      <jump line="64" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" />
       <jump line="32" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="6" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerifyCsrfToken.php" />
       <jump line="4" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerifyCsrfToken.php" />
@@ -195,6 +190,11 @@
       <jump line="351" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="43" column="91" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/IndexManagement.php" />
       <jump line="441" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="24" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
+      <jump line="12" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
+      <jump line="10" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
+      <jump line="7" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php" />
+      <jump line="1108" column="201" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
