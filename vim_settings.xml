@@ -37,11 +37,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php" timestamp="1552378072005">
         <mark key="'" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1552534096393">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/ES常用指令.sh" timestamp="1552535768650">
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="68" column="6" />
+        <mark key="." line="68" column="6" />
+        <mark key="^" line="68" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/TmallServiceProvider.php" timestamp="1552384537081">
         <mark key="'" line="26" column="32" />
@@ -283,8 +283,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRob3N0cwogICAgICogQHJldHVybiAkdGhpcwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0SG9zdHMoJGhvc3RzKQogICAgewogICAgICAgICR0aGlzLT5ob3N0cyA9ICRob3N0czsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">5oiR5Lus5bCG6ZiQ6L+w5LiA5Liq5L2g5Y+v5Lul5Li6TXlTUUzmnI3liqHlmajliJvlu7rkuIDkuKrlpb3nmoTphY3nva7mlofku7bnmoTmlrnlvI8K</text>
+      <register name="&quot;" type="4">
+        <text>one</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIC8qKiBAdmFyIGFycmF5ICovCiAgICBwcml2YXRlICRob3N0czsK</text>
@@ -305,7 +305,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>Connection</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VcPg==</text>
