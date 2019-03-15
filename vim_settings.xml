@@ -152,7 +152,7 @@
         <mark key="'" line="590" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/BrowseHistoryControllerTest.php" timestamp="1552123389871" />
-      <file name="/PHP Console" timestamp="1552647000906">
+      <file name="/PHP Console" timestamp="1552649202383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasGlobalScopes.php" timestamp="1552634375884">
@@ -208,8 +208,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1552378120416">
         <mark key="'" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Traits/Macroable.php" timestamp="1552648314404">
-        <mark key="'" line="101" column="51" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Traits/Macroable.php" timestamp="1552649244799">
+        <mark key="'" line="101" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/Resource.php" timestamp="1552383217575">
         <mark key="'" line="2" column="15" />
@@ -314,8 +314,8 @@
       <jump line="8" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php" />
       <jump line="25" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Searchable.php" />
       <jump line="586" column="13" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" />
-      <jump line="101" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Traits/Macroable.php" />
       <jump line="41" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Searchable.php" />
+      <jump line="101" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Traits/Macroable.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
