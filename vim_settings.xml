@@ -8,6 +8,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1552636287282">
         <mark key="'" line="495" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Syncer/composer.json" timestamp="1552722582695">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/config/scout.php" timestamp="1552650227368" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1552110861931">
         <mark key="'" line="35" column="6" />
@@ -224,6 +230,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" timestamp="1552124281268">
         <mark key="'" line="68" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V2/CommunityControllerTest.php" timestamp="1552379924305">
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="86" column="3" />
+        <mark key="^" line="86" column="3" />
+        <mark key="." line="86" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Scope.php" timestamp="1552468823285" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Searchable.php" timestamp="1552720805153">
