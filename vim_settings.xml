@@ -142,7 +142,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Ping.php" timestamp="1552878456110">
         <mark key="'" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1552879114242">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1552880397039">
         <mark key="'" line="97" column="58" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Syncer/src/Servers/Server.php" timestamp="1552876341292">
@@ -253,8 +253,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/IndexManagement.php" timestamp="1552443243907">
         <mark key="'" line="43" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" timestamp="1552878388020">
-        <mark key="'" line="27" column="27" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" timestamp="1552880464354">
+        <mark key="'" line="156" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Admin/ProfileController.php" timestamp="1551082693121">
         <mark key="'" line="103" column="37" />
@@ -277,8 +277,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" timestamp="1552380776539">
         <mark key="'" line="75" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1552878367318">
-        <mark key="'" line="545" column="39" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1552880622098">
+        <mark key="'" line="529" column="40" />
         <mark key="[" line="436" column="0" />
         <mark key="]" line="535" column="4" />
       </file>
@@ -363,8 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="415" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="34" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/SearchableScope.php" />
       <jump line="20" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/PhysicalResource.php" />
       <jump line="41" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
@@ -449,7 +447,6 @@
       <jump line="265" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="515" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="518" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="534" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="539" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="543" column="67" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="545" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
@@ -463,6 +460,9 @@
       <jump line="138" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="13" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Ping.php" />
       <jump line="97" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
+      <jump line="156" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" />
+      <jump line="534" column="80" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="529" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
