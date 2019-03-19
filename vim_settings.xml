@@ -18,8 +18,8 @@
       <file name="/LinhuiData.php" timestamp="1552893690372">
         <mark key="'" line="55" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1552899775270">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1552961665082">
+        <mark key="'" line="97" column="16" />
         <mark key="[" line="97" column="12" />
         <mark key="]" line="97" column="16" />
         <mark key="^" line="97" column="16" />
@@ -358,7 +358,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tp/thinkphp/base.php" timestamp="1552904718802" />
     </filemarks>
     <jumps>
-      <jump line="44" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/EngineManager.php" />
       <jump line="56" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Manager.php" />
       <jump line="18" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/EngineManager.php" />
       <jump line="20" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/EngineManager.php" />
@@ -458,6 +457,7 @@
       <jump line="459" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="15" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tp/public/index.php" />
       <jump line="14" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" />
+      <jump line="97" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
     </jumps>
     <registers>
       <register name="a" type="2">
