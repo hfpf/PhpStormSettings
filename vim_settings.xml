@@ -8,6 +8,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1552636287282">
         <mark key="'" line="495" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Serializers/SmartSerializer.php" timestamp="1553062292015">
+        <mark key="'" line="56" column="32" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/Syncer/composer.json" timestamp="1552986630164">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="5" />
@@ -31,14 +36,25 @@
         <mark key="^" line="97" column="16" />
         <mark key="." line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" timestamp="1553052747072">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="25" column="3" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" timestamp="1553062525187">
+        <mark key="'" line="120" column="53" />
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_06_112849__add_lng_lat_into_physical_resources.php" timestamp="1552130811273" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/ConnectionFactoryInterface.php" timestamp="1553062797579">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="38" column="40" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/Syncer/src/Syncer.php" timestamp="1552875828276">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasTimestamps.php" timestamp="1552635156347">
         <mark key="'" line="92" column="47" />
       </file>
@@ -50,6 +66,13 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/SearchableScope.php" timestamp="1552643065104">
         <mark key="'" line="36" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1552906544657">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/mockery/mockery/library/Mockery.php" timestamp="1552381007221">
         <mark key="'" line="174" column="49" />
@@ -155,8 +178,14 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/OfflineTransaction.php" timestamp="1552035042455" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1552383160194" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/guzzle/README.md" timestamp="1552384200059" />
+      <file name="$USER_HOME$/PhpstormProjects/Syncer/src/Services/Service.php" timestamp="1552875942704">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1552975796286" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/Middleware.php" timestamp="1552988196041" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/Middleware.php" timestamp="1553061218156" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/composer.json" timestamp="1552982001401" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php" timestamp="1552651445599" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Ping.php" timestamp="1552878456110">
@@ -202,8 +231,18 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="58" column="4" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Syncer/src/Services/NullService.php" timestamp="1552875845737">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1552380576209" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/ConnectionFactory.php" timestamp="1552980116158" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/ConnectionFactory.php" timestamp="1553062924529">
+        <mark key="'" line="16" column="49" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="31" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/Syncer/src/Servers/NullServer.php" timestamp="1552876337350">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="31" />
@@ -229,6 +268,13 @@
         <mark key="'" line="42" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Core.php" timestamp="1552980744004" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.testing" timestamp="1551778638430">
+        <mark key="'" line="82" column="1" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/EngineManager.php" timestamp="1552875456257">
         <mark key="'" line="10" column="30" />
         <mark key="[" line="37" column="0" />
@@ -249,6 +295,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/CompletedFutureValue.php" timestamp="1552982841490">
         <mark key="'" line="9" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Serializers/SerializerInterface.php" timestamp="1553062789183">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/TransactionController.php" timestamp="1552034444488">
         <mark key="[" line="75" column="94" />
         <mark key="]" line="75" column="92" />
@@ -258,6 +310,13 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/部署文档/3.10.1部署流程.md" timestamp="1552442907326">
         <mark key="'" line="47" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Connections/ConnectionFactoryInterface.php" timestamp="1553062821936">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1552634967229">
         <mark key="'" line="156" column="57" />
       </file>
@@ -266,6 +325,10 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1552635203296">
         <mark key="'" line="781" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Serializers/SerializerInterface.php" timestamp="1553062782303">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" timestamp="1552877449003">
         <mark key="'" line="257" column="24" />
@@ -324,17 +387,24 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" timestamp="1552380776539">
         <mark key="'" line="75" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1553052827413">
-        <mark key="'" line="184" column="40" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="89" column="35" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Connections/ConnectionFactory.php" timestamp="1553062931321">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="38" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1553062526696">
+        <mark key="'" line="500" column="56" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1552637394967">
         <mark key="'" line="590" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Bus/composer.json" timestamp="1552724056099" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/BrowseHistoryControllerTest.php" timestamp="1552123389871" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/composer.json" timestamp="1552987318892">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/composer.json" timestamp="1553062230856">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="0" />
@@ -361,7 +431,7 @@
         <mark key="'" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1552720103006" />
-      <file name="/Dummy.txt" timestamp="1552987002670">
+      <file name="/Dummy.txt" timestamp="1553062854536">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
@@ -382,11 +452,23 @@
         <mark key="." line="41" column="49" />
         <mark key="^" line="41" column="49" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Syncer/src/Servers/TMallServer.php" timestamp="1552974973375">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" timestamp="1550718085741">
         <mark key="'" line="1034" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" timestamp="1552124281268">
         <mark key="'" line="68" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V2/CommunityControllerTest.php" timestamp="1552379924305">
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="86" column="3" />
+        <mark key="^" line="86" column="3" />
+        <mark key="." line="86" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/LinhuiData.php" timestamp="1552893874794">
         <mark key="'" line="57" column="81" />
@@ -401,6 +483,13 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/FutureArrayInterface.php" timestamp="1552982854441">
         <mark key="'" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Serializers/SmartSerializer.php" timestamp="1553062603218">
+        <mark key="'" line="6" column="5" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/CurlMultiHandler.php" timestamp="1552979718399">
         <mark key="'" line="219" column="51" />
@@ -426,26 +515,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tp/thinkphp/base.php" timestamp="1552904718802" />
     </filemarks>
     <jumps>
-      <jump line="100" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="119" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="136" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="181" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="15" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Delete.php" />
-      <jump line="138" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="13" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Ping.php" />
-      <jump line="97" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="156" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" />
-      <jump line="534" column="80" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="529" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="1114" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DebitController.php" />
-      <jump line="17" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="26" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="35" column="66" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="36" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="27" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php" />
-      <jump line="55" column="62" filename="/LinhuiData.php" />
-      <jump line="56" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/LinhuiData.php" />
-      <jump line="1458" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="57" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/LinhuiData.php" />
       <jump line="250" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
@@ -466,7 +535,6 @@
       <jump line="293" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="296" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="298" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="470" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="467" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="466" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="460" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
@@ -491,7 +559,6 @@
       <jump line="196" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/CurlMultiHandler.php" />
       <jump line="210" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/CurlMultiHandler.php" />
       <jump line="219" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/CurlMultiHandler.php" />
-      <jump line="500" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="201" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" />
       <jump line="18" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/FutureInterface.php" />
       <jump line="10" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/FutureArrayInterface.php" />
@@ -525,14 +592,36 @@
       <jump line="454" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="444" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="175" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="184" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="184" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="470" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="16" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Serializers/SmartSerializer.php" />
+      <jump line="56" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Serializers/SmartSerializer.php" />
+      <jump line="474" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="461" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="57" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="6" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Serializers/SmartSerializer.php" />
+      <jump line="1" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="473" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="88" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="185" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="479" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="23" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="120" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
+      <jump line="500" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="18" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Connections/ConnectionFactoryInterface.php" />
+      <jump line="28" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/ConnectionFactoryInterface.php" />
+      <jump line="29" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/ConnectionFactoryInterface.php" />
+      <jump line="16" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/ConnectionFactory.php" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/Connections/ConnectionFactory.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRob3N0cwogICAgICogQHJldHVybiAkdGhpcwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0SG9zdHMoJGhvc3RzKQogICAgewogICAgICAgICR0aGlzLT5ob3N0cyA9ICRob3N0czsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIG51bGx8Ym9vbHxzdHJpbmcgKi8KICAgIHByaXZhdGUgJHNzbFZlcmlmaWNhdGlvbiA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIC8qKiBAdmFyIGFycmF5ICovCiAgICBwcml2YXRlICRob3N0czsK</text>
@@ -553,13 +642,13 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbGFzdGljQnVpbGRlclw+</text>
+        <text encoding="base64">XDxjb25uZWN0aW9uRmFjdG9yeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIG51bGx8Ym9vbHxzdHJpbmcgKi8KICAgIHByaXZhdGUgJHNzbFZlcmlmaWNhdGlvbiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyICBhcnJheSAqLwogICAgcHJpdmF0ZSAkY29ubmVjdGlvblBhcmFtczsKCiAgICAvKiogQHZhciAgU2VyaWFsaXplckludGVyZmFjZSAqLwogICAgcHJpdmF0ZSAkc2VyaWFsaXplcjsKCiAgICAvKiogQHZhciAgTG9nZ2VySW50ZXJmYWNlICovCiAgICBwcml2YXRlICRsb2dnZXI7CgogICAgLyoqIEB2YXIgIExvZ2dlckludGVyZmFjZSAqLwogICAgcHJpdmF0ZSAkdHJhY2VyOwoKICAgIC8qKiBAdmFyIGNhbGxhYmxlICovCiAgICBwcml2YXRlICRoYW5kbGVyOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
@@ -571,7 +660,7 @@
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHBcUHJvdmlkZXJzOwoKdXNlIEFwcFxFeGNlcHRpb25zXEN1c3RvbUV4Y2VwdGlvbjsKdXNlIEFwcFxFeGNlcHRpb25zXFJlcXVlc3RFeGNlcHRpb247CnVzZSBJbGx1bWluYXRlXEh0dHBcUmVzb3VyY2VzXEpzb25cUmVzb3VyY2U7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcQXJyOwp1c2UgUmVxdWVzdDsKdXNlIEFwcFxNb2RlbHNcQ29tbW9uXENvbW1vblZhbHVlOwp1c2UgQXBwXFNlcnZpY2VzXEVuZ2luZXNcRWxhc3RpY3NlYXJjaEVuZ2luZTsKdXNlIEFwcFxWYWxpZGF0b3JzXEN1c3RvbVZhbGlkYXRvcjsKdXNlIEFwcFxWYWxpZGF0b3JzXE1vYmlsZVZhbGlkYXRvcjsKdXNlIERpbmdvXEFwaVxFeGNlcHRpb25cUmF0ZUxpbWl0RXhjZWVkZWRFeGNlcHRpb247CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xBcHA7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xEQjsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlc3BvbnNlOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcVmFsaWRhdG9yOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XFNlcnZpY2VQcm92aWRlcjsKdXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxWYWxpZGF0aW9uRXhjZXB0aW9uOwp1c2UgTGFyYXZlbFxTY291dFxFbmdpbmVNYW5hZ2VyOwp1c2UgU3ltZm9ueVxDb21wb25lbnRcSHR0cEtlcm5lbFxFeGNlcHRpb25cSHR0cEV4Y2VwdGlvbjsKdXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBLZXJuZWxcRXhjZXB0aW9uXE1ldGhvZE5vdEFsbG93ZWRIdHRwRXhjZXB0aW9uOwp1c2UgU3ltZm9ueVxDb21wb25lbnRcSHR0cEtlcm5lbFxFeGNlcHRpb25cTm90Rm91bmRIdHRwRXhjZXB0aW9uOwp1c2UgTW9ub2xvZ1xMb2dnZXI7CnVzZSBNb25vbG9nXEhhbmRsZXJcUm90YXRpbmdGaWxlSGFuZGxlcjsKdXNlIEVsYXN0aWNzZWFyY2hcQ2xpZW50QnVpbGRlciBhcyBFbGFzdGljQnVpbGRlcjsKCmNsYXNzIEFwcFNlcnZpY2VQcm92aWRlciBleHRlbmRzIFNlcnZpY2VQcm92aWRlcgp7CiAgICAvKioKICAgICAqIEJvb3RzdHJhcCBhbnkgYXBwbGljYXRpb24gc2VydmljZXMuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBib290KCkKICAgIHsKICAgICAgICBSZXNvdXJjZTo6d2l0aG91dFdyYXBwaW5nKCk7IC8vIOemgeeUqOmhtuWxgui1hOa6kOeahOWMheijuQogICAgICAgIGlmICghQXBwOjplbnZpcm9ubWVudCgncHJvZHVjdGlvbicpKSB7CiAgICAgICAgICAgIC8vIOazqOWGjOaVsOaNruW6k+afpeivouebkeWQrAogICAgICAgICAgICBEQjo6bGlzdGVuKGZ1bmN0aW9uICgkZXZlbnQpIHsKLy8gICAgICAgICAgICAgICAgTG9nOjppbmZvKCR0aW1lLicgICAgICAnLiRzcWwpOwogICAgICAgICAgICB9KTsKICAgICAgICB9CgogICAgICAgIGFwcCgnRGluZ29cQXBpXEV4Y2VwdGlvblxIYW5kbGVyJyktPnJlZ2lzdGVyKGZ1bmN0aW9uIChWYWxpZGF0aW9uRXhjZXB0aW9uICRleGNlcHRpb24pIHsKCiAgICAgICAgICAgICRmYWlsUnVsZSA9ICRleGNlcHRpb24tPnZhbGlkYXRvci0+ZmFpbGVkKCk7CiAgICAgICAgICAgIGlmIChjb3VudCgkZmFpbFJ1bGUpID09IDEpIHsKICAgICAgICAgICAgICAgICRoYXNFeGlzdHMgPSBhcnJheV9oYXMoaGVhZCgkZmFpbFJ1bGUpLCAnRXhpc3RzJyk7CiAgICAgICAgICAgICAgICBpZiAoJGhhc0V4aXN0cykgewogICAgICAgICAgICAgICAgICAgIC8vIOWPquacieS4gOS4quWPguaVsOmUmeivr+eahOaDheWGteS4i++8jOWmguaenOWPkeeOsEV4aXN0cyBSdWxl5YiZ6KGo56S65pWw5o2u5bqT5pS55Yqo77yM6ZyA6KaB5Yi35paw6aG16Z2iCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlOjptYWtlKFsnY29kZScgPT4gQ29tbW9uVmFsdWU6OlBBUkFNRVRFUl9QQUdFX1RJTUVPVVRfQ09ERQogICAgICAgICAgICAgICAgICAgICAgICAsICdtc2cnID0+IENvbW1vblZhbHVlOjpQQVJBTUVURVJfUEFHRV9USU1FT1VUX01TRwogICAgICAgICAgICAgICAgICAgICAgICAsICdyZXN1bHQnID0+ICRleGNlcHRpb24tPmVycm9ycygpXSwgMjAwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGxvZyA9ICRleGNlcHRpb24tPnZhbGlkYXRvci0+Z2V0TWVzc2FnZUJhZygpOwogICAgICAgICAgICBMb2c6OmVycm9yKCRfU0VSVkVSWydSRVFVRVNUX1VSSSddLicgeycuJF9TRVJWRVJbJ1JFUVVFU1RfTUVUSE9EJ10uJ30gJy4nICcuJGxvZyk7CiAgICAgICAgICAgICRleGNlcHRpb25fYXJyID0gKGFycmF5KWpzb25fZGVjb2RlKCRsb2cpOwogICAgICAgICAgICBpZiAoYXJyYXlfaGFzKCRleGNlcHRpb25fYXJyLCdtb2JpbGUnKSl7ICAvLyAg5omL5py65Y+356CB6aqM6K+B5aSx6LSl77yM5Y+q6L+U5Zue5omL5py65Y+356CB55qE6aqM6K+B57uT5p6cCiAgICAgICAgICAgICAgICByZXR1cm4gUmVzcG9uc2U6Om1ha2UoWydjb2RlJyA9PiBDb21tb25WYWx1ZTo6UEFSQU1FVEVSX0VSUk9SX0NPREUKICAgICAgICAgICAgICAgICAgICAsICdtc2cnID0+ICBjdXJyZW50KCRleGNlcHRpb25fYXJyWydtb2JpbGUnXSkKICAgICAgICAgICAgICAgICAgICAsICdyZXN1bHQnID0+ICcnXSwgMjAwKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2U6Om1ha2UoWydjb2RlJyA9PiBDb21tb25WYWx1ZTo6UEFSQU1FVEVSX0VSUk9SX0NPREUKICAgICAgICAgICAgICAgICwgJ21zZycgPT4gIGNvdW50KGFycmF5X3ZhbHVlcygkZXhjZXB0aW9uX2FycikpID09IDEgPyBjdXJyZW50KCRleGNlcHRpb25fYXJyKVswXSA6ICRsb2cKICAgICAgICAgICAgICAgICwgJ3Jlc3VsdCcgPT4gJyddLCAyMDApOwogICAgICAgIH0pOwoKICAgICAgICBhcHAoJ0RpbmdvXEFwaVxFeGNlcHRpb25cSGFuZGxlcicpLT5yZWdpc3RlcihmdW5jdGlvbiAoXEV4Y2VwdGlvbiAkZXhjZXB0aW9uKSB7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIGlmICgkZXhjZXB0aW9uIGluc3RhbmNlb2YgTWV0aG9kTm90QWxsb3dlZEh0dHBFeGNlcHRpb24KICAgICAgICAgICAgfHwgJGV4Y2VwdGlvbiBpbnN0YW5jZW9mIE5vdEZvdW5kSHR0cEV4Y2VwdGlvbgogICAgICAgICAgICB8fCAkZXhjZXB0aW9uIGluc3RhbmNlb2YgSHR0cEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgLy8g6YG/5YWN6K6w5b2VNDA1IE1ldGhvZCBOb3QgQWxsb3dlZOeahOmUmeivr++8iOWNs2FwcOiwg+eUqOiAheeUqOmUmeS6hmh0dHDmlrnms5UpCiAgICAgICAgICAgICAgICAvLyDpgb/lhY3orrDlvZU1MDMg6ZSZ6K+vIOacjeWKoeWZqOe7tOaKpOS4rQogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vIOiusOW9leaJgOacieacquaNleiOt+W8guW4uAogICAgICAgICAgICBMb2c6OmVycm9yKCRfU0VSVkVSWydSRVFVRVNUX1VSSSddLicgeycuJF9TRVJWRVJbJ1JFUVVFU1RfTUVUSE9EJ10uJ30gJy4nICcuICRleGNlcHRpb24pOwogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2U6Om1ha2UoWydjb2RlJyA9PiBDb21tb25WYWx1ZTo6RVJST1JfQ09ERQogICAgICAgICAgICAgICAgLCAnbXNnJyA9PiBDb21tb25WYWx1ZTo6RVJST1JfTVNHCiAgICAgICAgICAgICAgICAsICdyZXN1bHQnID0+ICRleGNlcHRpb25dLCAyMDApOwogICAgICAgIH0pOwoKICAgICAgICBhcHAoJ0RpbmdvXEFwaVxFeGNlcHRpb25cSGFuZGxlcicpLT5yZWdpc3RlcihmdW5jdGlvbiAoUmF0ZUxpbWl0RXhjZWVkZWRFeGNlcHRpb24gJGV4Y2VwdGlvbil7CiAgICAgICAgICAgIC8vIOiusOW9leaJgOacieacquaNleiOt+W8guW4uAovLyAgICAgICAgICAgIExvZzo6ZXJyb3IoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10uJyB7Jy4kX1NFUlZFUlsnUkVRVUVTVF9NRVRIT0QnXS4nfSAnLicgJy4gJGV4Y2VwdGlvbik7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZTo6bWFrZShbJ2NvZGUnID0+IENvbW1vblZhbHVlOjpSQVRFX0xJTUlUX0NPREUKICAgICAgICAgICAgICAgICwgJ21zZycgPT4gQ29tbW9uVmFsdWU6OlJBVEVfTElNSVRfTVNHCiAgICAgICAgICAgICAgICAsICdyZXN1bHQnID0+ICcnXSwgMjAwKTsKICAgICAgICB9KTsKCiAgICAgICAgYXBwKCdEaW5nb1xBcGlcRXhjZXB0aW9uXEhhbmRsZXInKS0+cmVnaXN0ZXIoZnVuY3Rpb24gKEN1c3RvbUV4Y2VwdGlvbiAkZXhjZXB0aW9uKXsKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCktPmpzb24oJGV4Y2VwdGlvbi0+anNvblJlc3VsdCgpKTsKICAgICAgICB9KTsKCgogICAgICAgIC8vIOWIm+W7uuiHquWumuS5iemqjOivgeWZqOWbnuiwg+mXreWMhQogICAgICAgIFZhbGlkYXRvcjo6cmVzb2x2ZXIoZnVuY3Rpb24oJHRyYW5zbGF0b3IsICRkYXRhLCAkcnVsZXMsICRtZXNzYWdlcykgewogICAgICAgICAgICByZXR1cm4gbmV3IEN1c3RvbVZhbGlkYXRvcigkdHJhbnNsYXRvciwgJGRhdGEsICRydWxlcywgJG1lc3NhZ2VzKTsKICAgICAgICB9KTsKCiAgICAgICAgLy9sb2forrDlvZXlrqLmiLfnq6/mnaXmupAKICAgICAgICBhcHAoJ2xvZycpLT5nZXRNb25vbG9nKCktPnB1c2hQcm9jZXNzb3IoZnVuY3Rpb24gKCRyZWNvcmQpIHsvL+S/ruaUueaXpeW/l+WGheWuuQogICAgICAgICAgICAkeENsaWVudCA9IFJlcXVlc3Q6OmhlYWRlcigneC1jbGllbnQnLCAndW5rbm93bicpOwogICAgICAgICAgICAkeENsaWVudFZlcnNpb24gPSBSZXF1ZXN0OjpoZWFkZXIoJ3gtY2xpZW50LXZlcnNpb24nKTsKCiAgICAgICAgICAgICRyZWNvcmRbJ21lc3NhZ2UnXSA9ICJbY2xpZW50OiB7JHhDbGllbnR9KFZlcnNpb246eyR4Q2xpZW50VmVyc2lvbn0pXSIuJHJlY29yZFsnbWVzc2FnZSddOwoKICAgICAgICAgICAgcmV0dXJuICRyZWNvcmQ7CiAgICAgICAgfSk7CgogICAgICAgIC8v5ZG95Luk6KGM5LiL5pel5b+X5L+d5a2Y5pON5L2cIOaXpeW/l+S/neWtmOWcsOWdgOS/ruaUuQogICAgICAgIGlmIChwaHBfc2FwaV9uYW1lKCkgPT0gJ2NsaScpIHsKICAgICAgICAgICAgYXBwKCdsb2cnKS0+Z2V0TW9ub2xvZygpLT5wb3BIYW5kbGVyKCk7CiAgICAgICAgICAgIGFwcCgnbG9nJyktPnVzZURhaWx5RmlsZXMoc3RvcmFnZV9wYXRoKCcvbG9ncy9jb21tYW5kLWxhcmF2ZWwtJykgLiAnLmxvZycpOwogICAgICAgIH0KCiAgICAgICAgLy8g5rOo5YaM6Ieq5a6a5LmJ5byV5pOOCiAgICAgICAgcmVzb2x2ZShFbmdpbmVNYW5hZ2VyOjpjbGFzcyktPmV4dGVuZCgnZWxhc3RpY3NlYXJjaCcsIGZ1bmN0aW9uKCRhcHApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBFbGFzdGljc2VhcmNoRW5naW5lKEVsYXN0aWNCdWlsZGVyOjpjcmVhdGUoKQo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGh1YW5nZnUKICogRGF0ZTogMjAxOS8zLzIwCiAqIFRpbWU6IDE0OjIwCiAqLwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
@@ -580,31 +669,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGh1YW5nZnUKICogRGF0ZTogMjAxOS8zLzE5CiAqIFRpbWU6IDE3OjA5CiAqLwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGh1YW5nZnUKICogRGF0ZTogMjAxOS8zLzIwCiAqIFRpbWU6IDE0OjE4CiAqLwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhdXRvbG9hZCI6IHsKICAgICAgICAicHNyLTQiOiB7CiAgICAgICAgICAgICJIdWFuZ2Z1XFxTeW5jZXJcXCI6ICJzcmMiCiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGVsZXRlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEFic3RyYWN0Q29ubmVjdGlvbgogKgogKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGNhdGVnb3J5IEVsYXN0aWNzZWFyY2gKICogQHBhY2thZ2UgIEVsYXN0aWNzZWFyY2hcQ29ubmVjdGlvbnMKICogQGF1dGhvciAgIFphY2hhcnkgVG9uZyA8emFjaEBlbGFzdGljLmNvPgogKiBAbGljZW5zZSAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wIEFwYWNoZTIKICogQGxpbmsgICAgIGh0dHA6Ly9lbGFzdGljLmNvCg==</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUGx1Y2sgYW5kIHJldHVybiB0aGUgcHJpbWFyeSBrZXlzIG9mIHRoZSBnaXZlbiByZXN1bHRzLgogICAgICoKICAgICAqIEBwYXJhbSAgbWl4ZWQgICRyZXN1bHRzCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbgogICAgICovCiAgICBhYnN0cmFjdCBwdWJsaWMgZnVuY3Rpb24gbWFwSWRzKCRyZXN1bHRzKTsKCiAgICAvKioKICAgICAqIE1hcCB0aGUgZ2l2ZW4gcmVzdWx0cyB0byBpbnN0YW5jZXMgb2YgdGhlIGdpdmVuIG1vZGVsLgogICAgICoKICAgICAqIEBwYXJhbSAgbWl4ZWQgICRyZXN1bHRzCiAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XE1vZGVsICAkbW9kZWwKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQ29sbGVjdGlvbgogICAgICovCiAgICBhYnN0cmFjdCBwdWJsaWMgZnVuY3Rpb24gbWFwKCRyZXN1bHRzLCAkbW9kZWwpOwoKICAgIC8qKgogICAgICogR2V0IHRoZSB0b3RhbCBjb3VudCBmcm9tIGEgcmF3IHJlc3VsdCByZXR1cm5lZCBieSB0aGUgZW5naW5lLgogICAgICoKICAgICAqIEBwYXJhbSAgbWl4ZWQgICRyZXN1bHRzCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBhYnN0cmFjdCBwdWJsaWMgZnVuY3Rpb24gZ2V0VG90YWxDb3VudCgkcmVzdWx0cyk7CgogICAgLyoqCiAgICAgKiBHZXQgdGhlIHJlc3VsdHMgb2YgdGhlIHF1ZXJ5IGFzIGEgQ29sbGVjdGlvbiBvZiBwcmltYXJ5IGtleXMuCiAgICAgKgogICAgICogQHBhcmFtICBcTGFyYXZlbFxTY291dFxCdWlsZGVyICAkYnVpbGRlcgogICAgICogQHJldHVybiBcSWxsdW1pbmF0ZVxTdXBwb3J0XENvbGxlY3Rpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGtleXMoQnVpbGRlciAkYnVpbGRlcikKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm1hcElkcygkdGhpcy0+c2VhcmNoKCRidWlsZGVyKSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBHZXQgdGhlIHJlc3VsdHMgb2YgdGhlIGdpdmVuIHF1ZXJ5IG1hcHBlZCBvbnRvIG1vZGVscy4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxMYXJhdmVsXFNjb3V0XEJ1aWxkZXIgICRidWlsZGVyCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XENvbGxlY3Rpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldChCdWlsZGVyICRidWlsZGVyKQogICAgewogICAgICAgIHJldHVybiBDb2xsZWN0aW9uOjptYWtlKCR0aGlzLT5tYXAoCiAgICAgICAgICAgICR0aGlzLT5zZWFyY2goJGJ1aWxkZXIpLCAkYnVpbGRlci0+bW9kZWwKICAgICAgICApKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4KICogVXNlcjogaHVhbmdmdQogKiBEYXRlOiAyMDE5LzMvMjAKICogVGltZTogMTQ6MTYKICovCg==</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
@@ -617,9 +706,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbGFzdGljQnVpbGRlclw+</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0aW9uRmFjdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbGFzdGljQnVpbGRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0aW9uRmFjdG9yeVw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhbFw+</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</entry>
         <entry encoding="base64">XDxwYXlfbW9kZVw+</entry>
@@ -647,6 +735,7 @@
         <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxfbWhcPg==</entry>
         <entry encoding="base64">XDxFbGFzdGljQnVpbGRlclw+</entry>
+        <entry encoding="base64">XDxjb25uZWN0aW9uRmFjdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
