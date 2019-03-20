@@ -31,7 +31,7 @@
         <mark key="^" line="97" column="16" />
         <mark key="." line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" timestamp="1552988530673">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" timestamp="1553052747072">
         <mark key="'" line="57" column="8" />
         <mark key="[" line="24" column="27" />
         <mark key="]" line="25" column="3" />
@@ -324,8 +324,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" timestamp="1552380776539">
         <mark key="'" line="75" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1552988905884">
-        <mark key="'" line="175" column="38" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1553052827413">
+        <mark key="'" line="184" column="40" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="89" column="35" />
       </file>
@@ -523,9 +523,9 @@
       <jump line="448" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="451" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="454" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="444" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="184" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
-      <jump line="175" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="444" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="175" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="184" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
