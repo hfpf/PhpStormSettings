@@ -120,6 +120,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Ping.php" timestamp="1552878456110">
         <mark key="'" line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1553222158691">
+        <mark key="'" line="361" column="75" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1553150998485">
         <mark key="'" line="1547" column="44" />
       </file>
@@ -339,9 +342,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tp/thinkphp/base.php" timestamp="1552904718802" />
     </filemarks>
     <jumps>
-      <jump line="184" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" />
-      <jump line="47" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" />
-      <jump line="162" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" />
       <jump line="1306" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="178" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
       <jump line="12" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/tmall/src/ClientBuilder.php" />
@@ -439,6 +439,9 @@
       <jump line="50" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/CurlFactory.php" />
       <jump line="1088" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CommunityService.php" />
       <jump line="86" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/ModelObserver.php" />
+      <jump line="18" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="36" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="361" column="75" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
