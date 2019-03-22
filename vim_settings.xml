@@ -286,7 +286,7 @@
         <mark key="." line="46" column="60" />
         <mark key="^" line="46" column="60" />
       </file>
-      <file name="/PHP Console" timestamp="1553253329590">
+      <file name="/PHP Console" timestamp="1553260825557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AppServiceProvider.php" timestamp="1553254642761">
@@ -314,16 +314,16 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Engines/ElasticsearchEngine.php" timestamp="1553220800607">
         <mark key="'" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.11-deploy.sh" timestamp="1553259998056">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.11-deploy.sh" timestamp="1553261296992">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1553246831919">
         <mark key="'" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553260001512">
+      <file name="/Dummy.txt" timestamp="1553261300354">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
