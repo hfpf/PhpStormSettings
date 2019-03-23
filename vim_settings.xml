@@ -18,7 +18,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/taobao-sdk-PHP-auto_1453714508518-20190313/Autoloader.php" timestamp="1553236142678" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/svn/LinhuibaServer/composer.json" timestamp="1553237499731" />
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1553308088449" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1553322060437" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1553319896625">
         <mark key="[" line="53" column="62" />
         <mark key="]" line="53" column="61" />
@@ -34,8 +34,8 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1553247695330">
-        <mark key="'" line="24" column="2" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1553321595492">
+        <mark key="'" line="39" column="50" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -83,19 +83,15 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" timestamp="1553320703795">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="47" column="23" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" timestamp="1553321949862">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+        <mark key="^" line="68" column="19" />
       </file>
       <file name="/PHP Console" timestamp="1553320911232">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/AppServiceProvider.php" timestamp="1553254642761">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="145" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/barryvdh/laravel-ide-helper/composer.json" timestamp="1553238036361" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.11-deploy.sh" timestamp="1553261296992">
@@ -104,7 +100,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553305853847">
+      <file name="/Dummy.txt" timestamp="1553321746862">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
@@ -119,9 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" />
-      <jump line="112" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" />
-      <jump line="1072" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CommunityService.php" />
       <jump line="14" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/react/promise/src/Deferred.php" />
       <jump line="17" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/react/promise/src/Promise.php" />
       <jump line="27" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/react/promise/src/Promise.php" />
@@ -219,6 +212,9 @@
       <jump line="29" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/taobao-sdk-PHP-auto_1553238707285-20190322/top/TopClient.php" />
       <jump line="30" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/taobao-sdk-PHP-auto_1553238707285-20190322/top/TopClient.php" />
       <jump line="203" column="105" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/taobao-sdk-PHP-auto_1553238707285-20190322/top/TopClient.php" />
+      <jump line="39" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="63" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
+      <jump line="68" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
