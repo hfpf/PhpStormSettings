@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/Desktop/taobao-sdk-PHP-auto_1453714508518-20190313/Autoloader.php" timestamp="1553236142678" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/svn/LinhuibaServer/composer.json" timestamp="1553237499731" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1553308088449" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1553238200575">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1553312856470">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -108,12 +108,6 @@
         <mark key="'" line="41" column="32" />
         <mark key="[" line="1" column="27" />
         <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Top/ResultSet.php" timestamp="1553252930482">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="27" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
