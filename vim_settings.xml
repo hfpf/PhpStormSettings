@@ -252,10 +252,11 @@
         <mark key="'" line="192" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/CaptchaGetRequest.php" timestamp="1553343715962" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" timestamp="1553494800822">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" timestamp="1553496846099">
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+        <mark key="^" line="63" column="36" />
       </file>
       <file name="/PHP Console" timestamp="1553478939497">
         <mark key="[" line="0" column="0" />
