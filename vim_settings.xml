@@ -66,6 +66,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/FutureInterface.php" timestamp="1553159370605">
         <mark key="'" line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Validators/CustomValidator.php" timestamp="1553831186426">
+        <mark key="'" line="23" column="77" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CouponController.php" timestamp="1553650274560" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ListResourceService.php" timestamp="1550800490712">
         <mark key="'" line="702" column="40" />
@@ -348,13 +351,13 @@
         <mark key="." line="136" column="64" />
         <mark key="^" line="136" column="64" />
       </file>
-      <file name="/PHP Console" timestamp="1553826053221">
+      <file name="/PHP Console" timestamp="1553831298204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/react/promise/src/Deferred.php" timestamp="1553158074263">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" timestamp="1553762819421">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" timestamp="1553831354131">
         <mark key="'" line="103" column="45" />
         <mark key="[" line="80" column="22" />
         <mark key="]" line="80" column="18" />
@@ -391,7 +394,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1553246831919">
         <mark key="'" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553824902213">
+      <file name="/Dummy.txt" timestamp="1553831082423">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
@@ -456,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/autoload.php" />
       <jump line="29" column="66" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" />
       <jump line="179" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" />
       <jump line="2115" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" />
@@ -556,6 +558,7 @@
       <jump line="51" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" />
       <jump line="13" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
       <jump line="52" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
+      <jump line="23" column="77" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Validators/CustomValidator.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
