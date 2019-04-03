@@ -235,6 +235,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/HttpHelper.php" timestamp="1553677678510">
         <mark key="'" line="65" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/app/Providers/AuthServiceProvider.php" timestamp="1554273531317" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/sql/v3.11.sql" timestamp="1554085864368" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1552634967229">
         <mark key="'" line="156" column="57" />
@@ -245,6 +246,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/tp/public/index.php" timestamp="1552908514621">
         <mark key="'" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/composer.json" timestamp="1554273013848" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1552635203296">
         <mark key="'" line="781" column="33" />
       </file>
@@ -372,7 +374,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1554188784778">
         <mark key="'" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554198385050">
+      <file name="/Dummy.txt" timestamp="1554273014374">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
       </file>
