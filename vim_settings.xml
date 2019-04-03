@@ -423,7 +423,7 @@
         <mark key="^" line="79" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/EmailController.php" timestamp="1554188755423">
-        <mark key="'" line="37" column="49" />
+        <mark key="'" line="20" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1552378120416">
         <mark key="'" line="10" column="41" />
