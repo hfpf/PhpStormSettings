@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ConnectionPool/StaticNoPingConnectionPool.php" timestamp="1553072301319">
         <mark key="'" line="40" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/storage/logs/command-laravel--2019-04-10.log" timestamp="1554897249574">
+        <mark key="'" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1554789328332">
         <mark key="'" line="35" column="6" />
       </file>
@@ -166,7 +169,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/ModelObserver.php" timestamp="1553220672004">
         <mark key="'" line="86" column="26" />
       </file>
-      <file name="/fragment.php" timestamp="1553671714702">
+      <file name="/fragment.php" timestamp="1554899575413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/paragonie/random_compat/lib/random_int.php" timestamp="1551791704968">
@@ -185,6 +188,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1552636618782">
         <mark key="'" line="22" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_28_141815_add_top_id_into_physical_resources_table.php" timestamp="1554898094213" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSiteBelong.php" timestamp="1553752515942">
         <mark key="'" line="47" column="36" />
         <mark key="[" line="53" column="42" />
@@ -322,6 +326,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Manager.php" timestamp="1552721610648">
         <mark key="'" line="62" column="48" />
       </file>
+      <file name="$USER_HOME$/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs" timestamp="1554898939262">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" timestamp="1552380776539">
         <mark key="'" line="75" column="34" />
       </file>
@@ -335,17 +345,18 @@
         <mark key="." line="136" column="64" />
         <mark key="^" line="136" column="64" />
       </file>
-      <file name="/PHP Console" timestamp="1554864589739">
+      <file name="/PHP Console" timestamp="1554899933037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/react/promise/src/Deferred.php" timestamp="1553158074263">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" timestamp="1554864056625">
-        <mark key="'" line="109" column="49" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="50" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" timestamp="1554898307491">
+        <mark key="'" line="85" column="32" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="39" />
+        <mark key="." line="141" column="109" />
+        <mark key="^" line="141" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasGlobalScopes.php" timestamp="1552634375884">
         <mark key="'" line="68" column="22" />
@@ -377,7 +388,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1554188784778">
         <mark key="'" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554889225801">
+      <file name="/Dummy.txt" timestamp="1554900443930">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
@@ -417,12 +428,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Client/CurlMultiHandler.php" timestamp="1552979718399">
         <mark key="'" line="219" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1554886920939">
-        <mark key="'" line="54" column="61" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="94" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1554900196431">
+        <mark key="'" line="127" column="68" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+        <mark key="^" line="60" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/EmailController.php" timestamp="1554188755423">
         <mark key="'" line="20" column="49" />
@@ -445,12 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" />
-      <jump line="99" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
-      <jump line="98" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
-      <jump line="95" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
-      <jump line="70" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
-      <jump line="75" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
       <jump line="10" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
       <jump line="41" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopContent.php" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopContent.php" />
@@ -494,7 +499,6 @@
       <jump line="52" column="94" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="53" column="80" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
-      <jump line="68" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="106" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="101" column="72" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
@@ -504,7 +508,6 @@
       <jump line="170" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="17" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_28_113933_add_top_image_url_into_physical_resource_imgs_table.php" />
       <jump line="119" column="83" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
-      <jump line="127" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSite.php" />
       <jump line="18" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSiteBelong.php" />
       <jump line="23" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSiteBelong.php" />
@@ -545,13 +548,21 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" />
       <jump line="54" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="12" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" />
+      <jump line="53" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
+      <jump line="50" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
+      <jump line="8" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/storage/logs/command-laravel--2019-04-10.log" />
+      <jump line="85" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
+      <jump line="84" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
+      <jump line="83" column="57" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
+      <jump line="127" column="68" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzVGVzdERhdGEnID0+ICFlbnYoJ3Byb2R1Y3Rpb24nKSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5vcmRlckJ5KCdpZCcsICdkZXNjJyk=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -572,31 +583,31 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text encoding="base64">LT5vcmRlckJ5KCdpZCcsICdkZXNjJyk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxieXRlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzVGVzdERhdGEnID0+IChjb25maWcoJ2FwcC5lbnYnKSAhPSAncHJvZHVjdGlvbicKICAgICAgICAgICAgICAgICYmIGNvbmZpZygnYXBwLmVudicpICE9ICdzdGFnaW5nJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nOjplcnJvcigkZSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzVGVzdERhdGEnID0+ICFlbnYoJ3Byb2R1Y3Rpb24nKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmluZm8oIuWxleS9jeWQjOatpeaIkOWKnyggJHJlc3AtPm91dF9iaXpfaWQgKTogJHBoeXNpY2FsUmVzb3VyY2UtPm5hbWUiKTsK</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdpc1Rlc3REYXRhJyA9PiAhZW52KCdwcm9kdWN0aW9uJykK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXN1bHQgPSAkcmVzcC0+cmVzdWx0OwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRvcE1hbGxJRCA9ICRyZXN1bHQtPmlkOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzVGVzdERhdGEnID0+ICFlbnYoJ3Byb2R1Y3Rpb24nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -605,13 +616,13 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYXR0cmlidXRlcyA9IFsKICAgICAgICAgICAgJ2lzVGVzdERhdGEnID0+ICFlbnYoJ3Byb2R1Y3Rpb24nKQogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsbGluZ1Jlc291cmNlCiAgICAgICAgICAgICAgICAgICAgICAgID0gJHBoeXNpY2FsUmVzb3VyY2UtPnNlbGxpbmdfcmVzb3VyY2VzKCkvLyDkvpvnu5ko5Y+q5Y+W5LiA5Liq54mp5Lia5oiW6ICF6Ieq6JCl55qE77yJCiAgICAgICAgICAgICAgICAgICAgLT53aGVyZUluKCdjb29wZXJhdGlvbl90eXBlX2lkJywgWwogICAgICAgICAgICAgICAgICAgICAgICBGaWVsZENvb3BlcmF0aW9uVHlwZTo6U0VMRl9TVVBQT1JULAogICAgICAgICAgICAgICAgICAgICAgICBGaWVsZENvb3BlcmF0aW9uVHlwZTo6UHJvcGVydHksCiAgICAgICAgICAgICAgICAgICAgXSkKICAgICAgICAgICAgICAgICAgICAgICAgLT5maXJzdCgpOwogICAgICAgICAgICAgICAgICAgIGlmIChjb3VudCgkc2VsbGluZ1Jlc291cmNlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyDlj5bku7fmoLzmnIDkvY7nmoTkuIDkuKrop4TmoLwKICAgICAgICAgICAgICAgICAgICAgICAgJHNlbGxpbmdSZXNvdXJjZVByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICRzZWxsaW5nUmVzb3VyY2UtPnNlbGxpbmdfcmVzb3VyY2VfcHJpY2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLT5vcmRlckJ5KCdwcmljZScsICdkZXNjJyktPmZpcnN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjb3VudCgkc2VsbGluZ1Jlc291cmNlUHJpY2UpKSB7IC8vIOinhOagvAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHByaWNlVHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gc2VsZjo6Z2V0UHJpY2VUeXBlRnJvbVBlcmlvZCgkc2VsbGluZ1Jlc291cmNlUHJpY2UtPmxlYXNlX3Rlcm1fdHlwZS0+cGVyaW9kKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc19udWxsKCRwcmljZVR5cGUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7IC8vIOmZpOS6hiLlpKki5ZKMIuWRqCLvvIzlhbbku5bkuI3lkIzmraXliLBUT1AKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc19udWxsKCRwaHlzaWNhbFJlc291cmNlLT5jb21tdW5pdHktPnRvcF9pZCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlbXB0eSgkcGh5c2ljYWxSZXNvdXJjZS0+ZG9Mb2NhdGlvbikpIHsgLy8g5YW35L2T5Zyw5Z2A5LiN5a2Y5ZyoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoY291bnQoJHBoeXNpY2FsUmVzb3VyY2UtPnBoeXNpY2FsX3Jlc291cmNlX2ltZ3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlcSA9IG5ldyBUbWFsbFBvcHVwc3RvcmVTaXRlQ3JlYXRlUmVxdWVzdDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXEtPnNldFNpdGVUeXBlKCRzZWxsaW5nUmVzb3VyY2VQcmljZS0+aW5kb29yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyAnSU5ET09SJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogJ09VVERPT1InKTsgLy8g5Zy65Zyw546v5aKD77ya5a6k5YaF6L+Y5piv5a6k5aSW77yM5p6a5Li+5YC877yaSU5ET09SLCBPVVRET09SCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXEtPnNldFdlZWtlbmRDdXN0b21lckFjY291bnQoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHByaWNlVHlwZSA9PSAnQllfTU9OVEgnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlcS0+c2V0UGVyTW9udGhQcmljZSgkc2VsbGluZ1Jlc291cmNlUHJpY2UtPnByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8gMTAwLjAwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXEtPnNldFByaWNlVHlwZSgkcHJpY2VUeXBlKTsgLy8g5Lu35qC857G75Z6L77ya5oyJ5aSp44CB5oyJ5pyI77yM5p6a5Li+5YC877yaQllfREFZ77yMQllfTU9OVEgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXEtPnNldE91dEJpeklkKCRwaHlzaWNhbFJlc291cmNlLT5pZCk7IC8vIOWklumDqGlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRPbmxpbmVTdGF0dXMoJHBoeXNpY2FsUmVzb3VyY2UtPnN0YXR1cwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPT0gJ2FwcHJvdmVkJyA/IDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IDApOyAvLyDkuIrnur/nirbmgIHvvIzmnprkuL7lgLzvvJow77ya5LiL57q/77yMMe+8muS4iue6vwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHdpZHRoQW5kSGlnaCA9IGV4cGxvZGUoJyonLCAkc2VsbGluZ1Jlc291cmNlUHJpY2UtPnNpemUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNvdW50KCR3aWR0aEFuZEhpZ2gpICE9IDIpIHsgLy8g5Zy65Zywc2l6ZeagvOW8j+S4jeato+ehruS4jeS/neWtmAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGF2YWlsYWJsZUFyZWEgPSAkd2lkdGhBbmRIaWdoWzBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiAkd2lkdGhBbmRIaWdoWzFdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlcS0+c2V0QXZhaWxhYmxlQXJlYSgkYXZhaWxhYmxlQXJlYSk7IC8vIOWPr+eUqOmdouenr++8jOWNleS9jeW5s+aWueexswogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCRwcmljZVR5cGUgPT0gJ0JZX0RBWScpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRXb3JrZGF5UmVmZXJQcmljZSgkc2VsbGluZ1Jlc291cmNlUHJpY2UtPnByaWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8gMTAwLjAwKTsgLy8g5pel56ef6LS555So77yI5bel5L2c5pel77yJCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRTaXRlU2l6ZSgkc2VsbGluZ1Jlc291cmNlUHJpY2UtPnNpemUpOyAvLyDlnLrlnLDlsLrlr7gKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT51cGxvYWRJbWFnZXMoJHBoeXNpY2FsUmVzb3VyY2UtPnBoeXNpY2FsX3Jlc291cmNlX2ltZ3MpOyAvLyDkuIrkvKDlm77niYcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR2YWxpZGF0ZWRJbWFnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICRwaHlzaWNhbFJlc291cmNlLT5waHlzaWNhbF9yZXNvdXJjZV9pbWdzKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPndoZXJlTm90TnVsbCgndG9wX2ltYWdlX3VybCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLT5wbHVjaygndG9wX2ltYWdlX3VybCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLT50b0FycmF5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoY291bnQoJHZhbGlkYXRlZEltYWdlcykgPT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlcS0+c2V0UmVhbFBpY3MoaW1wbG9kZSgnLCcsICR2YWxpZGF0ZWRJbWFnZXMpKTsgLy8g5a6e5pmv5Zu+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRTaXRlQmVsb25nSWQoJHBoeXNpY2FsUmVzb3VyY2UtPmNvbW11bml0eS0+dG9wX2lkKTsgLy8g5Zy65Zyw5omA5bGeCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRGbG9vcigkcGh5c2ljYWxSZXNvdXJjZS0+bG9jYWxfZmxvb3IpOyAvLyDmiYDlnKjmpbzlsYIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXEtPnNldExvY2F0aW9uVHlwZSgkcGh5c2ljYWxSZXNvdXJjZS0+bG9jYXRpb25fdHlwZS0+bmFtZSk7IC8vIGxvY2F0aW9uIHR5cGUKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlcS0+c2V0V2Vla2VuZFJlZmVyUHJpY2UoKTsgLy8g5pel56ef6LS555So77yI6IqC5YGH5pel77yJCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRXb3JrZGF5Q3VzdG9tZXJBY2NvdW50KCRwaHlzaWNhbFJlc291cmNlLT5udW1iZXJfb2ZfcGVvcGxlKTsgLy8g5bel5L2c5pel5pel5a6i5rWB6YePCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRBdHRyaWJ1dGVzKCRhdHRyaWJ1dGVzKTsgLy8g5omp5bGV5a2X5q6177yManNvbuagvOW8jwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlcS0+c2V0QWRkckxvY2F0aW9uKCRwaHlzaWNhbFJlc291cmNlLT5kb0xvY2F0aW9uKTsgLy8g5YW35L2T5Zyw5Z2ACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxLT5zZXRCdXNpbmVzc1RpbWUoJHBoeXNpY2FsUmVzb3VyY2UtPmRvQmVnaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuICctJyAuICRwaHlzaWNhbFJlc291cmNlLT5kb0ZpbmlzaCk7IC8vIOiQpeS4muaXtumXtAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3AgPSAkYy0+ZXhlY3V0ZSgkcmVxKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkcmVzcC0+aWQpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVzdWx0ID0gJHJlc3AtPnJlc3VsdDsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0b3BNYWxsSUQgPSAkcmVzdWx0LT5pZDsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkcmVzdWx0LT5vdXRfYml6X2lkID09ICRjb21tdW5pdHktPmlkKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbW11bml0eS0+dG9wX2lkID0gJHRvcE1hbGxJRDsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkY29tbXVuaXR5LT5zYXZlKCk7IC8vIOS/neWtmHRvcF9pZAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5pbmZvKCflnLrlnLAnIC4gJGNvbW11bml0eS0+aWQgLiAnOjwnCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4gJGNvbW11bml0eS0+bmFtZSAuICc+5ZCM5q2l5oiQ5Yqf77yBJyk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmluZm8oIuWxleS9jeWQjOatpeaIkOWKnyggJHJlc3AtPm91dF9iaXpfaWQgKTogJHBoeXNpY2FsUmVzb3VyY2UtPm5hbWUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZWlmICgkcmVzcC0+Y29kZSA9PSAxNSkgeyAvLyBmYWlsZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygkcmVzcC0+c3ViX21zZyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5pbmZvKCRyZXNwLT5tc2cpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXR0cmlidXRlcyA9IFsKICAgICAgICAgICAgJ2lzVGVzdERhdGEnID0+ICFlbnYoJ3Byb2R1Y3Rpb24nKQogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShWKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICRyZXEtPnNldEFkZHJBcmVhKCRjb21tdW5pdHktPmRpc3RyaWN0LT5jb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVzdWx0ID0gJHJlc3AtPnJlc3VsdDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdG9wTWFsbElEID0gJHJlc3VsdC0+aWQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCRyZXN1bHQtPm91dF9iaXpfaWQgPT0gJGNvbW11bml0eS0+aWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbW11bml0eS0+dG9wX2lkID0gJHRvcE1hbGxJRDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbW11bml0eS0+c2F2ZSgpOyAvLyDkv53lrZh0b3BfaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmluZm8oJ+WcuuWcsCcgLiAkY29tbXVuaXR5LT5pZCAuICc6PCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4gJGNvbW11bml0eS0+bmFtZSAuICc+5ZCM5q2l5oiQ5Yqf77yBJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
