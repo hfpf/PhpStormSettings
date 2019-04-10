@@ -132,8 +132,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RiakServiceProvider.php" timestamp="1552874370849">
         <mark key="'" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1554789432812">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1554887625043">
+        <mark key="'" line="12" column="33" />
         <mark key="[" line="39" column="45" />
         <mark key="]" line="39" column="42" />
         <mark key="^" line="39" column="42" />
@@ -197,6 +197,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/taobao-sdk-PHP-auto_1553238707285-20190322/Autoloader.php" timestamp="1553319858685">
         <mark key="'" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/readme.md" timestamp="1554887886165">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="42" column="38" />
+        <mark key="^" line="42" column="38" />
+        <mark key="." line="42" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/scout/src/Console/ImportCommand.php" timestamp="1552876434046">
         <mark key="'" line="42" column="26" />
@@ -371,7 +377,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1554188784778">
         <mark key="'" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554865888980">
+      <file name="/Dummy.txt" timestamp="1554887890532">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
@@ -439,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
       <jump line="35" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" />
       <jump line="99" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
       <jump line="98" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" />
@@ -539,6 +544,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" />
       <jump line="54" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
+      <jump line="12" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
