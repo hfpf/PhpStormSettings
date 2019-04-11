@@ -158,6 +158,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1554987113499">
         <mark key="'" line="648" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/predis/predis/src/ClientInterface.php" timestamp="1554991024209" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/yunpian/yunpian-php-sdk/src/YunpianConf.php" timestamp="1554990010270">
         <mark key="'" line="47" column="24" />
       </file>
@@ -240,8 +241,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/CompletedFutureArray.php" timestamp="1552982935249">
         <mark key="'" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" timestamp="1554990363292">
-        <mark key="'" line="63" column="19" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" timestamp="1554991047483">
+        <mark key="'" line="77" column="25" />
         <mark key="[" line="63" column="29" />
         <mark key="]" line="63" column="29" />
         <mark key="." line="63" column="29" />
@@ -354,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/AppletImgController.php" />
       <jump line="65" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/HttpHelper.php" />
       <jump line="97" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
       <jump line="100" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/taobao-sdk-PHP-auto_1553238707285-20190322/top/TopClient.php" />
@@ -454,6 +454,7 @@
       <jump line="41" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/yunpian/yunpian-php-sdk/src/YunpianClient.php" />
       <jump line="36" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/yunpian/yunpian-php-sdk/src/YunpianGuzzle.php" />
       <jump line="63" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
+      <jump line="77" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
