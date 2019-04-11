@@ -231,12 +231,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletingScope.php" timestamp="1552635178258">
         <mark key="'" line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/app/Http/Controllers/Api/V1/DeviceController.php" timestamp="1554950392587">
-        <mark key="'" line="147" column="37" />
-        <mark key="[" line="165" column="29" />
-        <mark key="]" line="161" column="31" />
-        <mark key="^" line="161" column="31" />
-        <mark key="." line="161" column="31" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/app/Http/Controllers/Api/V1/DeviceController.php" timestamp="1554951039299">
+        <mark key="'" line="149" column="37" />
+        <mark key="^" line="93" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1552378071030">
         <mark key="'" line="22" column="43" />
@@ -372,14 +369,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DebitController.php" timestamp="1552893364766">
         <mark key="'" line="1114" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" timestamp="1554365681583">
-        <mark key="'" line="51" column="0" />
-        <mark key="k" line="17" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="85" column="8" />
-        <mark key="^" line="23" column="34" />
-        <mark key="." line="60" column="77" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteOnlineStatus.php" timestamp="1553756007067">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="25" column="0" />
@@ -460,6 +449,7 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/vendor/intervention/image/src/Intervention/Image/Exception/NotFoundException.php" timestamp="1554950993357" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/Resource.php" timestamp="1552383217575">
         <mark key="'" line="2" column="15" />
       </file>
@@ -570,8 +560,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>报错问题</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -598,7 +588,7 @@
         <text encoding="base64">XDxieXRlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbXVuaXRpZXMgPSBDb21tdW5pdHlSZXNvdXJjZTo6d2hlcmUoJ2NhdGVnb3J5X2lkJywKICAgICAgICAgICAgJG1hbGxDYXRlZ29yeS0+aWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
