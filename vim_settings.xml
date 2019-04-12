@@ -111,6 +111,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_real.php" timestamp="1553332630592">
         <mark key="'" line="29" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1555053617209">
+        <mark key="'" line="159" column="78" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" timestamp="1552643320013">
         <mark key="'" line="586" column="13" />
       </file>
@@ -426,7 +429,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1555034824481">
         <mark key="'" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555038703820">
+      <file name="/Dummy.txt" timestamp="1555051445398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -508,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_25_191708_add_top_id_into_community_resources_table.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_25_191708_add_top_id_into_community_resources_table.php" />
       <jump line="16" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_28_141815_add_top_id_into_physical_resources_table.php" />
       <jump line="48" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSite.php" />
@@ -608,6 +610,7 @@
       <jump line="1005" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" />
       <jump line="15995" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/_ide_helper.php" />
       <jump line="153" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" />
+      <jump line="159" column="78" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
