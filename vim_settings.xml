@@ -263,7 +263,12 @@
         <mark key="^" line="81" column="24" />
         <mark key="." line="81" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1555039431477" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1555039732261">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1552634967229">
         <mark key="'" line="156" column="57" />
       </file>
@@ -426,6 +431,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.example" timestamp="1555038735852">
         <mark key="'" line="26" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1555039702843" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/filesystems.php" timestamp="1550211802799">
         <mark key="'" line="17" column="18" />
       </file>
