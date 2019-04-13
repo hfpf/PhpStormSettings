@@ -215,8 +215,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" timestamp="1555047767675">
         <mark key="'" line="153" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" timestamp="1555038729784">
-        <mark key="'" line="31" column="39" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" timestamp="1555137994735">
+        <mark key="'" line="84" column="26" />
         <mark key="[" line="93" column="34" />
         <mark key="]" line="93" column="44" />
         <mark key="^" line="93" column="44" />
@@ -341,7 +341,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/CompletedFutureArray.php" timestamp="1552982935249">
         <mark key="'" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" timestamp="1555036769443">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" timestamp="1555138037703">
         <mark key="'" line="60" column="46" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -594,11 +594,9 @@
       <jump line="96" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="20" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel/app/Http/Controllers/Auth/ResetPasswordController.php" />
       <jump line="112" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
-      <jump line="84" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
       <jump line="70" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="60" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="86" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
-      <jump line="88" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
       <jump line="138" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
       <jump line="31" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
       <jump line="697" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php" />
@@ -617,6 +615,8 @@
       <jump line="159" column="78" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" />
       <jump line="6" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
+      <jump line="88" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
+      <jump line="84" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
