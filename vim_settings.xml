@@ -81,6 +81,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/guzzlehttp/ringphp/src/Future/FutureInterface.php" timestamp="1553159370605">
         <mark key="'" line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_162940_add_top_mall_type_into_attribute_options_table.php" timestamp="1555317350769">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Validators/CustomValidator.php" timestamp="1553831186426">
         <mark key="'" line="23" column="77" />
       </file>
@@ -421,12 +427,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/react/promise/src/Deferred.php" timestamp="1553158074263">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" timestamp="1555312988011">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" timestamp="1555318785683">
         <mark key="'" line="141" column="44" />
-        <mark key="[" line="141" column="44" />
-        <mark key="]" line="141" column="51" />
-        <mark key="^" line="141" column="51" />
-        <mark key="." line="141" column="51" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="67" column="8" />
+        <mark key="^" line="147" column="41" />
+        <mark key="." line="147" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasGlobalScopes.php" timestamp="1552634375884">
         <mark key="'" line="68" column="22" />
@@ -634,8 +640,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGNvbW11bml0aWVzID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkbWFsbExvY2F0aW9uID0gQXR0cmlidXRlOjp3aGVyZSgnbmFtZScsICfllYblnLrlrprkvY0nKS0+Zmlyc3QoKTsKICAgICAgICBpZiAoIWNvdW50KCRtYWxsTG9jYXRpb24pKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJ+WVhuWcuuWumuS9jeS4jeWtmOWcqCEnKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -656,13 +662,13 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNvbW11bml0aWVzID0g</text>
+        <text>mallType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvc2l0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHJlcS0+c2V0QmVsb25nVHlwZSgiQkVMT05HX01BTEwiKTsgLy8g5ZWG5Zy657G75Z6LOuWbuuWumuS4uuWVhuWcuuexu+ebrgo=</text>
+        <text encoding="base64">ICAgICAgICAkbWFsbExvY2F0aW9uID0gQXR0cmlidXRlOjp3aGVyZSgnbmFtZScsICfllYblnLrlrprkvY0nKS0+Zmlyc3QoKTsKICAgICAgICBpZiAoIWNvdW50KCRtYWxsTG9jYXRpb24pKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJ+WVhuWcuuWumuS9jeS4jeWtmOWcqCEnKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
