@@ -8,28 +8,7 @@
       <file name="/a.dummy" timestamp="1555299741781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1554987070731">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="21" />
-        <mark key="^" line="102" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSite.php" timestamp="1553755429461">
-        <mark key="'" line="48" column="41" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="73" />
-        <mark key="." line="16" column="52" />
-        <mark key="^" line="16" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1555293970434" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_25_191708_add_top_mall_id_into_community_resources_table.php" timestamp="1553753152794">
-        <mark key="'" line="16" column="30" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="28" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_162940_add_top_mall_type_into_attribute_options_table.php" timestamp="1555317350769">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="47" />
@@ -43,29 +22,8 @@
         <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1555393660037" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1554887625043">
-        <mark key="'" line="12" column="33" />
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="42" />
-        <mark key="^" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/CompanyService.php" timestamp="1554986827042">
-        <mark key="'" line="22" column="40" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="47" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="/fragment.php" timestamp="1555382822760">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/taobao-sdk-PHP-auto_1553238707285-20190322/top/TopClient.php" timestamp="1553680425594">
-        <mark key="'" line="100" column="58" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSiteBelong.php" timestamp="1555399859717">
         <mark key="'" line="71" column="0" />
@@ -74,20 +32,7 @@
         <mark key="." line="81" column="83" />
         <mark key="^" line="81" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" timestamp="1555137994735">
-        <mark key="'" line="84" column="26" />
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="93" column="44" />
-        <mark key="^" line="93" column="44" />
-        <mark key="." line="93" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_27_112635_add_name_into_location_types_table.php" timestamp="1553657961344">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="60" />
-        <mark key="." line="16" column="60" />
-        <mark key="^" line="16" column="60" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CalendarController.php" timestamp="1555421840006" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityAttribute.php" timestamp="1553569455582">
         <mark key="[" line="14" column="5" />
       </file>
@@ -102,20 +47,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" timestamp="1555307865191">
         <mark key="'" line="161" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSiteBelong.php" timestamp="1553753758722">
-        <mark key="'" line="57" column="38" />
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="38" />
-        <mark key="^" line="50" column="38" />
-        <mark key="." line="50" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" timestamp="1554365308920">
-        <mark key="'" line="83" column="35" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1555298203777">
         <mark key="'" line="63" column="38" />
         <mark key="[" line="70" column="49" />
@@ -123,29 +54,8 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopContent.php" timestamp="1553668173036">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="62" column="28" />
-        <mark key="." line="62" column="28" />
-        <mark key="^" line="62" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/addlabel.sql" timestamp="1551249891470">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Controller.php" timestamp="1555039286559">
-        <mark key="'" line="57" column="20" />
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Send2Top.php" timestamp="1553668065100">
-        <mark key="'" line="80" column="36" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="136" column="64" />
-        <mark key="." line="136" column="64" />
-        <mark key="^" line="136" column="64" />
       </file>
       <file name="/PHP Console" timestamp="1555399861405">
         <mark key="[" line="0" column="0" />
@@ -164,24 +74,10 @@
         <mark key="^" line="90" column="58" />
         <mark key="." line="90" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteOnlineStatus.php" timestamp="1553756007067">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="62" column="37" />
-      </file>
       <file name="/Dummy.txt" timestamp="1555400117164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" timestamp="1555038501378">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="97" column="5" />
-        <mark key="]" line="98" column="42" />
-        <mark key="^" line="98" column="42" />
-        <mark key="." line="98" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" timestamp="1555399785314">
         <mark key="[" line="81" column="81" />
@@ -195,13 +91,6 @@
         <mark key="]" line="53" column="22" />
         <mark key="^" line="7" column="57" />
         <mark key="." line="7" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_03_25_191708_add_top_id_into_community_resources_table.php" timestamp="1553753989822">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="41" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
       </file>
     </filemarks>
     <jumps>
