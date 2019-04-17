@@ -47,12 +47,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" timestamp="1555307865191">
         <mark key="'" line="161" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1555298203777">
-        <mark key="'" line="63" column="38" />
-        <mark key="[" line="70" column="49" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1555467730692">
+        <mark key="[" line="88" column="119" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/addlabel.sql" timestamp="1551249891470">
         <mark key="[" line="0" column="0" />
@@ -94,8 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/EmailController.php" />
-      <jump line="77" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
       <jump line="108" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" />
       <jump line="4" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.example" />
@@ -194,13 +191,15 @@
       <jump line="64" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
       <jump line="63" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSiteBelong.php" />
+      <jump line="69" column="72" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
+      <jump line="82" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsKCiAgICAvKioKICAgICAqIOW9k+WJjemhtQogICAgICogQHZhciBpbnQKICAgICAqLwogICAgcHJpdmF0ZSAkY3VyUGFnZSA9IDE7CgogICAgLyoqCiAgICAgKiBAdmFyIGludAogICAgICovCiAgICBwcml2YXRlICRwYWdlU2l6ZSA9IDEwOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGl0ZW0tPm91dF9iaXpfaWQpLT53aGVyZSgndG9wX2lkJywgJyE9JywgJGl0ZW0tPmlkKQogICAgICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">Mi4gTmV0d29yayBvdmVyaGVhZCBpcyB3b3JzdAppZiB0aGUgYXBwbGljYXRpb24gaXMgb24gYSBkaWZmZXJlbnQgaG9zdCBmcm9tIHRoZSBzZXJ2ZXIsCmJ1dCB0cmFuc2ZlcnJpbmcgZGF0YSBiZXR3ZWVuIE15U1FMIGFuZCB0aGUgYXBwbGljYXRpb24gaXNu4oCZdCBmcmVlCmV2ZW4gaWYgdGhleeKAmXJlIG9uIHRoZSBzYW1lIHNlcnZlci4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -221,10 +220,10 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>where('id',</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvc2l0b3J5XD4=</text>
+        <text>even</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNvbW11bml0eVJlc291cmNlLT50b3BfaWQgPSAkaXRlbS0+aWQ7CiAgICAgICAgICAgICAgICAgICAgICAgICRjb21tdW5pdHlSZXNvdXJjZS0+c2F2ZSgpOwo=</text>
@@ -233,22 +232,22 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGl0ZW0tPm91dF9iaXpfaWQpLT53aGVyZSgndG9wX2lkJywgJyE9JywgJGl0ZW0tPmlkKQogICAgICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">Mi4gTmV0d29yayBvdmVyaGVhZCBpcyB3b3JzdAppZiB0aGUgYXBwbGljYXRpb24gaXMgb24gYSBkaWZmZXJlbnQgaG9zdCBmcm9tIHRoZSBzZXJ2ZXIsCmJ1dCB0cmFuc2ZlcnJpbmcgZGF0YSBiZXR3ZWVuIE15U1FMIGFuZCB0aGUgYXBwbGljYXRpb24gaXNu4oCZdCBmcmVlCmV2ZW4gaWYgdGhleeKAmXJlIG9uIHRoZSBzYW1lIHNlcnZlci4K</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5maXJzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGl0ZW0tPm91dF9iaXpfaWQpLT53aGVyZSgndG9wX2lkJywgJyE9JywgJGl0ZW0tPmlkKQogICAgICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygn6I635Y+W5bGV5L2N5YiX6KGoJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5maXJzdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygn6I635Y+W5bGV5L2N5YiX6KGoJyk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
@@ -257,22 +256,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYyA9ICR0aGlzLT5jOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxLT5zZXRQYWdlSW5kZXgoMSk7CiAgICAgICAgJHJlcS0+c2V0UGFnZVNpemUoMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYyA9ICR0aGlzLT5jOwo=</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxLT5zZXRQYWdlSW5kZXgoMSk7CiAgICAgICAgJHJlcS0+c2V0UGFnZVNpemUoMTAwKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJGMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJGMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
@@ -285,9 +284,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvc2l0b3J5XD4=</last-search>
+      <last-search>even</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern>even</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +294,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25uZWN0aW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
         <entry encoding="base64">XDxnZXRMYXN0Q29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxyZWdpc3RlclNlYXJjaGFibGVNYWNyb3NcPg==</entry>
@@ -315,6 +313,7 @@
         <entry encoding="base64">XDxTTVNfTU9SRV9USEFOX0xJTUlUU19BTl9IT1VSX01TR1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUNvZGVcPg==</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
+        <entry>even</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
