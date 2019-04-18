@@ -5,7 +5,8 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1555579925904">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_204317_rename_record_comment_to_comment_table.php" timestamp="1555595936473" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1555595601607">
         <mark key="'" line="87" column="46" />
         <mark key="[" line="64" column="26" />
         <mark key="]" line="64" column="39" />
@@ -22,12 +23,8 @@
       <file name="/a.dummy" timestamp="1555299741781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/phpunit.xml" timestamp="1555579394954">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="14" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CouponRuleUpdateRequest.php" timestamp="1555591587584" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.12-depoly.sh" timestamp="1555595374551" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" timestamp="1555576813866" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/LocationTypeRequest.php" timestamp="1555591895585">
         <mark key="'" line="16" column="23" />
@@ -36,25 +33,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CategoryUpdate.php" timestamp="1555591604115">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="28" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1555508778470" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/phpunit.xml" timestamp="1555579356691">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="25" column="62" />
-        <mark key="." line="25" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/LocationTypesResource.php" timestamp="1555588137285">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="27" />
         <mark key="." line="21" column="27" />
         <mark key="^" line="21" column="12" />
-      </file>
-      <file name="/PHP Console" timestamp="1555592314870">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_162940_add_top_mall_type_into_attribute_options_table.php" timestamp="1555317350769">
         <mark key="[" line="28" column="47" />
@@ -83,45 +67,20 @@
         <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CategoryMoveRequest.php" timestamp="1555591614009" />
-      <file name="/Dummy.txt" timestamp="1555591900156">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="/fragment.php" timestamp="1555382822760">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/.gitignore" timestamp="1555578218490">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1555482483609">
         <mark key="'" line="57" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" timestamp="1555399785314">
-        <mark key="[" line="118" column="81" />
-        <mark key="]" line="118" column="81" />
-        <mark key="." line="118" column="81" />
-        <mark key="^" line="118" column="81" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/SellingResourcePriceMigrate.php" timestamp="1555594533970" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" timestamp="1555307865191">
         <mark key="'" line="161" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1555508079007" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1555579362680">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" timestamp="1555591718783">
         <mark key="'" line="86" column="33" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="113" column="7" />
         <mark key="." line="111" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1555487746786">
-        <mark key="'" line="121" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1555480638730">
         <mark key="[" line="107" column="75" />
@@ -138,6 +97,50 @@
         <mark key="]" line="303" column="38" />
         <mark key="^" line="301" column="11" />
         <mark key="." line="303" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/phpunit.xml" timestamp="1555579394954">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CategoryUpdate.php" timestamp="1555591604115">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/phpunit.xml" timestamp="1555579356691">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="13" />
+        <mark key="^" line="25" column="62" />
+        <mark key="." line="25" column="62" />
+      </file>
+      <file name="/PHP Console" timestamp="1555592314870">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555593426700">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="/fragment.php" timestamp="1555382822760">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/.gitignore" timestamp="1555578218490">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" timestamp="1555399785314">
+        <mark key="[" line="118" column="81" />
+        <mark key="]" line="118" column="81" />
+        <mark key="." line="118" column="81" />
+        <mark key="^" line="118" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1555579362680">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1555487746786">
+        <mark key="'" line="121" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/news/app/Http/Controllers/PostController.php" timestamp="1555589876625">
         <mark key="'" line="47" column="11" />
