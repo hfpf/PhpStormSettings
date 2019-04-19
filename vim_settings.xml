@@ -34,12 +34,6 @@
         <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1555508778470" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/LocationTypesResource.php" timestamp="1555588137285">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-        <mark key="^" line="21" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_162940_add_top_mall_type_into_attribute_options_table.php" timestamp="1555317350769">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="47" />
@@ -114,12 +108,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/phpunit.xml" timestamp="1555579356691">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="25" column="62" />
-        <mark key="." line="25" column="62" />
-      </file>
       <file name="/PHP Console" timestamp="1555640663815">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,10 +116,8 @@
         <mark key="'" line="175" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" timestamp="1555657005771">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="94" column="62" />
-        <mark key="^" line="105" column="58" />
-        <mark key="." line="105" column="58" />
+        <mark key="^" line="90" column="58" />
+        <mark key="." line="90" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1555658515753">
         <mark key="[" line="0" column="0" />
@@ -171,14 +157,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1555487746786">
         <mark key="'" line="121" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/ValidateCommonParams.php" timestamp="1555660204573">
+        <mark key="'" line="77" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/bin/envoy" timestamp="1555638533154" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/news/app/Http/Controllers/PostController.php" timestamp="1555589876625">
         <mark key="'" line="47" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
-      <jump line="8" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/CaptchaGetRequest.php" />
       <jump line="7" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/CaptchaGetRequest.php" />
       <jump line="14" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/CaptchaGetRequest.php" />
       <jump line="348" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" />
@@ -277,6 +264,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="127" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="54" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSiteBelong.php" />
+      <jump line="51" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/ValidateCommonParams.php" />
+      <jump line="76" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/ValidateCommonParams.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
