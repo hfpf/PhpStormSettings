@@ -13,12 +13,12 @@
         <mark key="^" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" timestamp="1555641462503">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="125" column="2" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" timestamp="1555643539360">
+        <mark key="'" line="127" column="7" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1555596907206">
         <mark key="[" line="0" column="0" />
@@ -97,7 +97,7 @@
         <mark key="'" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/envoy/src/Console/RunCommand.php" timestamp="1555639003064" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/phpunit.xml" timestamp="1555579394954">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/phpunit.xml" timestamp="1555643439478">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="14" />
         <mark key="." line="35" column="0" />
@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/sql/v3.12.sql" timestamp="1555596821523">
         <mark key="'" line="175" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555593426700">
+      <file name="/Dummy.txt" timestamp="1555643445297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="5" />
@@ -153,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="104" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="98" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="8" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/CaptchaGetRequest.php" />
@@ -253,13 +252,14 @@
       <jump line="121" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
+      <jump line="127" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsKCiAgICAvKioKICAgICAqIOW9k+WJjemhtQogICAgICogQHZhciBpbnQKICAgICAqLwogICAgcHJpdmF0ZSAkY3VyUGFnZSA9IDE7CgogICAgLyoqCiAgICAgKiBAdmFyIGludAogICAgICovCiAgICBwcml2YXRlICRwYWdlU2l6ZSA9IDEwOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$linhuiba_dir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHdkCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -280,7 +280,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>$linhuiba_dir</text>
+        <text>etc/profile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaHB1bml0XD4=</text>
@@ -292,46 +292,46 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3stLSAgICAkcmVsZWFzZXNfZGlyID0gJy9vcHQvbGFtcHAvaHRkb2NzL2FwcC9yZWxlYXNlcyc7LS19fQp7ey0tICAgICRhcHBfZGlyID0gJy9vcHQvbGFtcHAvaHRkb2NzL2FwcCc7LS19fQp7ey0tICAgICRyZWxlYXNlID0gZGF0ZSgnWW1kSGlzJyk7LS19fQp7ey0tICAgICRuZXdfcmVsZWFzZV9kaXIgPSAkcmVsZWFzZXNfZGlyIC4nLycuICRyZWxlYXNlOy0tfX0K</text>
+        <text encoding="base64">cHdkCg==</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3stLSAgICAkbGluaHVpYmFfcGFja2FnZSA9ICdsaW5odWliYS50YXIuZ3onOy0tfX0K</text>
+        <text encoding="base64">cHdkCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHdkCg==</text>
+        <text encoding="base64">ZWNobyAkUEFUSAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHdkCg==</text>
+        <text encoding="base64">Y2RhcHAK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGhwdW5pdAo=</text>
+        <text encoding="base64">e3stLWV4cG9ydCBCQVNIX0VOVj0vcm9vdC8uYmFzaHJjLS19fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bHMgdmVuZG9yL2Jpbgo=</text>
+        <text encoding="base64">ZXhwb3J0IEJBU0hfRU5WPS9yb290Ly5iYXNocmMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3stLSAgICAkcmVsZWFzZXNfZGlyID0gJy9vcHQvbGFtcHAvaHRkb2NzL2FwcC9yZWxlYXNlcyc7LS19fQp7ey0tICAgICRhcHBfZGlyID0gJy9vcHQvbGFtcHAvaHRkb2NzL2FwcCc7LS19fQp7ey0tICAgICRyZWxlYXNlID0gZGF0ZSgnWW1kSGlzJyk7LS19fQp7ey0tICAgICRuZXdfcmVsZWFzZV9kaXIgPSAkcmVsZWFzZXNfZGlyIC4nLycuICRyZWxlYXNlOy0tfX0K</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">e3stLSAgICAkbGluaHVpYmFfcGFja2FnZSA9ICdsaW5odWliYS50YXIuZ3onOy0tfX0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRpZCA9ICR0aGlzLT5yb3V0ZSgnaWQnKTsK</text>
+        <text encoding="base64">cHdkCg==</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
