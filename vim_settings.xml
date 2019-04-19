@@ -34,12 +34,6 @@
         <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1555508778470" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/LocationTypesResource.php" timestamp="1555588137285">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-        <mark key="^" line="21" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_162940_add_top_mall_type_into_attribute_options_table.php" timestamp="1555317350769">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="47" />
@@ -107,13 +101,7 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/phpunit.xml" timestamp="1555579356691">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="25" column="62" />
-        <mark key="." line="25" column="62" />
-      </file>
-      <file name="/PHP Console" timestamp="1555596953164">
+      <file name="/PHP Console" timestamp="1555637854644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/autoload_static.php" timestamp="1555596972547" />
@@ -139,6 +127,12 @@
         <mark key="]" line="118" column="81" />
         <mark key="." line="118" column="81" />
         <mark key="^" line="118" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_18_221421_add_top_mall_type_into_attributexxxxxxxbbbb_options_table.php" timestamp="1555637852127">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1555579362680">
         <mark key="'" line="1" column="0" />
