@@ -33,6 +33,9 @@
       <file name="/a.dummy" timestamp="1555596907206">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" timestamp="1555916457035">
+        <mark key="'" line="207" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CouponRuleUpdateRequest.php" timestamp="1555591587584" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.12-depoly.sh" timestamp="1555596762260" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" timestamp="1555576813866" />
@@ -60,6 +63,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/AppNavigationUpdateRequest.php" timestamp="1555591623732" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CategoryMoveRequest.php" timestamp="1555591614009" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/envoy/envoy" timestamp="1555638659656" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/LinHuiUserFromToken.php" timestamp="1555916442856">
+        <mark key="'" line="34" column="62" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1555639332629" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1555482483609">
         <mark key="'" line="57" column="44" />
@@ -156,9 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
-      <jump line="86" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
-      <jump line="138" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
       <jump line="31" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" />
       <jump line="697" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php" />
       <jump line="102" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" />
@@ -256,6 +259,9 @@
       <jump line="76" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Output/StreamOutput.php" />
       <jump line="16" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" />
       <jump line="43" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSiteBelong.php" />
+      <jump line="34" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/LinHuiUserFromToken.php" />
+      <jump line="169" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" />
+      <jump line="207" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
