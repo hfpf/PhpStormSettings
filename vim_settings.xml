@@ -175,11 +175,11 @@
         <mark key="." line="74" column="107" />
         <mark key="^" line="74" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1555997985045">
-        <mark key="[" line="111" column="91" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="111" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1556073030001">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="50" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/FieldOrderItem.php" timestamp="1555675937081" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" timestamp="1555918978434">
@@ -227,7 +227,7 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1555988905265">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1556071375043">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="12" />
@@ -350,8 +350,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Beware of taking query response time at face value.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -377,8 +377,8 @@
       <register name="/" type="4">
         <text>REDI</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RhZ2luZycgPT4gWwogICAgICAgICAgICAnc3VwZXJ2aXNvci0xJyA9PiBbCiAgICAgICAgICAgICAgICAnY29ubmVjdGlvbicgPT4gJ3JlZGlzJywKICAgICAgICAgICAgICAgICdxdWV1ZScgPT4gWydkZWZhdWx0J10sCiAgICAgICAgICAgICAgICAnYmFsYW5jZScgPT4gJ3NpbXBsZScsCiAgICAgICAgICAgICAgICAncHJvY2Vzc2VzJyA9PiAzLAogICAgICAgICAgICAgICAgJ3RyaWVzJyA9PiAzLAogICAgICAgICAgICBdLAogICAgICAgICAgICAnc3VwZXJ2aXNvci0yJyA9PiBbCiAgICAgICAgICAgICAgICAnY29ubmVjdGlvbicgPT4gJ3JlZGlzJywKICAgICAgICAgICAgICAgICdxdWV1ZScgPT4gWydzaW5nbGUtdGhyZWFkJ10sCiAgICAgICAgICAgICAgICAnYmFsYW5jZScgPT4gJ3NpbXBsZScsCiAgICAgICAgICAgICAgICAncHJvY2Vzc2VzJyA9PiAxLAogICAgICAgICAgICAgICAgJ3RyaWVzJyA9PiAzLAogICAgICAgICAgICBdLAogICAgICAgIF0sCg==</text>
+      <register name="0" type="4">
+        <text>Beware of taking query response time at face value.</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
