@@ -12,6 +12,7 @@
       <mapping pattern=".env.integration" type="PLAIN_TEXT" />
       <mapping pattern="new_registered_selling_resource_data_45" type="PLAIN_TEXT" />
       <mapping pattern="new_registered_physical_resource_data_45" type="PLAIN_TEXT" />
+      <mapping pattern=".env.unit_test" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
     </extensionMap>
