@@ -37,6 +37,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/DataStats.php" timestamp="1556260540546" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1556257431470" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/LocationTypesResource.php" timestamp="1555588137285">
         <mark key="[" line="21" column="27" />
@@ -44,7 +45,13 @@
         <mark key="." line="21" column="27" />
         <mark key="^" line="21" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" timestamp="1556260780385">
+        <mark key="'" line="179" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CategoryMoveRequest.php" timestamp="1555591614009" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" timestamp="1556260765124">
+        <mark key="'" line="54" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/OSS/Exception/ClientException.php" timestamp="1555988472900">
         <mark key="'" line="0" column="31" />
       </file>
@@ -103,6 +110,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php" timestamp="1556185726507">
         <mark key="'" line="324" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" timestamp="1556260365783">
+        <mark key="'" line="384" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/composer/src/Composer/IO/ConsoleIO.php" timestamp="1555665293973">
         <mark key="'" line="175" column="22" />
       </file>
@@ -157,6 +167,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/CommunityResource.php" timestamp="1555307865191">
         <mark key="'" line="161" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/DeleteTopSiteBelong.php" timestamp="1555666038013" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/app.php" timestamp="1556182895087">
         <mark key="'" line="232" column="0" />
         <mark key="[" line="82" column="17" />
@@ -177,6 +188,9 @@
         <mark key="^" line="191" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/FieldOrderItem.php" timestamp="1555675937081" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/CertificationController.php" timestamp="1556259900397">
+        <mark key="'" line="44" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/addlabel.sql" timestamp="1551249891470">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,6 +208,9 @@
         <mark key="'" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/envoy/src/Console/RunCommand.php" timestamp="1555639003064" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" timestamp="1556260447201">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" timestamp="1555665503068">
         <mark key="'" line="16" column="39" />
       </file>
@@ -204,10 +221,10 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1555984419516">
         <mark key="'" line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1555984476520">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1556259891176">
         <mark key="'" line="1640" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556190267322">
+      <file name="/Dummy.txt" timestamp="1556260008857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="13" />
@@ -244,21 +261,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
-      <jump line="63" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSiteBelong.php" />
-      <jump line="69" column="72" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
-      <jump line="82" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
-      <jump line="57" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="68" column="66" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
-      <jump line="126" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
-      <jump line="205" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CertificationService.php" />
-      <jump line="78" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CertificationService.php" />
       <jump line="146" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CertificationService.php" />
       <jump line="30" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CertificationService.php" />
-      <jump line="384" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
-      <jump line="386" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="120" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
@@ -344,6 +348,19 @@
       <jump line="87" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" />
       <jump line="30" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="17" column="69" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/en_HK/PhoneNumber.php" />
+      <jump line="44" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/CertificationController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="418" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="372" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="386" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="373" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="398" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="384" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" />
+      <jump line="49" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
+      <jump line="50" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
+      <jump line="54" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
+      <jump line="179" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -374,7 +391,7 @@
         <text>The Bennet wip</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3RpdmVTdGF0ZXNcPg==</text>
+        <text encoding="base64">XDxFUUJfT0xfU0VDUkVUXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIGludGVncmF0aW9uCg==</text>
@@ -435,18 +452,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3RpdmVTdGF0ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxFUUJfT0xfU0VDUkVUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3RpdmVTdGF0ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFUUJfT0xfU0VDUkVUXD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9taXNlXD4=</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxFWEVDVVRFX1BFUklPRF9USU1FX1NBVkVEXD4=</entry>
         <entry encoding="base64">XDxhcHBrZXlcPg==</entry>
         <entry encoding="base64">XDxBUFBST1ZFRFw+</entry>
@@ -465,6 +480,8 @@
         <entry>REDI</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry encoding="base64">XDxhY3RpdmVTdGF0ZXNcPg==</entry>
+        <entry encoding="base64">XDxFUUJfT0xfQVBQSURcPg==</entry>
+        <entry encoding="base64">XDxFUUJfT0xfU0VDUkVUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
