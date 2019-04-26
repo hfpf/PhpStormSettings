@@ -22,7 +22,8 @@
       <file name="/a.dummy" timestamp="1555596907206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1556183212219">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1556257336973">
+        <mark key="'" line="30" column="11" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="18" />
       </file>
@@ -36,7 +37,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1555508778470" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1556257431470" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/LocationTypesResource.php" timestamp="1555588137285">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="27" />
@@ -155,12 +156,12 @@
         <mark key="^" line="113" column="7" />
         <mark key="." line="111" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1556250540976">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1556257327899">
         <mark key="'" line="191" column="47" />
         <mark key="[" line="184" column="6" />
-        <mark key="]" line="184" column="5" />
-        <mark key="." line="184" column="5" />
-        <mark key="^" line="184" column="5" />
+        <mark key="]" line="191" column="25" />
+        <mark key="." line="191" column="25" />
+        <mark key="^" line="191" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/FieldOrderItem.php" timestamp="1555675937081" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/addlabel.sql" timestamp="1551249891470">
@@ -194,12 +195,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Kernel.php" timestamp="1556022111095">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="33" column="67" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1556190120463">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="34" column="0" />
@@ -212,7 +207,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/bin/envoy" timestamp="1555638533154" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSiteBelong.php" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSiteBelong.php" />
       <jump line="41" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/GetTopSite.php" />
@@ -312,6 +306,7 @@
       <jump line="36" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="187" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="87" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" />
+      <jump line="30" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
     </jumps>
     <registers>
       <register name="a" type="2">
