@@ -2,37 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.html</mask>
-      <mask>*.css</mask>
-      <mask>*.js</mask>
-      <mask>vendor/</mask>
-      <mask>vendor/*.php</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.blade.php</mask>
-      <mask>*.blad.php</mask>
-      <mask>*.bla.php</mask>
-      <mask>*.bl.php</mask>
-      <mask>*.b.php</mask>
-      <mask>*..php</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
