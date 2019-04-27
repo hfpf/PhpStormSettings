@@ -54,8 +54,8 @@
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" timestamp="1556260780385">
-        <mark key="'" line="179" column="43" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" timestamp="1556379915133">
+        <mark key="'" line="418" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_113046_add_top_belong_type_into_categories_table.php" timestamp="1555299737184">
         <mark key="[" line="6" column="12" />
@@ -271,8 +271,8 @@
         <mark key="." line="118" column="81" />
         <mark key="^" line="118" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" timestamp="1556374064407">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" timestamp="1556379844483">
+        <mark key="'" line="35" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_18_221421_add_top_mall_type_into_attributexxxxxxxbbbb_options_table.php" timestamp="1555637852127">
         <mark key="[" line="6" column="40" />
@@ -301,10 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/CertificationService.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
-      <jump line="120" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="16" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="4" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="39" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" />
@@ -401,6 +397,10 @@
       <jump line="54" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
       <jump line="179" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" />
+      <jump line="35" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" />
+      <jump line="157" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
+      <jump line="159" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
+      <jump line="418" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
