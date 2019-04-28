@@ -54,8 +54,8 @@
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" timestamp="1556379915133">
-        <mark key="'" line="418" column="59" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" timestamp="1556429842214">
+        <mark key="'" line="2461" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_15_113046_add_top_belong_type_into_categories_table.php" timestamp="1555299737184">
         <mark key="[" line="6" column="12" />
@@ -301,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="4" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="39" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" />
       <jump line="44" column="83" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" />
@@ -401,6 +400,7 @@
       <jump line="157" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
       <jump line="159" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
       <jump line="418" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
+      <jump line="2461" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
