@@ -209,12 +209,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" timestamp="1556260447201">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1556603152579">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1556605255053">
         <mark key="'" line="33" column="16" />
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="27" column="46" />
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" timestamp="1555665503068">
         <mark key="'" line="16" column="39" />
