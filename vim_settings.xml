@@ -120,12 +120,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557062631291">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557063272007">
+        <mark key="'" line="27" column="31" />
         <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="52" />
-        <mark key="^" line="16" column="52" />
-        <mark key="." line="16" column="52" />
+        <mark key="]" line="16" column="46" />
+        <mark key="^" line="16" column="46" />
+        <mark key="." line="16" column="46" />
       </file>
       <file name="/fragment.php" timestamp="1556185352208">
         <mark key="[" line="0" column="0" />
@@ -333,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="31" filename="$USER_HOME$/.composer/vendor/laravel/envoy/envoy" />
       <jump line="59" column="23" filename="$USER_HOME$/.composer/vendor/laravel/envoy/src/ConfigurationParser.php" />
       <jump line="336" column="29" filename="$USER_HOME$/.composer/vendor/symfony/process/Process.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
@@ -424,7 +423,6 @@
       <jump line="40" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" />
       <jump line="23" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
       <jump line="20" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
@@ -433,13 +431,15 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
+      <jump line="23" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
+      <jump line="27" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBsb2NhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHBjbnRs</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -460,7 +460,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>ansible</text>
+        <text encoding="base64">IHBjbnRs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBfZGlyXD4=</text>
