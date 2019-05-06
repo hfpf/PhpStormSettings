@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/PublishResourcePostRequest.php" timestamp="1556096500405" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CouponRuleUpdateRequest.php" timestamp="1555591587584" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.12-depoly.sh" timestamp="1556374183177" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557140777647">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557143367762">
         <mark key="'" line="14" column="27" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/DataStats.php" timestamp="1556260540546" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1556257431470" />
@@ -124,10 +124,10 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557136089051">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557144055971">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="45" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="46" />
         <mark key="^" line="26" column="45" />
         <mark key="." line="26" column="45" />
       </file>
@@ -297,7 +297,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1556259891176">
         <mark key="'" line="1640" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557140779840">
+      <file name="/Dummy.txt" timestamp="1557143378949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -450,7 +450,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3R5bGU6CiAgc3RhZ2U6IHRlc3QKICBzY3JpcHQ6Cg==</text>
+        <text encoding="base64">Y29tcG9zZXIgZ2xvYmFsIHJlcXVpcmUgImxhcmF2ZWwvZW52b3k9fjEuMCIgXAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -477,7 +477,7 @@
         <text encoding="base64">XDxhcHBfZGlyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gLi92ZW5kb3IvYmluL3BocGNzIC0tZXJyb3Itc2V2ZXJpdHk9MSAtLXdhcm5pbmctc2V2ZXJpdHk9OCAtLWV4dGVuc2lvbnM9cGhwCg==</text>
+        <text encoding="base64">Y29tcG9zZXIgZ2xvYmFsIHJlcXVpcmUgImxhcmF2ZWwvZW52b3k9fjEuMCIgXAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
