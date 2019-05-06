@@ -173,8 +173,8 @@
         <mark key="'" line="207" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Auth/UserController.php" timestamp="1555576813866" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1556183262761">
-        <mark key="'" line="47" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1557156756993">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="19" />
@@ -263,12 +263,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" timestamp="1555665503068">
         <mark key="'" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/AppServiceProvider.php" timestamp="1557155987997">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/AppServiceProvider.php" timestamp="1557156773618">
         <mark key="'" line="17" column="59" />
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="/PHP Console" timestamp="1556592560205">
         <mark key="[" line="0" column="0" />
@@ -283,7 +283,7 @@
         <mark key="^" line="90" column="58" />
         <mark key="." line="90" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557155815645">
+      <file name="/Dummy.txt" timestamp="1557156767494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -321,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8337" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/CityDomainMigrate.php" />
       <jump line="62" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Traits/ProcessBar.php" />
       <jump line="8348" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/CityDomainMigrate.php" />
       <jump line="8338" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/CityDomainMigrate.php" />
@@ -421,13 +420,14 @@
       <jump line="14" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/AppServiceProvider.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/AppServiceProvider.php" />
       <jump line="17" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/AppServiceProvider.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEJhcnJ5dmRoXExhcmF2ZWxJZGVIZWxwZXJcSWRlSGVscGVyU2VydmljZVByb3ZpZGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>production</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -448,13 +448,13 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>IdeHelperServiceProvider</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29tcG9zZXIgZ2xvYmFsIHJlcXVpcmUgImxhcmF2ZWwvZW52b3k9fjEuMCIgXAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPmFwcC0+ZW52aXJvbm1lbnQoKSAhPT0gJ3Byb2R1Y3Rpb24n</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
