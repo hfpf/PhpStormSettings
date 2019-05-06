@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/PublishResourcePostRequest.php" timestamp="1556096500405" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CouponRuleUpdateRequest.php" timestamp="1555591587584" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.12-depoly.sh" timestamp="1556374183177" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557128646452">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557130845894">
         <mark key="'" line="14" column="27" />
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/DataStats.php" timestamp="1556260540546" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1556257431470" />
@@ -284,6 +284,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1555984419516">
         <mark key="'" line="35" column="28" />
       </file>
+      <file name="/.gitlab-ci.yml" timestamp="1557129794560" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" timestamp="1556615232914">
         <mark key="'" line="40" column="27" />
         <mark key="^" line="90" column="58" />
@@ -292,7 +293,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1556259891176">
         <mark key="'" line="1640" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557128652224">
+      <file name="/Dummy.txt" timestamp="1557130849455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -438,8 +439,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>node_modules</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -460,7 +461,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBjbnRs</text>
+        <text>node_modules</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBfZGlyXD4=</text>
@@ -478,40 +479,40 @@
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGRvY2tlci1waHAtZXh0LWluc3RhbGwgcGNudGwK</text>
+        <text encoding="base64">IyBUaGlzIGZvbGRlciBpcyBjYWNoZWQgYmV0d2VlbiBidWlsZHMKIyBodHRwOi8vZG9jcy5naXRsYWIuY29tL2NlL2NpL3lhbWwvUkVBRE1FLmh0bWwjY2FjaGUKY2FjaGU6CiAga2V5OiAke0NJX0NPTU1JVF9SRUZfU0xVR30KICBwYXRoczoKICAgIC0gdmVuZG9yLwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBsb2NhdGlvbgo=</text>
+        <text encoding="base64">IyBUaGlzIGZvbGRlciBpcyBjYWNoZWQgYmV0d2VlbiBidWlsZHMKIyBodHRwOi8vZG9jcy5naXRsYWIuY29tL2NlL2NpL3lhbWwvUkVBRE1FLmh0bWwjY2FjaGUKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gY29tcG9zZXIgaW5zdGFsbAo=</text>
+        <text encoding="base64">ICBrZXk6ICR7Q0lfQ09NTUlUX1JFRl9TTFVHfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2Nvbm5lY3Q6CiMgIGltYWdlOiBteXNxbAojICBzY3JpcHQ6CiMgICAgLSBlY2hvICJTRUxFQ1QgJ09LJzsiIHwgbXlzcWwgLS11c2VyPXJvb3QgLS1wYXNzd29yZD0iJE1ZU1FMX1JPT1RfUEFTU1dPUkQiIC0taG9zdD1teXNxbCAiJE1ZU1FMX0RBVEFCQVNFIgojCg==</text>
+        <text encoding="base64">Y2FjaGU6CiAga2V5OiAke0NJX0NPTU1JVF9SRUZfU0xVR30KICBwYXRoczoKICAgIC0gdmVuZG9yLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29ubmVjdDoKICBpbWFnZTogbXlzcWwKICBzY3JpcHQ6CiAgICAtIGVjaG8gIlNFTEVDVCAnT0snOyIgfCBteXNxbCAtLXVzZXI9cm9vdCAtLXBhc3N3b3JkPSIkTVlTUUxfUk9PVF9QQVNTV09SRCIgLS1ob3N0PW15c3FsICIkTVlTUUxfREFUQUJBU0UiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VydmljZXM6CiAgLSBteXNxbAoKYmVmb3JlX3NjcmlwdDoKICAtIG15c3FsIC0tdmVyc2lvbgoKdmFyaWFibGVzOgogICMgQ29uZmlndXJlIG15c3FsIHNlcnZpY2UgKGh0dHBzOi8vaHViLmRvY2tlci5jb20vXy9teXNxbC8pCiAgTVlTUUxfREFUQUJBU0U6IGhlbGxvX3dvcmxkX3Rlc3QKICBNWVNRTF9ST09UX1BBU1NXT1JEOiBteXNxbAoKY29ubmVjdDoKICBpbWFnZTogbXlzcWwKICBzY3JpcHQ6CiAgICAtIGVjaG8gIlNFTEVDVCAnT0snOyIgfCBteXNxbCAtLXVzZXI9cm9vdCAtLXBhc3N3b3JkPSIkTVlTUUxfUk9PVF9QQVNTV09SRCIgLS1ob3N0PW15c3FsICIkTVlTUUxfREFUQUJBU0UiCg==</text>
+        <text encoding="base64">UlVOIGRvY2tlci1waHAtZXh0LWluc3RhbGwgcGNudGwK</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsaWFzOiBteXNxbAo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBsb2NhdGlvbgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY29tcG9zZXIgaW5zdGFsbAo=</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
