@@ -80,6 +80,7 @@
         <mark key="." line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/envoy/envoy" timestamp="1555638659656" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/jwt.php" timestamp="1557133401303" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1555639332629" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1555482483609">
         <mark key="'" line="57" column="44" />
