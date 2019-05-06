@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/PublishResourcePostRequest.php" timestamp="1556096500405" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CouponRuleUpdateRequest.php" timestamp="1555591587584" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.12-depoly.sh" timestamp="1556374183177" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557121837081">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557128646452">
+        <mark key="'" line="14" column="27" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/DataStats.php" timestamp="1556260540546" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/helpers.php" timestamp="1556257431470" />
@@ -292,7 +292,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1556259891176">
         <mark key="'" line="1640" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557121939391">
+      <file name="/Dummy.txt" timestamp="1557128652224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -333,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="49" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="117" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="121" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
@@ -433,6 +432,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
       <jump line="3" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
+      <jump line="14" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
