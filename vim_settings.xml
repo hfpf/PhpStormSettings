@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/PublishResourcePostRequest.php" timestamp="1556096500405" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/CouponRuleUpdateRequest.php" timestamp="1555591587584" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.12-depoly.sh" timestamp="1556374183177" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557150535935">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1557152571519">
         <mark key="'" line="14" column="27" />
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="6" />
@@ -271,12 +271,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" timestamp="1556260447201">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557151172644">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="59" />
-        <mark key="^" line="27" column="59" />
-        <mark key="." line="27" column="59" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557153669976">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" timestamp="1555665503068">
         <mark key="'" line="16" column="39" />
@@ -297,7 +297,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1556259891176">
         <mark key="'" line="1640" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557150664392">
+      <file name="/Dummy.txt" timestamp="1557153671031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -344,8 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
-      <jump line="121" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
       <jump line="127" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" />
@@ -444,13 +442,15 @@
       <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="14" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="22" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Permission.php" />
+      <jump line="19" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="17" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29tcG9zZXIgZ2xvYmFsIHJlcXVpcmUgImxhcmF2ZWwvZW52b3k9fjEuMCIgXAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC1iIGRldmVsb3A=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -471,10 +471,10 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRldg==</text>
+        <text encoding="base64">IC1iIGRldmVsb3A=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBfZGlyXD4=</text>
+        <text encoding="base64">XDxyZXBvc2l0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29tcG9zZXIgZ2xvYmFsIHJlcXVpcmUgImxhcmF2ZWwvZW52b3k9fjEuMCIgXAo=</text>
@@ -535,9 +535,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBfZGlyXD4=</last-search>
+      <last-search encoding="base64">XDxyZXBvc2l0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBfZGlyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBvc2l0b3J5XD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -552,7 +552,6 @@
         <entry encoding="base64">XDxTRU5EX0lOVEVSVkFMX0xJTUlUX0NPREVcPg==</entry>
         <entry encoding="base64">XDxTTVNfTU9SRV9USEFOX0xJTUlUU19BTl9IT1VSX01TR1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUNvZGVcPg==</entry>
-        <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
         <entry>even</entry>
         <entry encoding="base64">XDxwdWJDcmVhdGVBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxpbnRlZ3JhdGVfbGluaHVpYmFfc2VydmVyXD4=</entry>
@@ -565,6 +564,7 @@
         <entry encoding="base64">XDxFUUJfT0xfU0VDUkVUXD4=</entry>
         <entry>envo</entry>
         <entry encoding="base64">XDxhcHBfZGlyXD4=</entry>
+        <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
