@@ -194,12 +194,12 @@
         <mark key="^" line="90" column="58" />
         <mark key="." line="90" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1557196575603">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1557204371908">
         <mark key="'" line="32" column="10" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="19" />
-        <mark key="^" line="21" column="19" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557199831931">
         <mark key="'" line="0" column="0" />
@@ -208,8 +208,8 @@
         <mark key="^" line="26" column="45" />
         <mark key="." line="26" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557200624769">
-        <mark key="[" line="0" column="15" />
+      <file name="/Dummy.txt" timestamp="1557204287846">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -388,7 +388,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pp/Models/Permission.phpa</text>
+        <text>linhui</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -409,7 +409,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>pp/Models/Permission.phpa</text>
+        <text>linhui</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXJcPg==</text>
@@ -466,7 +466,7 @@
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="z" type="4">
         <text encoding="base64">LCBbJ3JvbGUnID0+IEVudGVycHJpc2U6OlJPTEVfQURNSU5d</text>
@@ -523,8 +523,8 @@
         <entry>action MethodUp</entry>
         <entry>s</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
