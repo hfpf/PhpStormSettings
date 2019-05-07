@@ -116,6 +116,7 @@
         <mark key="^" line="113" column="7" />
         <mark key="." line="111" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2018_07_31_031746_create_applets_table.php" timestamp="1557226148629" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/fzaninotto/faker/src/Faker/Provider/en_HK/PhoneNumber.php" timestamp="1556259262915">
         <mark key="'" line="17" column="69" />
       </file>
@@ -182,11 +183,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1555984419516">
         <mark key="'" line="35" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" timestamp="1556615232914">
-        <mark key="'" line="40" column="27" />
-        <mark key="^" line="90" column="58" />
-        <mark key="." line="90" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1557214424693">
         <mark key="'" line="32" column="10" />
