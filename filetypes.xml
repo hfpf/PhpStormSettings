@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.intergration" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="new_shared_community_resource_data_40" type="PLAIN_TEXT" />
       <mapping pattern="apidoc" type="PLAIN_TEXT" />
