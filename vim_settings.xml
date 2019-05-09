@@ -119,12 +119,12 @@
         <mark key="^" line="301" column="11" />
         <mark key="." line="303" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557380038611">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="27" column="46" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557381617743">
+        <mark key="'" line="37" column="11" />
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="30" column="16" />
+        <mark key="." line="30" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/AppServiceProvider.php" timestamp="1557156773618">
         <mark key="'" line="17" column="59" />
@@ -160,7 +160,7 @@
         <mark key="^" line="26" column="45" />
         <mark key="." line="26" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557374182366">
+      <file name="/Dummy.txt" timestamp="1557381228361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -217,7 +217,6 @@
       <file name="/Envoy.blade.php" timestamp="1557213913925" />
     </filemarks>
     <jumps>
-      <jump line="22" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/Repository.php" />
       <jump line="17" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/Repository.php" />
       <jump line="7" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Repository.php" />
       <jump line="1713" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ContractController.php" />
@@ -317,6 +316,7 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="14" column="3" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="43" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="37" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -347,7 +347,7 @@
         <text>integration</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWxlYXNlc19kaXJcPg==</text>
+        <text encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHRhc2soJ3VwZGF0ZV90ZXN0aW5nX2Vudl9maWxlJykKICAgIGVjaG8gInVwZGF0ZSB0ZXN0aW5nIGVudmlyb25tZW50IC5lbnYgZmlsZSIKICAgIGNwIHt7ICRuZXdfcmVsZWFzZV9kaXIgfX0vLmVudi5pbnRlZ3JhdGlvbiB7eyAkbmV3X3JlbGVhc2VfZGlyIH19Ly5lbnYKQGVuZHRhc2sK</text>
@@ -408,12 +408,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWxlYXNlc19kaXJcPg==</last-search>
+      <last-search encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWxlYXNlc19kaXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxBTElQQVlfR0FURVdBWV9VUkxcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -436,8 +436,8 @@
         <entry encoding="base64">XDxhcHBfZGlyXD4=</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXJcPg==</entry>
-        <entry encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</entry>
         <entry encoding="base64">XDxyZWxlYXNlc19kaXJcPg==</entry>
+        <entry encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
