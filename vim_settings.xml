@@ -84,6 +84,7 @@
       <file name="/fragment.php" timestamp="1556185352208">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php" timestamp="1557406736233" />
       <file name="$USER_HOME$/.composer/vendor/laravel/envoy/src/ConfigurationParser.php" timestamp="1555639047308">
         <mark key="'" line="59" column="23" />
       </file>
@@ -210,13 +211,13 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1557405410008">
+      <file name="/PHP Console" timestamp="1557406744898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1555984419516">
         <mark key="'" line="35" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557399038421">
+      <file name="/Dummy.txt" timestamp="1557407357211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -231,9 +232,9 @@
         <mark key="'" line="44" column="36" />
       </file>
       <file name="/composer.json" timestamp="1557200602340" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1557404558526">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1557407332675">
         <mark key="'" line="25" column="47" />
-        <mark key="[" line="25" column="38" />
+        <mark key="[" line="25" column="45" />
         <mark key="]" line="25" column="46" />
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
@@ -241,12 +242,14 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1555487746786">
         <mark key="'" line="121" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" timestamp="1557406214474" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/ValidateCommonParams.php" timestamp="1555660204573">
         <mark key="'" line="77" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/news/app/Http/Controllers/PostController.php" timestamp="1555589876625">
         <mark key="'" line="47" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php" timestamp="1557406669764" />
     </filemarks>
     <jumps>
       <jump line="35" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.example" />
