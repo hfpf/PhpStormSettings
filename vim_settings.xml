@@ -189,12 +189,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" timestamp="1556260447201">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557457449914">
-        <mark key="'" line="39" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557467209594">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="3" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="45" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" timestamp="1555665503068">
         <mark key="'" line="16" column="39" />
@@ -218,7 +218,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1555984419516">
         <mark key="'" line="35" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557457539064">
+      <file name="/Dummy.txt" timestamp="1557467211363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -253,10 +253,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php" timestamp="1557406669764" />
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.example" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" />
-      <jump line="32" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Kernel.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="45" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CalendarController.php" />
@@ -353,6 +349,10 @@
       <jump line="33" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Unit/Services/UserServiceTest.php" />
       <jump line="44" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" />
       <jump line="456" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Repositories/BaseRepository.php" />
+      <jump line="13" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="20" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -383,7 +383,7 @@
         <text>deployment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQl9IT1NUXD4=</text>
+        <text encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHRhc2soJ3VwZGF0ZV90ZXN0aW5nX2Vudl9maWxlJykKICAgIGVjaG8gInVwZGF0ZSB0ZXN0aW5nIGVudmlyb25tZW50IC5lbnYgZmlsZSIKICAgIGNwIHt7ICRuZXdfcmVsZWFzZV9kaXIgfX0vLmVudi5pbnRlZ3JhdGlvbiB7eyAkbmV3X3JlbGVhc2VfZGlyIH19Ly5lbnYKQGVuZHRhc2sK</text>
@@ -444,9 +444,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQl9IT1NUXD4=</last-search>
+      <last-search encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQl9IT1NUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -454,7 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTTVNfTU9SRV9USEFOX0xJTUlUU19BTl9IT1VSX01TR1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUNvZGVcPg==</entry>
         <entry>even</entry>
         <entry encoding="base64">XDxwdWJDcmVhdGVBY2NvdW50XD4=</entry>
@@ -474,6 +473,7 @@
         <entry encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</entry>
         <entry>php</entry>
         <entry encoding="base64">XDxEQl9IT1NUXD4=</entry>
+        <entry encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
