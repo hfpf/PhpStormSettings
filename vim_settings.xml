@@ -110,11 +110,11 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/docker-compose.yml" timestamp="1557490117444">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/docker-compose.yml" timestamp="1557492285121">
         <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Repositories/BaseRepository.php" timestamp="1557406137265">
         <mark key="'" line="456" column="34" />
