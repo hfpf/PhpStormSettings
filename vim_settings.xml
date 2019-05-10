@@ -5,7 +5,7 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1557479731002">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1557481162202">
         <mark key="'" line="41" column="29" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="30" />
@@ -157,12 +157,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" timestamp="1556260447201">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557475120794">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557481230263">
         <mark key="'" line="31" column="10" />
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="35" column="11" />
-        <mark key="^" line="35" column="11" />
-        <mark key="." line="35" column="11" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/symfony/console/Exception/RuntimeException.php" timestamp="1555665503068">
         <mark key="'" line="16" column="39" />
@@ -179,7 +179,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1555984419516">
         <mark key="'" line="35" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557475136490">
+      <file name="/Dummy.txt" timestamp="1557481288736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" timestamp="1557406077293">
@@ -311,8 +311,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBpZiAoJGNvbW1pdCkKICAgICAgICBbIC1kIHt7ICRuZXdfcmVsZWFzZV9kaXIgfX0gXSB8fCBnaXQgY2xvbmUgLS1icmFuY2gge3sgJHJlZiB9fSB7eyAkcmVwb3NpdG9yeSB9fSB7eyAkbmV3X3JlbGVhc2VfZGlyIH19CiAgICBAZWxzZQogICAgICAgIFsgLWQge3sgJG5ld19yZWxlYXNlX2RpciB9fSBdIHx8IGdpdCBjbG9uZSB7eyAkcmVwb3NpdG9yeSB9fSB7eyAkbmV3X3JlbGVhc2VfZGlyIH19CiAgICBAZW5kaWYK</text>
+      <register name="&quot;" type="4">
+        <text>Route Loading</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -333,13 +333,13 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>$ref</text>
+        <text>Route Loading</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpZiAoJGNvbW1pdCkKICAgICAgICBbIC1kIHt7ICRuZXdfcmVsZWFzZV9kaXIgfX0gXSB8fCBnaXQgY2xvbmUgLS1icmFuY2gge3sgJHJlZiB9fSB7eyAkcmVwb3NpdG9yeSB9fSB7eyAkbmV3X3JlbGVhc2VfZGlyIH19CiAgICBAZWxzZQogICAgICAgIFsgLWQge3sgJG5ld19yZWxlYXNlX2RpciB9fSBdIHx8IGdpdCBjbG9uZSB7eyAkcmVwb3NpdG9yeSB9fSB7eyAkbmV3X3JlbGVhc2VfZGlyIH19CiAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgIGVjaG8gIk9wdGltaXppbmcgUm91dGUgTG9hZGluZyIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
