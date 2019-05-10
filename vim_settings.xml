@@ -28,6 +28,13 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/RouteServiceProvider.php" timestamp="1557469415695">
+        <mark key="'" line="89" column="53" />
+        <mark key="[" line="89" column="46" />
+        <mark key="]" line="89" column="44" />
+        <mark key="^" line="89" column="44" />
+        <mark key="." line="89" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" timestamp="1556429842214">
         <mark key="'" line="2595" column="12" />
       </file>
@@ -253,7 +260,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php" timestamp="1557406669764" />
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="45" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CalendarController.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CalendarController.php" />
@@ -353,6 +359,7 @@
       <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="20" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="89" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/RouteServiceProvider.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
