@@ -41,12 +41,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1557405017169">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1557752127050">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="23" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1557713532598" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/LocationTypeRequest.php" timestamp="1555591895585">
@@ -349,8 +349,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bl9taWdyYXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>192.168.0.197</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -371,7 +371,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>deployment ({{ $release }})</text>
+        <text>192.168.0.197</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5fbWlncmF0ZVw+</text>
