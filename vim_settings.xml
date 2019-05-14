@@ -140,7 +140,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" timestamp="1556260447201">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557725977330">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1557827502047">
         <mark key="'" line="77" column="7" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="3" />
@@ -180,12 +180,12 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557823724437">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1557827368616">
         <mark key="'" line="16" column="53" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="16" column="53" />
-        <mark key="." line="31" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/docker-compose.yml" timestamp="1557500616930">
         <mark key="'" line="4" column="9" />
@@ -194,7 +194,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557726040506">
+      <file name="/Dummy.txt" timestamp="1557827384604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
