@@ -41,6 +41,9 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" timestamp="1557993818182">
+        <mark key="'" line="295" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/appstract/lush-http/src/Lush.php" timestamp="1557476822407">
         <mark key="'" line="0" column="0" />
       </file>
@@ -129,6 +132,9 @@
         <mark key="^" line="301" column="11" />
         <mark key="." line="303" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" timestamp="1557994041480">
+        <mark key="'" line="191" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" timestamp="1555918978434">
         <mark key="'" line="6" column="31" />
       </file>
@@ -164,7 +170,7 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/hfpf/alipay/src/AopEncrypt.php" timestamp="1557992165692" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/hfpf/alipay/src/AopEncrypt.php" timestamp="1557993966025" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/CityDomainMigrate.php" timestamp="1555663350781">
         <mark key="'" line="8338" column="20" />
       </file>
@@ -202,7 +208,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557987129388">
+      <file name="/Dummy.txt" timestamp="1557994373258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -213,6 +219,7 @@
       <file name="$USER_HOME$/.composer/vendor/laravel/envoy/src/ConfigurationParser.php" timestamp="1555639047308">
         <mark key="'" line="59" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/hfpf/laravel-alipay/src/AlipayServiceProvider.php" timestamp="1557993983429" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ContractController.php" timestamp="1555919880801">
         <mark key="'" line="1713" column="25" />
       </file>
@@ -234,10 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
-      <jump line="50" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
-      <jump line="54" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
-      <jump line="179" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" />
       <jump line="35" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" />
       <jump line="157" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ReportDataService.php" />
@@ -334,6 +337,10 @@
       <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" />
       <jump line="80" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" />
       <jump line="403" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/hfpf/alipay/src/AopClient.php" />
+      <jump line="403" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" />
+      <jump line="295" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" />
+      <jump line="189" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
+      <jump line="191" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
