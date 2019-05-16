@@ -11,8 +11,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/composer/src/Composer/IO/ConsoleIO.php" timestamp="1555665293973">
         <mark key="'" line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" timestamp="1557984926556">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" timestamp="1557986401856">
         <mark key="'" line="94" column="7" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="4" />
+        <mark key="." line="92" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" timestamp="1555916457035">
         <mark key="'" line="207" column="26" />
@@ -202,7 +205,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557985192793">
+      <file name="/Dummy.txt" timestamp="1557987129388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
