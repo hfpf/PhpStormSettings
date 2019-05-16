@@ -11,19 +11,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/composer/src/Composer/IO/ConsoleIO.php" timestamp="1555665293973">
         <mark key="'" line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1557977997240">
-        <mark key="'" line="41" column="29" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="64" column="39" />
-        <mark key="." line="64" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" timestamp="1555644862547">
-        <mark key="'" line="127" column="7" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy.blade.php" timestamp="1557984926556">
+        <mark key="'" line="94" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/tymon/jwt-auth/src/JWTAuth.php" timestamp="1555916457035">
         <mark key="'" line="207" column="26" />
@@ -88,12 +77,12 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.unit_test" timestamp="1557978378444">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.unit_test" timestamp="1557985167788">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="75" column="13" />
-        <mark key="]" line="75" column="15" />
-        <mark key="." line="75" column="15" />
-        <mark key="^" line="75" column="15" />
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1557394375007">
         <mark key="'" line="52" column="31" />
@@ -199,6 +188,13 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" timestamp="1557985070433">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="4" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="80" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/docker-compose.yml" timestamp="1557500616930">
         <mark key="'" line="4" column="9" />
         <mark key="[" line="0" column="8" />
@@ -206,7 +202,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557978524676">
+      <file name="/Dummy.txt" timestamp="1557985192793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -250,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
-      <jump line="384" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonValue.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/Axino/StaticData.php" />
       <jump line="49" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
       <jump line="50" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/ReportData.php" />
@@ -350,13 +344,15 @@
       <jump line="9" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.unit_test" />
       <jump line="18" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="50" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
+      <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" />
+      <jump line="80" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>linhui</text>
+        <text>true</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -377,7 +373,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>linhui</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>DB</text>
