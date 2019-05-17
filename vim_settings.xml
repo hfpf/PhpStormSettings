@@ -166,17 +166,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558071657294">
+      <file name="/Dummy.txt" timestamp="1558077653643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558075332889">
-        <mark key="[" line="225" column="20" />
-        <mark key="]" line="225" column="16" />
-        <mark key="." line="225" column="16" />
-        <mark key="^" line="225" column="16" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558077124806" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/PHPUnitTestListener.php" timestamp="1558072129339" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/phpunit/phpunit/src/Framework/TestListener.php" timestamp="1558072893278">
         <mark key="'" line="19" column="31" />
