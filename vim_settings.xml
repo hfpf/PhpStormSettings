@@ -97,6 +97,13 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="80" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1558403889466">
+        <mark key="'" line="7" column="73" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.unit_test" timestamp="1558074312032">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="14" />
@@ -143,7 +150,6 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/merchant/api.php" timestamp="1558358400437" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/docker-compose.yml" timestamp="1558075104755">
         <mark key="'" line="645" column="16" />
       </file>
@@ -188,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="75" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V9/OrderController.php" />
-      <jump line="228" column="64" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V9/OrderController.php" />
       <jump line="89" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/OrderService.php" />
       <jump line="5" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="41" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" />
@@ -288,6 +292,8 @@
       <jump line="15" column="57" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/merchant/api.php" />
       <jump line="17" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" />
       <jump line="16" column="64" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/merchant/api.php" />
+      <jump line="8" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="7" column="73" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
