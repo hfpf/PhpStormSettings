@@ -76,6 +76,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/workspace/Dockerfile" timestamp="1558428731591">
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="59" />
+        <mark key="^" line="42" column="59" />
+        <mark key="." line="42" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1557998140483">
         <mark key="'" line="32" column="10" />
         <mark key="[" line="1" column="15" />
