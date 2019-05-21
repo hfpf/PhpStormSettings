@@ -44,12 +44,12 @@
         <mark key="." line="219" column="4" />
         <mark key="^" line="219" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1558432402458">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1558436576404">
         <mark key="'" line="16" column="18" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/LocationTypeRequest.php" timestamp="1555591895585">
         <mark key="'" line="16" column="23" />
@@ -294,7 +294,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>secret</text>
+        <text>123456</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -315,7 +315,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>secret</text>
+        <text>123456</text>
       </register>
       <register name="/" type="4">
         <text>PHP_V</text>
