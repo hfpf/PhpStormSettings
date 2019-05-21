@@ -130,7 +130,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558424114684">
+      <file name="/Dummy.txt" timestamp="1558426129509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -163,7 +163,7 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558423794750">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558426252231">
         <mark key="'" line="225" column="0" />
         <mark key="[" line="40" column="15" />
         <mark key="]" line="226" column="16" />
@@ -178,11 +178,11 @@
         <mark key="'" line="645" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1558072237645">
-        <mark key="'" line="47" column="0" />
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="9" column="31" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" timestamp="1555591718783">
         <mark key="'" line="86" column="33" />
