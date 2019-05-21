@@ -163,12 +163,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558426252231">
-        <mark key="'" line="225" column="0" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="226" column="16" />
-        <mark key="." line="226" column="16" />
-        <mark key="^" line="226" column="16" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558426968039">
+        <mark key="'" line="227" column="16" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/MerchantController.php" timestamp="1558421909309">
         <mark key="[" line="146" column="0" />
@@ -217,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2019_04_09_030358_create_permission_tables.php" />
-      <jump line="15" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Unit/Services/UserServiceTest.php" />
-      <jump line="12" column="3" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
       <jump line="25" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="33" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Unit/Services/UserServiceTest.php" />
@@ -311,19 +308,22 @@
       <jump line="50" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/UserController.php" />
       <jump line="97" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
+      <jump line="184" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
+      <jump line="225" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="133" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="147" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
-      <jump line="184" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
+      <jump line="183" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="194" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="223" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
-      <jump line="225" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
+      <jump line="226" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpZygnYXBwLmVudicpICE9ICdwcm9kdWN0aW9uJykgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">UEhQX1ZFUlNJT049Ny4yCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -347,10 +347,10 @@
         <text>latest</text>
       </register>
       <register name="/" type="4">
-        <text>MYS</text>
+        <text>PHP_V</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TVlTUUxfVkVSU0lPTj1sYXRlc3QK</text>
+        <text encoding="base64">UEhQX1ZFUlNJT049Ny4yCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
@@ -408,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MYS</last-search>
+      <last-search>PHP_V</last-search>
       <last-offset />
-      <last-pattern>MYS</last-pattern>
+      <last-pattern>PHP_V</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -418,9 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXJcPg==</entry>
-        <entry encoding="base64">XDxyZWxlYXNlc19kaXJcPg==</entry>
-        <entry encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</entry>
         <entry>php</entry>
         <entry encoding="base64">XDxEQl9IT1NUXD4=</entry>
         <entry encoding="base64">XDxjb21taXRcPg==</entry>
@@ -438,6 +435,9 @@
         <entry encoding="base64">XDxjbGVhcl9jYWNoZVw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>MYS</entry>
+        <entry>MYSQL</entry>
+        <entry>php_ver</entry>
+        <entry>PHP_V</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
