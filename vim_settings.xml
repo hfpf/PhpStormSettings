@@ -12,12 +12,12 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1558421707813">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="4" />
-        <mark key="." line="219" column="4" />
-        <mark key="^" line="219" column="4" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1558610320354">
+        <mark key="'" line="229" column="0" />
+        <mark key="[" line="226" column="5" />
+        <mark key="]" line="226" column="12" />
+        <mark key="." line="226" column="12" />
+        <mark key="^" line="226" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1558436576404">
         <mark key="'" line="16" column="18" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/SmsService.php" />
       <jump line="39" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/yunpian/yunpian-php-sdk/src/YunpianClient.php" />
       <jump line="40" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/yunpian/yunpian-php-sdk/src/YunpianClient.php" />
       <jump line="41" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/yunpian/yunpian-php-sdk/src/YunpianClient.php" />
@@ -309,13 +308,14 @@
       <jump line="52" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
       <jump line="22" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.unit_test" />
       <jump line="198" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
+      <jump line="229" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcGhwIGFydGlzYW4gbWlncmF0ZTpmcmVzaCAtLXNlZWQK</text>
+      <register name="&quot;" type="4">
+        <text>www-data</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -336,7 +336,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>accom</text>
+        <text>www-data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXN0XD4=</text>
