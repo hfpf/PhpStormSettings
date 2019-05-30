@@ -47,6 +47,12 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1558921103909" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.lock" timestamp="1559199520646">
+        <mark key="[" line="1275" column="29" />
+        <mark key="]" line="1275" column="28" />
+        <mark key="^" line="1275" column="28" />
+        <mark key="." line="1275" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/LocationTypeRequest.php" timestamp="1555591895585">
         <mark key="'" line="16" column="23" />
         <mark key="[" line="26" column="47" />
@@ -113,7 +119,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559196228219">
+      <file name="/Dummy.txt" timestamp="1559199235876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2019_04_09_030358_create_permission_tables.php" timestamp="1557395672832">
