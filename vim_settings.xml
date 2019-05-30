@@ -51,6 +51,7 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" timestamp="1559187991182" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/Legacy/TestListenerTrait.php" timestamp="1558073091393">
         <mark key="'" line="24" column="29" />
       </file>
@@ -157,6 +158,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopEncrypt.php" timestamp="1559187984313">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="29" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LocationTypeController.php" timestamp="1555591718783">
         <mark key="'" line="86" column="33" />
