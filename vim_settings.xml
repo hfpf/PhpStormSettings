@@ -153,12 +153,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" timestamp="1558526210691">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1558432354880">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1559305507218">
         <mark key="'" line="227" column="16" />
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
+        <mark key="[" line="155" column="23" />
+        <mark key="]" line="155" column="26" />
+        <mark key="." line="155" column="26" />
+        <mark key="^" line="155" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/psr/simple-cache/src/CacheInterface.php" timestamp="1559289613218" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-alipay/composer.json" timestamp="1559219515755">
@@ -329,7 +329,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>false</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -350,7 +350,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbG9uZV9yZXBvc2l0b3J5XD4=</text>
