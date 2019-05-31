@@ -36,6 +36,7 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" timestamp="1559308345446" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559303698271">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="268" column="3" />
@@ -51,7 +52,6 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.testing" timestamp="1559290069814" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1558921103909" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.lock" timestamp="1559219776702">
         <mark key="[" line="1333" column="37" />
         <mark key="]" line="1333" column="36" />
@@ -70,6 +70,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/Legacy/TestListenerTrait.php" timestamp="1558073091393">
         <mark key="'" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1559308166202">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1557998140483">
         <mark key="'" line="34" column="10" />
@@ -104,6 +107,9 @@
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Kernel.php" timestamp="1559308310257">
+        <mark key="'" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.unit_test" timestamp="1558527560805">
         <mark key="'" line="22" column="18" />
@@ -223,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" />
-      <jump line="21" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" />
       <jump line="80" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/Envoy2.blade.php" />
       <jump line="403" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/hfpf/alipay/src/AopClient.php" />
       <jump line="403" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" />
@@ -323,6 +327,8 @@
       <jump line="83" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" />
       <jump line="11" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="22" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
+      <jump line="6" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Kernel.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
