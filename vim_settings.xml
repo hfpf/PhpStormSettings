@@ -9,12 +9,12 @@
         <mark key="'" line="134" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/workspace/aliases.sh" timestamp="1559310056142" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559383426312">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559528771866">
         <mark key="'" line="234" column="15" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="4" />
-        <mark key="." line="242" column="4" />
-        <mark key="^" line="242" column="4" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1559372911449">
         <mark key="'" line="16" column="18" />
@@ -222,8 +222,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eGRlYnVnLnJlbW90ZV9lbmFibGU9MAo=</text>
+      <register name="&quot;" type="4">
+        <text>https://location.lanhanba.com/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -244,7 +244,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>logs</text>
+        <text>https://location.lanhanba.com/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbG9uZV9yZXBvc2l0b3J5XD4=</text>
