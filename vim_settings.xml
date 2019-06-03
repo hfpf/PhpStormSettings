@@ -9,8 +9,8 @@
         <mark key="'" line="134" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/workspace/aliases.sh" timestamp="1559310056142" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559528771866">
-        <mark key="'" line="234" column="15" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559530587635">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="7" />
         <mark key="." line="15" column="7" />
@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Providers/TelescopeServiceProvider.php" timestamp="1558341847030">
         <mark key="'" line="9" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559383428170">
+      <file name="/Dummy.txt" timestamp="1559530843098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" timestamp="1559354658278">
@@ -117,7 +117,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/cache.php" timestamp="1559292380850" />
     </filemarks>
     <jumps>
-      <jump line="403" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/hfpf/alipay/src/AopClient.php" />
       <jump line="403" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" />
       <jump line="295" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/alipay/src/AopClient.php" />
       <jump line="189" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
@@ -217,6 +216,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
       <jump line="6" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Kernel.php" />
       <jump line="234" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
     </jumps>
     <registers>
       <register name="a" type="2">
