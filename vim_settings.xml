@@ -9,12 +9,12 @@
         <mark key="'" line="134" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/workspace/aliases.sh" timestamp="1559310056142" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559565749792">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559567505826">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="169" column="4" />
-        <mark key="]" line="169" column="12" />
-        <mark key="." line="169" column="12" />
-        <mark key="^" line="169" column="12" />
+        <mark key="[" line="172" column="77" />
+        <mark key="]" line="176" column="25" />
+        <mark key="." line="176" column="25" />
+        <mark key="^" line="176" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1559372911449">
         <mark key="'" line="16" column="18" />
@@ -88,13 +88,13 @@
         <mark key="'" line="9" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1559565883965">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="3" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="39" column="3" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="30" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559565578149">
+      <file name="/Dummy.txt" timestamp="1559612134662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
