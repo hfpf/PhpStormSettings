@@ -24,12 +24,12 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559704987551">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="172" column="77" />
-        <mark key="]" line="176" column="25" />
-        <mark key="." line="176" column="25" />
-        <mark key="^" line="176" column="25" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1559720410529">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1559372911449">
         <mark key="'" line="16" column="18" />
@@ -64,16 +64,16 @@
         <mark key="'" line="92" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1559565883965">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="33" column="3" />
+        <mark key="." line="33" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Kernel.php" timestamp="1559308310257">
         <mark key="'" line="6" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559616391003">
+      <file name="/Dummy.txt" timestamp="1559720414470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -130,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
       <jump line="57" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="92" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
@@ -230,13 +229,14 @@
       <jump line="54" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
       <jump line="232" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PerformanceController.php" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>部</text>
+        <text>暂无</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -257,7 +257,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>部</text>
+        <text>暂无</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</text>
