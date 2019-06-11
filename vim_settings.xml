@@ -23,6 +23,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/OrderDataController.php" timestamp="1560155451819">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1560237525794">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Merchant/ActivitySpecificationControllerTest.php" timestamp="1560232826807">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="33" column="0" />
@@ -117,7 +120,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/CommunityControllerTest.php" timestamp="1560223748379" />
     </filemarks>
     <jumps>
-      <jump line="147" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="183" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="194" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="223" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
@@ -217,6 +219,7 @@
       <jump line="22" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/AuthControllerTest.php" />
       <jump line="19" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Merchant/ActivitySpecificationControllerTest.php" />
       <jump line="15" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V1/ActivityResource.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
     </jumps>
     <registers>
       <register name="a" type="2">
