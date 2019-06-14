@@ -5,9 +5,6 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/FieldController.php" timestamp="1560413309526">
-        <mark key="'" line="338" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ThemeController.php" timestamp="1559899069790">
         <mark key="'" line="99" column="37" />
       </file>
@@ -50,7 +47,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/Legacy/TestListenerTrait.php" timestamp="1558073091393">
         <mark key="'" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1560413953190" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/RoleMiddleware.php" timestamp="1560133467203">
         <mark key="'" line="22" column="32" />
       </file>
@@ -83,7 +79,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/ThemeClassifyResource.php" timestamp="1559900449227">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" timestamp="1560412854695" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/docker-compose.yml" timestamp="1558075104755">
         <mark key="'" line="645" column="16" />
       </file>
@@ -100,7 +95,8 @@
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1560405013828">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1560480571074">
+        <mark key="'" line="203" column="24" />
         <mark key="[" line="211" column="97" />
         <mark key="]" line="210" column="53" />
         <mark key="." line="210" column="53" />
@@ -123,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="226" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/.env" />
       <jump line="16" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="10" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/storage/logs/laravel-2019-05-21.log" />
@@ -223,6 +218,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
       <jump line="205" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="338" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/FieldController.php" />
+      <jump line="203" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
