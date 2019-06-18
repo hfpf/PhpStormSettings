@@ -35,12 +35,14 @@
         <mark key="'" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/ServiceRepresentative.php" timestamp="1560739212761" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1560145279454" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" timestamp="1559292302247">
         <mark key="'" line="83" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/ThemeDetailResource.php" timestamp="1559900472045">
         <mark key="'" line="27" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1560850826470">
+        <mark key="'" line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ThemeService.php" timestamp="1559900564845">
         <mark key="'" line="144" column="19" />
@@ -54,6 +56,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" timestamp="1560515518921">
         <mark key="'" line="102" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" timestamp="1560850690419">
+        <mark key="'" line="69" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1559308166202">
         <mark key="'" line="0" column="0" />
       </file>
@@ -62,6 +67,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" timestamp="1559792930073">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/_ide_helper.php" timestamp="1560849385623">
+        <mark key="'" line="5670" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Kernel.php" timestamp="1559308310257">
         <mark key="'" line="6" column="28" />
@@ -75,10 +83,17 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" timestamp="1560850784349">
+        <mark key="'" line="340" column="30" />
+        <mark key="[" line="350" column="29" />
+        <mark key="]" line="350" column="28" />
+        <mark key="^" line="350" column="28" />
+        <mark key="." line="350" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" timestamp="1558526210691">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1560849067222" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1560849345028" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/MerchantController.php" timestamp="1559799195913">
         <mark key="'" line="74" column="17" />
       </file>
@@ -102,6 +117,9 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" timestamp="1560851082488">
+        <mark key="'" line="84" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1560480571074">
         <mark key="'" line="203" column="24" />
@@ -127,57 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/storage/logs/laravel-2019-05-21.log" />
-      <jump line="44" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="47" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="19" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/phpunit/phpunit/src/Framework/TestListener.php" />
-      <jump line="9" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="5" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="64" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/phpunit/phpunit/src/Framework/TestListener.php" />
-      <jump line="110" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="7" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/TestCase.php" />
-      <jump line="4" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/TestCase.php" />
-      <jump line="12" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" />
-      <jump line="10" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" />
-      <jump line="55" column="67" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/phpunit/phpunit/src/Framework/TestCase.php" />
-      <jump line="112" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="451" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/phpunit/phpunit/src/Framework/TestCase.php" />
-      <jump line="50" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="52" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/PHPUnitTestListener.php" />
-      <jump line="22" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.unit_test" />
-      <jump line="198" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
-      <jump line="229" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="233" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="28" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Kernel.php" />
-      <jump line="62" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="243" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="261" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="192" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="255" column="2" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="26" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="27" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="47" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="159" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/Kernel/AccessToken.php" />
-      <jump line="134" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/Kernel/AccessToken.php" />
-      <jump line="28" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="38" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" />
-      <jump line="52" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" />
-      <jump line="69" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" />
-      <jump line="83" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
-      <jump line="6" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Kernel.php" />
-      <jump line="234" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
-      <jump line="11" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="22" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="64" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
-      <jump line="12" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="23" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="54" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" />
-      <jump line="232" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PerformanceController.php" />
       <jump line="153" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/MerchantController.php" />
       <jump line="102" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/MerchantController.php" />
@@ -227,6 +194,57 @@
       <jump line="203" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="98" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" />
       <jump line="102" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" />
+      <jump line="5671" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/_ide_helper.php" />
+      <jump line="5670" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/_ide_helper.php" />
+      <jump line="13" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="11" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="129" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="142" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="146" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="149" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="151" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="158" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="266" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="268" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="272" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="274" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="284" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="286" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="290" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="292" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="298" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="300" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="304" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="306" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="521" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="466" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="718" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="50" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="80" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="86" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="94" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="467" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="345" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="350" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="451" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="250" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="133" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="730" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="29" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="68" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" />
+      <jump line="69" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" />
+      <jump line="276" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="340" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
+      <jump line="249" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="243" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="241" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="202" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="52" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="254" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="67" column="71" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="53" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="84" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -257,7 +275,7 @@
         <text>公众号关注消息文案</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIQVBQWV9CSVJUSERBWVw+</text>
+        <text encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDEpOwo=</text>
@@ -318,9 +336,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIQVBQWV9CSVJUSERBWVw+</last-search>
+      <last-search encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIQVBQWV9CSVJUSERBWVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -328,9 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5fY29tcG9zZXJcPg==</entry>
-        <entry>confi</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>MYS</entry>
         <entry>MYSQL</entry>
         <entry>php_ver</entry>
@@ -348,6 +363,9 @@
         <entry encoding="base64">XDx0aGVtZXNcPg==</entry>
         <entry encoding="base64">XDxPQlRBSU5fUkVDT01NRU5EX0FDVElWSVRJRVNcPg==</entry>
         <entry encoding="base64">XDxIQVBQWV9CSVJUSERBWVw+</entry>
+        <entry encoding="base64">XDxhYmlsaXRpZXNcPg==</entry>
+        <entry encoding="base64">XDxiZWZvcmVDYWxsYmFja3NcPg==</entry>
+        <entry encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
