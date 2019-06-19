@@ -14,6 +14,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/Kernel/AccessToken.php" timestamp="1559289601486">
         <mark key="'" line="134" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" timestamp="1560926669369">
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" timestamp="1559551325890">
         <mark key="'" line="0" column="0" />
       </file>
@@ -34,7 +39,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/theme/index.blade.php" timestamp="1559900335928">
         <mark key="'" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/ServiceRepresentative.php" timestamp="1560739212761" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1560926565289" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/database.php" timestamp="1559292302247">
         <mark key="'" line="83" column="13" />
       </file>
@@ -95,14 +100,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" timestamp="1558526210691">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1560849345028" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/MerchantController.php" timestamp="1559799195913">
         <mark key="'" line="74" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/ThemeClassifyResource.php" timestamp="1559900449227">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/api.php" timestamp="1560848930844" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/laradock/docker-compose.yml" timestamp="1558075104755">
         <mark key="'" line="645" column="16" />
       </file>
@@ -113,7 +116,6 @@
         <mark key="^" line="95" column="79" />
         <mark key="." line="95" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Requests/Inner/V1/StoreServiceRepresentativePost.php" timestamp="1560515455584" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/AuthControllerTest.php" timestamp="1560223871154">
         <mark key="'" line="22" column="26" />
         <mark key="[" line="22" column="0" />
@@ -252,8 +254,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -274,7 +276,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>公众号关注消息文案</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</text>
