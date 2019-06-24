@@ -5,25 +5,43 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
     </globalmarks>
     <filemarks>
-      <file name="/linhuiba-ops3.positions [TE]" timestamp="1561101099523">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1561100169221">
+        <mark key="'" line="755" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1560926565289" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/KeyPersonIndexResourceCollection.php" timestamp="1561103950695" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" timestamp="1561100155571" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/LinhuiUser.php" timestamp="1561105147023">
-        <mark key="'" line="130" column="29" />
+      <file name="/Dummy.txt" timestamp="1561100950441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Position.php" timestamp="1561102417284">
-        <mark key="'" line="30" column="21" />
+        <mark key="'" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" timestamp="1560926669369">
         <mark key="[" line="62" column="8" />
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
+      <file name="/linhuiba-ops3.positions [TE]" timestamp="1561101099523">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/linhuiba-ops3.users [TE]" timestamp="1561101278051">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/linhuiba-ops3.abilities [TE]" timestamp="1561102419668">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1560926565289" />
       <file name="/a.sql" timestamp="1561100950416">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/DemandAssignmentProcessService.php" timestamp="1561383088323">
+        <mark key="'" line="23" column="10" />
+      </file>
+      <file name="/linhuiba-ops3.linhui_users [TE]" timestamp="1561382546310">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/LinhuiUser.php" timestamp="1561105147023">
+        <mark key="'" line="130" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" timestamp="1561104110486">
         <mark key="'" line="3498" column="41" />
@@ -40,27 +58,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/EmployeePermissionController.php" timestamp="1561105746123">
         <mark key="'" line="87" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1561100169221">
-        <mark key="'" line="755" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1561100950441">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="/linhuiba-ops3.users [TE]" timestamp="1561101278051">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/linhuiba-ops3.abilities [TE]" timestamp="1561102419668">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ContractController.php" timestamp="1561103973628" />
-      <file name="/linhuiba-ops3.linhui_users [TE]" timestamp="1561101611703">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/ThemeClassifyResource.php" />
       <jump line="27" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V2/ThemeDetailResource.php" />
       <jump line="37" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/ThemeController.php" />
       <jump line="35" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/ThemeController.php" />
@@ -160,6 +159,7 @@
       <jump line="3498" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/UserController.php" />
       <jump line="39" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/EmployeePermissionController.php" />
       <jump line="87" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/EmployeePermissionController.php" />
+      <jump line="23" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/DemandAssignmentProcessService.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -190,7 +190,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxcPg==</text>
+        <text encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDEpOwo=</text>
@@ -251,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3JtYWxcPg==</last-search>
+      <last-search encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -261,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXN0XD4=</entry>
         <entry encoding="base64">XDxydW5fbWlncmF0ZVw+</entry>
         <entry encoding="base64">XDxwcmVmaXhcPg==</entry>
         <entry encoding="base64">XDxjbG9uZV9yZXBvc2l0b3J5XD4=</entry>
@@ -281,6 +280,7 @@
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
+        <entry encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
