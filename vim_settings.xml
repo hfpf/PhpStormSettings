@@ -2,10 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" />
+      <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/sql/v3.13.sql" timestamp="1561442789386" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/SellingResource.php" timestamp="1560926669369">
         <mark key="[" line="62" column="8" />
         <mark key="]" line="62" column="8" />
@@ -17,10 +16,7 @@
       <file name="/linhuiba-ops3.positions [TE]" timestamp="1561101099523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/package.json" timestamp="1561713934936" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/v3.13.1-depoly.sh" timestamp="1561427778749" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1561452346558" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/package.json" timestamp="1561714243755" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" timestamp="1561780292040" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/readme.md" timestamp="1561519592406">
         <mark key="'" line="50" column="62" />
         <mark key="[" line="0" column="10" />
@@ -38,8 +34,6 @@
         <mark key="^" line="787" column="22" />
         <mark key="." line="787" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/webpack.mix.js" timestamp="1561613905576" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1561452164262" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/index.js" timestamp="1561654903006">
         <mark key="'" line="26" column="31" />
       </file>
@@ -58,7 +52,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1561100169221">
         <mark key="'" line="755" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561688424095">
+      <file name="/Dummy.txt" timestamp="1561780321295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -66,7 +60,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Position.php" timestamp="1561102417284">
         <mark key="'" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/builder/webpack-default.js" timestamp="1561714775021" />
       <file name="/linhuiba-ops3.users [TE]" timestamp="1561101278051">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,7 +69,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" timestamp="1561655068722">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/AlipayController.php" timestamp="1561452148257" />
       <file name="/linhuiba-ops3.linhui_users [TE]" timestamp="1561382546310">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,7 +79,6 @@
         <mark key="." line="190" column="46" />
         <mark key="^" line="190" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/alipay-web.php" timestamp="1561452462279" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1561714296017">
         <mark key="'" line="0" column="29" />
       </file>
