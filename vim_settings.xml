@@ -79,8 +79,8 @@
         <mark key="." line="190" column="46" />
         <mark key="^" line="190" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1561714296017">
-        <mark key="'" line="0" column="29" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1561795436697">
+        <mark key="'" line="0" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -182,8 +182,8 @@
       <jump line="11" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/setup/webpack.config.js" />
       <jump line="29" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" />
       <jump line="40" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" />
-      <jump line="0" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" />
       <jump line="20" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/DemandAssignmentProcessService.php" />
+      <jump line="0" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
