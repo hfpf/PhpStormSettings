@@ -41,6 +41,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/EmployeePermissionController.php" timestamp="1561105746123">
         <mark key="'" line="87" column="52" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" timestamp="1561952563501">
+        <mark key="'" line="1077" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1561100169221">
         <mark key="'" line="755" column="51" />
       </file>
@@ -64,17 +67,18 @@
         <mark key="." line="190" column="46" />
         <mark key="^" line="190" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/BaiduSEO.php" timestamp="1561952554176">
+        <mark key="'" line="35" column="19" />
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1561795436697">
         <mark key="'" line="0" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/AuthControllerTest.php" />
-      <jump line="19" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Merchant/ActivitySpecificationControllerTest.php" />
-      <jump line="15" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/V1/ActivityResource.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
-      <jump line="205" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
-      <jump line="338" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/FieldController.php" />
       <jump line="203" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="98" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" />
       <jump line="102" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" />
@@ -169,6 +173,12 @@
       <jump line="40" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" />
       <jump line="20" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/DemandAssignmentProcessService.php" />
       <jump line="0" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" />
+      <jump line="19" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/BaiduSEO.php" />
+      <jump line="35" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Vendors/BaiduSEO.php" />
+      <jump line="1132" column="29" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
+      <jump line="1106" column="11" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
+      <jump line="1096" column="14" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
+      <jump line="1077" column="22" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -199,7 +209,7 @@
         <text encoding="base64">IGNhbmNlciBjYXBhYmxlIGJlIGNhcGFibGUgb2YgY2FyZWVy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</text>
+        <text encoding="base64">XDxmaWxlbmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RWFjaCB1cHN0cmVhbSBkZXN0aW5hdGlvbiBpcyBkZWZpbmVkIGluIHRoZSB1cHN0cmVhbSBwb29sIGJ5IHRoZSBzZXJ2ZXIgZGlyZWN0aXZlLiBUaGUgc2VydmVyIGRpcmVjdGl2ZSBpcyBwcm92aWRlZCBhIFVuaXggc29ja2V0LCBJUCBhZGRyZXNzLCBvciBhbiBGUUROLCBhbG9uZyB3aXRoIGEgbnVtYmVyIG9mIG9wdGlvbmFsIHBhcmFtZXRlcnMuIFRoZSBvcHRpb25hbCBwYXJhbWV0ZXJzIGdpdmUgbW9yZSBjb250cm9sIG92ZXIgdGhlIHJvdXRpbmcgb2YgcmVxdWVzdHMuIFRoZXNlIHBhcmFtZXRlcnMgaW5jbHVkZSB0aGUgd2VpZ2h0IG9mIHRoZSBzZXJ2ZXIgaW4gdGhlIGJhbGFuY2luZyBhbGdvcml0aG07IHdoZXRoZXIgdGhlIHNlcnZlciBpcyBpbiBzdGFuZGJ5IG1vZGUsIGF2YWls4oCQIGFibGUsIG9yIHVuYXZhaWxhYmxlOyBhbmQgaG93IHRvIGRldGVybWluZSBpZiB0aGUgc2VydmVyIGlzIHVuYXZhaWzigJAgYWJsZS4gTkdJTlggUGx1cyBwcm92aWRlcyBhIG51bWJlciBvZiBvdGhlciBjb252ZW5pZW50IHBhcmFtZXRlcnMgbGlrZSBjb25uZWN0aW9uIGxpbWl0cyB0byB0aGUgc2VydmVyLCBhZHZhbmNlZCBETlMgcmVzb+KAkCBsdXRpb24gY29udHJvbCwgYW5kIHRoZSBhYmlsaXR5IHRvIHNsb3dseSByYW1wIHVwIGNvbm5lY3Rpb25zIHRvIGEgc2VydmVyIGFmdGVyIGl0IHN0YXJ0cy4K</text>
@@ -260,17 +270,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlbmFtZVw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxuZXdfcmVsZWFzZV9kaXJcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5fbWlncmF0ZVw+</entry>
         <entry encoding="base64">XDxwcmVmaXhcPg==</entry>
         <entry encoding="base64">XDxjbG9uZV9yZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxjbGVhcl9jYWNoZVw+</entry>
@@ -290,6 +299,7 @@
         <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
         <entry encoding="base64">XDxOT1RfRElSRUNUX1NBTEVfVVNFUl9JRFNcPg==</entry>
+        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TYPE/NAME/c</entry>
