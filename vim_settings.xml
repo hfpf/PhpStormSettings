@@ -29,6 +29,9 @@
         <mark key="^" line="787" column="22" />
         <mark key="." line="787" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/CityGroupFollowerResource.php" timestamp="1561960929544">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/index.js" timestamp="1561654903006">
         <mark key="'" line="26" column="31" />
       </file>
@@ -60,7 +63,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" timestamp="1561655068722">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Jobs/CrmUM.php" timestamp="1561959699832" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Jobs/CrmUM.php" timestamp="1561960587754" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1561690475674">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="184" column="30" />
@@ -80,7 +83,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="98" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" />
       <jump line="102" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ServiceRepresentativeController.php" />
       <jump line="5671" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/_ide_helper.php" />
@@ -180,6 +182,7 @@
       <jump line="1106" column="11" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
       <jump line="1096" column="14" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
       <jump line="1077" column="22" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Resources/Inner/CityGroupFollowerResource.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
