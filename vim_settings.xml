@@ -21,8 +21,12 @@
         <mark key="^" line="0" column="676" />
         <mark key="." line="0" column="676" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/FlowInstance.php" timestamp="1562068604328">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/FlowInstance.php" timestamp="1562120545663">
         <mark key="'" line="33" column="33" />
+        <mark key="[" line="33" column="75" />
+        <mark key="]" line="33" column="74" />
+        <mark key="^" line="33" column="74" />
+        <mark key="." line="33" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/DemandAssignmentProcessService.php" timestamp="1561778753202">
         <mark key="'" line="20" column="6" />
