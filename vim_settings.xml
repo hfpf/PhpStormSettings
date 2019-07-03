@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" timestamp="1561655068722">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1562123961032">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1562134115736">
         <mark key="'" line="186" column="13" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="199" column="37" />
+        <mark key="[" line="191" column="25" />
+        <mark key="]" line="191" column="24" />
+        <mark key="." line="191" column="24" />
+        <mark key="^" line="191" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1561795436697">
         <mark key="'" line="0" column="27" />
@@ -192,7 +192,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Our cat always loves chasing the mice.</text>
+        <text>cherish</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -213,7 +213,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>Our cat always loves chasing the mice.</text>
+        <text>cherish</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlbmFtZVw+</text>
