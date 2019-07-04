@@ -107,12 +107,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Position.php" timestamp="1561102417284">
         <mark key="'" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" timestamp="1562225929262">
-        <mark key="'" line="712" column="70" />
-        <mark key="[" line="628" column="21" />
-        <mark key="]" line="628" column="20" />
-        <mark key="^" line="628" column="20" />
-        <mark key="." line="628" column="20" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" timestamp="1562226983468">
+        <mark key="'" line="388" column="57" />
+        <mark key="[" line="388" column="58" />
+        <mark key="]" line="388" column="57" />
+        <mark key="^" line="388" column="57" />
+        <mark key="." line="388" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/Paths.js" timestamp="1561655068722">
         <mark key="'" line="40" column="36" />
@@ -145,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
       <jump line="350" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
       <jump line="451" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
       <jump line="250" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
@@ -245,6 +244,7 @@
       <jump line="621" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="678" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="712" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
+      <jump line="388" column="57" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
