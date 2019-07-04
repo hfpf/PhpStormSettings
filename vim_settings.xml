@@ -27,6 +27,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1562146682321" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/package.json" timestamp="1562142021093" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/ServiceProvider.php" timestamp="1562207034650">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1562146565258">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="48" column="28" />
@@ -59,9 +65,6 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env.integration" timestamp="1562146698237" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Form/OrderStoreParameter.php" timestamp="1562205615677">
-        <mark key="'" line="239" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/ActivityCaseService.php" timestamp="1562204958746">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="25" column="7" />
