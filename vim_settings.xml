@@ -115,6 +115,13 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" timestamp="1562595442385">
+        <mark key="'" line="33" column="5" />
+        <mark key="[" line="144" column="92" />
+        <mark key="]" line="144" column="92" />
+        <mark key="^" line="144" column="92" />
+        <mark key="." line="144" column="92" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="68" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php" />
