@@ -34,6 +34,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/composer/installed.json" timestamp="1562661815774">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/resources/views/components/footer.blade.php" timestamp="1562557653735">
         <mark key="[" line="59" column="32" />
         <mark key="]" line="59" column="31" />
