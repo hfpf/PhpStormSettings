@@ -18,12 +18,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1562638575686">
-        <mark key="'" line="104" column="15" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1562651309706">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/ServiceProvider.php" timestamp="1562208048496">
         <mark key="[" line="15" column="15" />
@@ -66,7 +66,7 @@
         <mark key="^" line="787" column="22" />
         <mark key="." line="787" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1562642035102">
+      <file name="/PHP Console" timestamp="1562651494844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ArticleTypeController.php" timestamp="1562557255217" />
@@ -135,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" />
       <jump line="249" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
       <jump line="243" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
       <jump line="241" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
@@ -235,6 +234,7 @@
       <jump line="146" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" />
       <jump line="144" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" />
       <jump line="104" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
+      <jump line="30" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" />
     </jumps>
     <registers>
       <register name="a" type="2">
