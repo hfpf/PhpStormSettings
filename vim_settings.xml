@@ -6,7 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/CompanyController.php" timestamp="1562557723590" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1562642183369">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1562643850776">
         <mark key="[" line="75" column="9" />
         <mark key="]" line="75" column="8" />
         <mark key="^" line="75" column="8" />
@@ -31,7 +31,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1562639664538">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" timestamp="1562643736013">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1562557094255">
         <mark key="'" line="755" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562639899488">
+      <file name="/Dummy.txt" timestamp="1562643853335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
