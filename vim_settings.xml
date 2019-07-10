@@ -124,12 +124,12 @@
         <mark key="^" line="232" column="6" />
         <mark key="." line="232" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1562224646205">
-        <mark key="'" line="186" column="13" />
-        <mark key="[" line="214" column="81" />
-        <mark key="]" line="214" column="46" />
-        <mark key="." line="214" column="46" />
-        <mark key="^" line="214" column="46" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1562739192927">
+        <mark key="'" line="217" column="10" />
+        <mark key="[" line="228" column="29" />
+        <mark key="]" line="228" column="28" />
+        <mark key="." line="228" column="28" />
+        <mark key="^" line="228" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/ArticleController.php" timestamp="1562557780952">
         <mark key="'" line="92" column="64" />
@@ -194,7 +194,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" timestamp="1562557094255">
         <mark key="'" line="755" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562663043629">
+      <file name="/Dummy.txt" timestamp="1562738624088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
       <jump line="114" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
       <jump line="111" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
       <jump line="58" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
@@ -331,6 +330,7 @@
       <jump line="993" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
       <jump line="995" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
       <jump line="118" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php" />
+      <jump line="217" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
