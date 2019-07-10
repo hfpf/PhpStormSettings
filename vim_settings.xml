@@ -124,12 +124,12 @@
         <mark key="^" line="232" column="6" />
         <mark key="." line="232" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1562739192927">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" timestamp="1562751286990">
         <mark key="'" line="217" column="10" />
         <mark key="[" line="228" column="29" />
-        <mark key="]" line="228" column="28" />
-        <mark key="." line="228" column="28" />
-        <mark key="^" line="228" column="28" />
+        <mark key="]" line="231" column="16" />
+        <mark key="." line="231" column="16" />
+        <mark key="^" line="231" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/ArticleController.php" timestamp="1562557780952">
         <mark key="'" line="92" column="64" />
