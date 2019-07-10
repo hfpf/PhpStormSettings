@@ -223,6 +223,12 @@
         <mark key="." line="31" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V2.php" timestamp="1562557732614" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Common/CommonUtil.php" timestamp="1562728084095">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="168" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
