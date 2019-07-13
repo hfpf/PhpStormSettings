@@ -86,7 +86,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Position.php" timestamp="1561102417284">
         <mark key="'" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/OrderService.php" timestamp="1563022686860" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/OrderService.php" timestamp="1563024907068">
+        <mark key="[" line="1354" column="44" />
+        <mark key="]" line="1354" column="43" />
+        <mark key="^" line="1354" column="43" />
+        <mark key="." line="1354" column="43" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" timestamp="1562653411191">
         <mark key="[" line="232" column="7" />
         <mark key="]" line="232" column="6" />
