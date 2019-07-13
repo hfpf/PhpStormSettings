@@ -104,6 +104,7 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/horizon/routes/web.php" timestamp="1562983314521" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1561795436697">
         <mark key="'" line="0" column="27" />
       </file>
@@ -139,8 +140,12 @@
         <mark key="^" line="111" column="9" />
         <mark key="." line="111" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1562557661739">
-        <mark key="'" line="172" column="38" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1562982798826">
+        <mark key="'" line="368" column="28" />
+        <mark key="[" line="172" column="49" />
+        <mark key="]" line="172" column="48" />
+        <mark key="^" line="172" column="48" />
+        <mark key="." line="172" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/node_modules/laravel-mix/src/index.js" timestamp="1561654903006">
         <mark key="'" line="26" column="31" />
@@ -183,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
       <jump line="111" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
       <jump line="58" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/PositionController.php" />
       <jump line="41" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Position.php" />
@@ -258,7 +262,6 @@
       <jump line="712" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="388" column="57" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="33" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/database/migrations/2019_04_23_133637_create_resouce_clue_contacts.php" />
-      <jump line="172" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
       <jump line="23" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/ArticleController.php" />
       <jump line="90" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/ArticleController.php" />
       <jump line="91" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V2/ArticleController.php" />
@@ -283,6 +286,8 @@
       <jump line="995" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" />
       <jump line="118" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php" />
       <jump line="217" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
+      <jump line="172" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
+      <jump line="368" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
