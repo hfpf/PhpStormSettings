@@ -133,7 +133,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563353617078" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563414860556">
+        <mark key="[" line="513" column="33" />
+        <mark key="]" line="513" column="33" />
+        <mark key="." line="513" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/VerificationSignature.php" timestamp="1563194650078">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="6" />
@@ -299,8 +303,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBpUm91dGU6OmdldCgnY29vcGVyYXRpb24vY29tbXVuaXRpZXMnLCAnQ29tbXVuaXR5Q29udHJvbGxlckBpbmRleEZvckNvb3BlcmF0aW9uJyk7IC8vIOWQiOS9nOS8meS8tOiOt+WPluWcuuWcsOWIl+ihqOaOpeWPowoK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -321,7 +325,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>// 地图查找场地列表</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2aWNlc1w+</text>
