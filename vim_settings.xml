@@ -17,8 +17,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/Inner/BrowseHistories.php" timestamp="1563885291263">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/Inner/BrowseHistories.php" timestamp="1563886186449">
+        <mark key="'" line="31" column="36" />
         <mark key="[" line="33" column="58" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.env" timestamp="1563195637636">
         <mark key="'" line="104" column="20" />
@@ -189,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/deployment/ES常用指令.sh" />
       <jump line="9" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" />
       <jump line="33" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
@@ -289,6 +292,7 @@
       <jump line="15" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Middleware/LinHuiUserFromToken.php" />
       <jump line="41" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CompanyController.php" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/documents/本地环境配置安装教程.md" />
+      <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/Inner/BrowseHistories.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
