@@ -105,6 +105,9 @@
         <mark key="^" line="186" column="6" />
         <mark key="." line="186" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1563951641504">
+        <mark key="'" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" timestamp="1562653980612">
         <mark key="'" line="144" column="70" />
         <mark key="[" line="144" column="0" />
@@ -133,15 +136,13 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="63" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/src/index.js" timestamp="1563951759016" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V3/UserController.php" timestamp="1563011303932">
         <mark key="'" line="181" column="25" />
         <mark key="[" line="213" column="38" />
         <mark key="]" line="213" column="37" />
         <mark key="^" line="213" column="37" />
         <mark key="." line="213" column="37" />
-      </file>
-      <file name="/PHP Console" timestamp="1563779258840">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/web.php" timestamp="1562982798826">
         <mark key="'" line="368" column="28" />
@@ -161,9 +162,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1563775244558">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563430387600">
         <mark key="[" line="505" column="23" />
@@ -194,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/composer.json" />
       <jump line="33" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Providers/AppServiceProvider.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Kernel.php" />
       <jump line="57" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/config/app.php" />
@@ -294,6 +291,7 @@
       <jump line="41" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CompanyController.php" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/documents/本地环境配置安装教程.md" />
       <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/Inner/BrowseHistories.php" />
+      <jump line="0" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
