@@ -83,12 +83,18 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/src/index.js" timestamp="1563953139516">
         <mark key="'" line="26" column="30" />
       </file>
+      <file name="/PHP Console" timestamp="1563779258840">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1563973335892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="501" column="17" />
         <mark key="]" line="501" column="16" />
         <mark key="^" line="501" column="16" />
         <mark key="." line="501" column="16" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1564039383616">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/setup/webpack.config.js" timestamp="1563954124795">
         <mark key="'" line="5" column="13" />
@@ -102,11 +108,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/webpack/bin/webpack.js" timestamp="1564039565224" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/deployed_message.php" timestamp="1564023934022">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
+      </file>
+      <file name="/fragment.php" timestamp="1563775244558">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563430387600">
         <mark key="[" line="505" column="23" />
