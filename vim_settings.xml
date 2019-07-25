@@ -5,19 +5,10 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1563782271572">
-        <mark key="[" line="88" column="47" />
-        <mark key="]" line="89" column="31" />
-        <mark key="^" line="89" column="31" />
-        <mark key="." line="89" column="31" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/setup/webpack.config.js" timestamp="1564040675061">
+        <mark key="'" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/package.json" timestamp="1563348253642">
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/package.json" timestamp="1564038536923">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/package.json" timestamp="1564040581401">
         <mark key="'" line="4" column="80" />
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="34" />
@@ -30,18 +21,19 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/V1/ActivityCases.php" timestamp="1563882682217">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/src/helpers.js" timestamp="1564040764347" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/readme2.md" timestamp="1564035186145">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="27" />
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
+      </file>
+      <file name="internal/modules/cjs/helpers.js" timestamp="1564040647805">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/src/index.js" timestamp="1564040754127">
+        <mark key="'" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/documents/本地环境配置安装教程.md" timestamp="1563871025390">
         <mark key="[" line="155" column="11" />
@@ -50,12 +42,6 @@
         <mark key="^" line="155" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/src/BabelConfig.js" timestamp="1563952773775" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/SyncLinhuiDailyData.php" timestamp="1563761934858">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="48" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="37" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/webpack.mix.js" timestamp="1563952939306">
         <mark key="'" line="0" column="26" />
         <mark key="[" line="0" column="27" />
@@ -83,6 +69,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/src/index.js" timestamp="1563953139516">
         <mark key="'" line="26" column="30" />
       </file>
+      <file name="vm.js" timestamp="1564040802354">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1563779258840">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +82,10 @@
         <mark key="^" line="501" column="16" />
         <mark key="." line="501" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1564039383616">
+      <file name="/JavaScript Console" timestamp="1564040773033">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="internal/modules/cjs/loader.js" timestamp="1564040805789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/setup/webpack.config.js" timestamp="1563954124795">
@@ -108,7 +100,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/webpack/bin/webpack.js" timestamp="1564039565224" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/webpack/bin/webpack.js" timestamp="1564040557108">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/deployed_message.php" timestamp="1564023934022">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="18" />
@@ -118,12 +115,6 @@
       <file name="/fragment.php" timestamp="1563775244558">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563430387600">
-        <mark key="[" line="505" column="23" />
-        <mark key="]" line="505" column="22" />
-        <mark key="." line="505" column="22" />
-        <mark key="^" line="505" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.gitlab-ci.yml" timestamp="1564023961782">
         <mark key="[" line="97" column="446" />
         <mark key="]" line="97" column="461" />
@@ -132,8 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Services/Form/OrderStoreParameter.php" />
-      <jump line="679" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="661" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="628" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
       <jump line="658" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/PhysicalResourceController.php" />
@@ -232,6 +221,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/readme2.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/LabelController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" />
+      <jump line="5" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/setup/webpack.config.js" />
+      <jump line="15" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
