@@ -53,6 +53,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/src/index.js" timestamp="1564045381188">
         <mark key="'" line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" timestamp="1564107523641">
+        <mark key="[" line="56" column="59" />
+        <mark key="]" line="56" column="58" />
+        <mark key="^" line="56" column="58" />
+        <mark key="." line="56" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/dotenv/lib/main.js" timestamp="1564045410340" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/documents/本地环境配置安装教程.md" timestamp="1563871025390">
         <mark key="[" line="155" column="11" />
@@ -353,7 +359,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDzkvJjlir9cPg==</last-pattern>
       <last-replace>aaa</last-replace>
-      <last-substitute encoding="base64">XDxzZWxsaW5nX3Jlc291cmNlc1w+</last-substitute>
+      <last-substitute encoding="base64">XDzkvJjlir9cPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
