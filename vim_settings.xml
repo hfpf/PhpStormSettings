@@ -73,6 +73,7 @@
         <mark key="'" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Migrations/ReportData.php" timestamp="1564110644553" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V2.php" timestamp="1564211451357" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/dotenv/lib/main.js" timestamp="1564045410340" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/documents/本地环境配置安装教程.md" timestamp="1563871025390">
         <mark key="[" line="155" column="11" />
@@ -134,12 +135,12 @@
       <file name="/PHP Console" timestamp="1564131699914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1564210020226">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1564211413398">
         <mark key="'" line="784" column="0" />
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="55" column="42" />
-        <mark key="^" line="55" column="42" />
-        <mark key="." line="55" column="42" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="/JavaScript Console" timestamp="1564040773033">
         <mark key="[" line="0" column="0" />
