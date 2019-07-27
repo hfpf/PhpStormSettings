@@ -192,7 +192,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/sql/v3.4.sql" timestamp="1564216165233" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/sql/v3.4.sql" timestamp="1564221607530">
+        <mark key="[" line="234" column="31" />
+        <mark key="]" line="234" column="30" />
+        <mark key="^" line="234" column="30" />
+        <mark key="." line="234" column="30" />
+      </file>
       <file name="/fragment.php" timestamp="1564127647746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -228,8 +233,8 @@
         <mark key="." line="88" column="63" />
         <mark key="^" line="88" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.gitlab-ci.yml" timestamp="1564023961782">
-        <mark key="[" line="97" column="446" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.gitlab-ci.yml" timestamp="1564225336073">
+        <mark key="[" line="73" column="18" />
         <mark key="]" line="97" column="461" />
         <mark key="^" line="97" column="461" />
         <mark key="." line="97" column="461" />
