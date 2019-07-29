@@ -44,8 +44,12 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1564407020793">
-        <mark key="'" line="200" column="43" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1564410232603">
+        <mark key="'" line="43" column="23" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/V1/OrderControllerTest.php" timestamp="1564382765490" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/readme2.md" timestamp="1564035186145">
@@ -227,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
       <jump line="75" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
       <jump line="77" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
       <jump line="80" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
@@ -327,6 +330,7 @@
       <jump line="1305" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
       <jump line="1304" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
       <jump line="200" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
+      <jump line="43" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
