@@ -157,6 +157,9 @@
         <mark key="^" line="234" column="30" />
         <mark key="." line="234" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1564394044611">
+        <mark key="'" line="1304" column="33" />
+      </file>
       <file name="/fragment.php" timestamp="1564127647746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -248,18 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1711" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="17" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/tests/Feature/V1/BrowseHistoryControllerTest.php" />
-      <jump line="35" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/V1/BrowseHistoryController.php" />
-      <jump line="17" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="20" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="27" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="35" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="36" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="43" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="49" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="53" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
-      <jump line="63" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
       <jump line="69" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
       <jump line="70" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
       <jump line="75" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php" />
@@ -348,6 +339,18 @@
       <jump line="78" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" />
       <jump line="819" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.5/readme.md" />
+      <jump line="1486" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="1533" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="736" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="108" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="832" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="831" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="101" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="1853" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="1851" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="1306" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="1305" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="1304" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -378,7 +381,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZV9pbWdzXD4=</text>
+        <text encoding="base64">XDxjb29wZXJhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFRoaXMgbWV0aG9kIGJhbGFuY2VzIGxvYWQgYnkgcHJveHlpbmcgdGhlIGN1cnJlbnQgcmVxdWVzdCB0byB0aGUgdXBzdHJlYW0gc2VydmVyIHdpdGggdGhlIGxlYXN0IG51bWJlciBvZiBvcGVuIGNvbm5lY3Rpb25zLiBMZWFzdCBjb25uZWN0aW9ucywgbGlrZSByb3VuZCByb2JpbiwgYWxzbyB0YWtlcyB3ZWlnaHRzIGludG8gYWNjb3VudCB3aGVuIGRlY2lkaW5nIHRvIHdoaWNoIHNlcnZlciB0byBzZW5kIHRoZSBjb25uZWN0aW9uLiBUaGUgZGlyZWN0aXZlIG5hbWUgaXMgbGVhc3RfY29ubi4K</text>
@@ -439,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZV9pbWdzXD4=</last-search>
+      <last-search encoding="base64">XDxjb29wZXJhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZV9pbWdzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb29wZXJhdGlvblw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZV9pbWdzXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -449,9 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZWZvcmVDYWxsYmFja3NcPg==</entry>
-        <entry encoding="base64">XDx1c2VyUmVzb2x2ZXJcPg==</entry>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
@@ -469,6 +469,9 @@
         <entry encoding="base64">XDxvcHRpb25cPg==</entry>
         <entry encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</entry>
         <entry encoding="base64">XDxwaHlzaWNhbF9yZXNvdXJjZV9pbWdzXD4=</entry>
+        <entry encoding="base64">XDxjaXRpZXNcPg==</entry>
+        <entry encoding="base64">XDxjb21tdW5pdGllc1w+</entry>
+        <entry encoding="base64">XDxjb29wZXJhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>/var /const /</entry>
