@@ -12,6 +12,9 @@
         <mark key="." line="183" column="45" />
         <mark key="^" line="183" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/setup/webpack.config.js" timestamp="1564040675061">
+        <mark key="'" line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/OrderController.php" timestamp="1564648772353" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V4.php" timestamp="1564653070208" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/.gitlab-ci.yml" timestamp="1563782271572">
@@ -27,6 +30,9 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/huangfu/laravel-alipay/src/AlipayServiceProvider.php" timestamp="1564647333028" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" timestamp="1564128549370">
+        <mark key="'" line="29" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/readme.md" timestamp="1563882890366">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="18" />
@@ -41,6 +47,9 @@
         <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/alipay-web.php" timestamp="1564648479101" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/_ide_helper.php" timestamp="1564128161222">
+        <mark key="'" line="17388" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/V1/ActivityCases.php" timestamp="1563882682217">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="5" />
@@ -60,11 +69,20 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/helpers.php" timestamp="1564659711493">
+        <mark key="'" line="38" column="74" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/CommunityResource.php" timestamp="1564562038117" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/laravel-mix/src/index.js" timestamp="1564045381188">
+        <mark key="'" line="16" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1564565394954">
         <mark key="'" line="101" column="19" />
       </file>
       <file name="/FieldOrderItem.php" timestamp="1564648425853" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/huangfu/laravel-alipay/src/Payment/WebPayment.php" timestamp="1564647635080">
+        <mark key="'" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/taobao/QimenCloud/QimenCloudClient.php" timestamp="1564646943574" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V5/OrderController.php" timestamp="1564653361948">
         <mark key="[" line="24" column="49" />
@@ -86,6 +104,9 @@
         <mark key="." line="118" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/alipay.php" timestamp="1564649031563" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Support/Attribute.php" timestamp="1564661176003">
+        <mark key="'" line="58" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Console/Commands/Migrations/SyncLinhuiDailyData.php" timestamp="1563761934858">
         <mark key="[" line="37" column="49" />
         <mark key="]" line="37" column="48" />
@@ -99,11 +120,20 @@
         <mark key="^" line="76" column="34" />
         <mark key="." line="76" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" timestamp="1564654056884">
-        <mark key="'" line="106" column="27" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" timestamp="1564661766200">
+        <mark key="'" line="270" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V2/TransactionController.php" timestamp="1564461859239">
         <mark key="'" line="330" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1564128988196">
+        <mark key="'" line="276" column="33" />
+      </file>
+      <file name="/Kernel.php" timestamp="1564567850300">
+        <mark key="'" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/LabelController.php" timestamp="1563960190866">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/taobao/top/request/TmallPopupstoreSiteBelongUpdateRequest.php" timestamp="1564566225052">
         <mark key="[" line="8" column="7" />
@@ -112,11 +142,17 @@
         <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/huangfu/laravel-alipay/src/alipay-app.php" timestamp="1564648060421" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Support/Collection.php" timestamp="1564659318790">
+        <mark key="'" line="97" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CompanyController.php" timestamp="1563865482358">
         <mark key="[" line="181" column="85" />
         <mark key="]" line="181" column="85" />
         <mark key="^" line="181" column="85" />
         <mark key="." line="181" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.8/node_modules/_laravel-mix@4.1.2@laravel-mix/src/index.js" timestamp="1563953139516">
+        <mark key="'" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1564648755065" />
       <file name="vm.js" timestamp="1564045020679">
@@ -132,11 +168,14 @@
         <mark key="^" line="172" column="31" />
         <mark key="." line="172" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Common/CommonValue.php" timestamp="1564653991948">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Common/CommonValue.php" timestamp="1564662063860">
         <mark key="[" line="500" column="29" />
         <mark key="]" line="500" column="26" />
         <mark key="." line="500" column="26" />
         <mark key="^" line="500" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/GroupsController.php" timestamp="1564461332309">
+        <mark key="'" line="827" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V9/OrderController.php" timestamp="1564653074454" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSiteOnlineStatus.php" timestamp="1564126327636">
@@ -145,12 +184,21 @@
         <mark key="^" line="57" column="20" />
         <mark key="." line="57" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/InvoiceOrderController.php" timestamp="1564460744585">
+        <mark key="'" line="116" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/InvoiceOrderController.php" timestamp="1564461395941">
+        <mark key="'" line="594" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" timestamp="1564567588497">
         <mark key="'" line="68" column="46" />
         <mark key="[" line="69" column="59" />
         <mark key="]" line="69" column="79" />
         <mark key="." line="69" column="79" />
         <mark key="^" line="69" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" timestamp="1564661793835">
+        <mark key="'" line="73" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1564653654251">
         <mark key="[" line="0" column="0" />
@@ -183,19 +231,22 @@
         <mark key="." line="505" column="22" />
         <mark key="^" line="505" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" timestamp="1564651997675">
-        <mark key="'" line="778" column="63" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1564127937988">
+        <mark key="'" line="978" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" timestamp="1564661254369">
+        <mark key="'" line="786" column="72" />
         <mark key="[" line="771" column="67" />
         <mark key="]" line="771" column="66" />
         <mark key="^" line="771" column="66" />
         <mark key="." line="771" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1564653373804">
-        <mark key="'" line="126" column="65" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1564661718063">
+        <mark key="'" line="132" column="51" />
+        <mark key="[" line="127" column="54" />
+        <mark key="]" line="129" column="81" />
+        <mark key="^" line="129" column="81" />
+        <mark key="." line="129" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/AlipayController.php" timestamp="1564647805497">
         <mark key="'" line="22" column="29" />
@@ -220,7 +271,10 @@
         <mark key="^" line="34" column="6" />
         <mark key="." line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1564651855047" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1564658819033" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" timestamp="1564661196670">
+        <mark key="'" line="62" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/hfpf/laravel-alipay/src/AlipayServiceProvider.php" timestamp="1564648803861">
         <mark key="'" line="37" column="38" />
       </file>
@@ -238,30 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
-      <jump line="190" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSite2Top.php" />
-      <jump line="155" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="147" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/PhysicalResource.php" />
-      <jump line="151" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="115" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="68" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="149" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="214" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="158" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="164" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="167" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="122" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="75" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" />
-      <jump line="499" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" />
-      <jump line="78" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" />
-      <jump line="819" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel5.5/readme.md" />
-      <jump line="1486" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="1533" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="736" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="108" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="832" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
       <jump line="831" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
       <jump line="1853" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
       <jump line="200" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
@@ -327,24 +357,48 @@
       <jump line="22" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/AlipayController.php" />
       <jump line="6" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/huangfu/laravel-alipay/src/Payment/WebPayment.php" />
       <jump line="37" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/hfpf/laravel-alipay/src/AlipayServiceProvider.php" />
-      <jump line="663" column="77" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
-      <jump line="780" column="86" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
-      <jump line="778" column="63" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
-      <jump line="128" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="123" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
-      <jump line="126" column="65" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
       <jump line="104" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
-      <jump line="105" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
-      <jump line="106" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="700" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
+      <jump line="661" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
+      <jump line="663" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
+      <jump line="778" column="66" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
+      <jump line="127" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="126" column="65" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="97" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Support/Collection.php" />
+      <jump line="38" column="74" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/helpers.php" />
+      <jump line="369" column="63" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="23" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="105" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="106" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="170" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="171" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="128" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="130" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="172" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="77" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" />
+      <jump line="58" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Support/Attribute.php" />
+      <jump line="79" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" />
+      <jump line="30" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" />
+      <jump line="46" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" />
+      <jump line="62" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" />
+      <jump line="780" column="89" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
+      <jump line="786" column="72" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
+      <jump line="270" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
+      <jump line="75" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" />
+      <jump line="129" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="11" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="132" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="73" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0Tm90aWZ5KCktPmdldCgnc2lnbicpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -368,7 +422,7 @@
         <text>都是移动应用：邻汇吧linhuiba</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0Tm90aWZ5QXBwXD4=</text>
+        <text encoding="base64">XDxnZW5lcmF0ZV9zaWduXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdhcHBfaWQnID0+ICd3eDFjNmNmYmU3NWIzNTkzNjQnLAogICAgICAgICAgICAgICAgJ21lcmNoYW50X2lkJyA9PiAnMTI4MjMyNjEwMScsCiAgICAgICAgICAgICAgICAna2V5JyA9PiAnaHpsaW5odWliYTMzMDcyMjE5ODZ5aW5nZ3VhbmdwZW4nLAogICAgICAgICAgICAgICAgJ2NlcnRfcGF0aCcgPT4gJy91c3Ivb3loL2FwaWNsaWVudF9jZXJ0LnBlbScsCiAgICAgICAgICAgICAgICAna2V5X3BhdGgnID0+ICcvdXNyL295aC9hcGljbGllbnRfa2V5LnBlbScsCiAgICAgICAgICAgICAgICAnZGV2aWNlX2luZm8nID0+ICcnLAogICAgICAgICAgICBdOwo=</text>
@@ -377,7 +431,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0Tm90aWZ5KCktPmdldCgnc2lnbicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
@@ -389,22 +443,22 @@
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnYXBwX2lkJyA9PiAnd3gyYThiYTQzOTdiNDg2Nzc3JywKICAgICAgICAgICAgJ21lcmNoYW50X2lkJyA9PiAnMTMyMTY3MTUwMScsCiAgICAgICAgICAgICdrZXknID0+ICdoekxpbmh1aWJhMjAxNjAzMjVwYXk0QnVzc2luaWVzcycsCiAgICAgICAgICAgICdjZXJ0X3BhdGgnID0+ICcvdXNyLzEzMjE2NzE1MDEvYXBpY2xpZW50X2NlcnQucGVtJywKICAgICAgICAgICAgJ2tleV9wYXRoJyA9PiAnL3Vzci8xMzIxNjcxNTAxL2FwaWNsaWVudF9rZXkucGVtJywKICAgICAgICAgICAgJ2RldmljZV9pbmZvJyA9PiAnJywKICAgICAgICBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnYXBwX2lkJyA9PiAnd3gyYThiYTQzOTdiNDg2Nzc3JywKICAgICAgICAgICAgJ21lcmNoYW50X2lkJyA9PiAnMTMyMTY3MTUwMScsCiAgICAgICAgICAgICdrZXknID0+ICdoekxpbmh1aWJhMjAxNjAzMjVwYXk0QnVzc2luaWVzcycsCiAgICAgICAgICAgICdjZXJ0X3BhdGgnID0+ICcvdXNyLzEzMjE2NzE1MDEvYXBpY2xpZW50X2NlcnQucGVtJywKICAgICAgICAgICAgJ2tleV9wYXRoJyA9PiAnL3Vzci8xMzIxNjcxNTAxL2FwaWNsaWVudF9rZXkucGVtJywKICAgICAgICAgICAgJ2RldmljZV9pbmZvJyA9PiAnJywKICAgICAgICBdOwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXJjaGFudF9pZCcgPT4gJzEyODIzMjYxMDEnLAogICAgICAgICAgICAgICAgJ3NlY3JldCcgPT4gJ2Y4MDU5NjEyN2Y2N2E1MDc1MDk2ZTRhN2Q1MGVhMWZlJywKICAgICAgICAgICAgICAgICd0b2tlbicgPT4gJ2xpbmh1aWJhdG9rZW4nLAogICAgICAgICAgICAgICAgJ2Flc19rZXknID0+ICdYMjlLUHBmTUFMTHQxeWt6TlRGdkV3ajhqeVl0Z3JaeVNyRDFabWdHVnJaJywKICAgICAgICAgICAgICAgICdrZXknID0+ICdoemxpbmh1aWJhMzMwNzIyMTk4NnlpbmdndWFuZ3BlbicsCiAgICAgICAgICAgICAgICAnY2VydF9wYXRoJyA9PiAnL3Vzci9veWgvYXBpY2xpZW50X2NlcnQucGVtJywKICAgICAgICAgICAgICAgICdrZXlfcGF0aCcgPT4gJy91c3Ivb3loL2FwaWNsaWVudF9rZXkucGVtJywKICAgICAgICAgICAgICAgICdkZXZpY2VfaW5mbycgPT4gJycsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXJjaGFudF9pZCcgPT4gJzEyODIzMjYxMDEnLAogICAgICAgICAgICAgICAgJ3NlY3JldCcgPT4gJ2Y4MDU5NjEyN2Y2N2E1MDc1MDk2ZTRhN2Q1MGVhMWZlJywKICAgICAgICAgICAgICAgICd0b2tlbicgPT4gJ2xpbmh1aWJhdG9rZW4nLAogICAgICAgICAgICAgICAgJ2Flc19rZXknID0+ICdYMjlLUHBmTUFMTHQxeWt6TlRGdkV3ajhqeVl0Z3JaeVNyRDFabWdHVnJaJywKICAgICAgICAgICAgICAgICdrZXknID0+ICdoemxpbmh1aWJhMzMwNzIyMTk4NnlpbmdndWFuZ3BlbicsCiAgICAgICAgICAgICAgICAnY2VydF9wYXRoJyA9PiAnL3Vzci9veWgvYXBpY2xpZW50X2NlcnQucGVtJywKICAgICAgICAgICAgICAgICdrZXlfcGF0aCcgPT4gJy91c3Ivb3loL2FwaWNsaWVudF9rZXkucGVtJywKICAgICAgICAgICAgICAgICdkZXZpY2VfaW5mbycgPT4gJycsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g56e75Yqo5bqU55So77ya6YK75rGH5ZCnbGluaHVpYmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
@@ -416,7 +470,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g56e75Yqo5bqU55So77ya6YK75rGH5ZCnbGluaHVpYmEK</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
@@ -429,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0Tm90aWZ5QXBwXD4=</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZV9zaWduXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0Tm90aWZ5QXBwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9zaWduXD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxUQ1BcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -439,8 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxsaW5nX3Jlc291cmNlc1w+</entry>
-        <entry encoding="base64">XDxhcnRpY2xlX3R5cGVfZGlzcGxheV9uYW1lXD4=</entry>
         <entry encoding="base64">XDxJZGVIZWxwZXJTZXJ2aWNlUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxzZXJ2aWNlc1w+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -459,6 +511,8 @@
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxXZWJQYXltZW50XD4=</entry>
         <entry encoding="base64">XDxwb3N0Tm90aWZ5QXBwXD4=</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9zaWduXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/var /const /</entry>
