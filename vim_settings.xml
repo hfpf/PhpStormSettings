@@ -168,7 +168,7 @@
         <mark key="^" line="172" column="31" />
         <mark key="." line="172" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Common/CommonValue.php" timestamp="1564662063860">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Common/CommonValue.php" timestamp="1564662940053">
         <mark key="[" line="500" column="29" />
         <mark key="]" line="500" column="26" />
         <mark key="." line="500" column="26" />
@@ -200,7 +200,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" timestamp="1564661793835">
         <mark key="'" line="73" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564653654251">
+      <file name="/Dummy.txt" timestamp="1564662989367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -242,11 +242,8 @@
         <mark key="." line="771" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1564661718063">
-        <mark key="'" line="132" column="51" />
-        <mark key="[" line="127" column="54" />
-        <mark key="]" line="129" column="81" />
-        <mark key="^" line="129" column="81" />
-        <mark key="." line="129" column="81" />
+        <mark key="'" line="128" column="51" />
+        <mark key="[" line="126" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/AlipayController.php" timestamp="1564647805497">
         <mark key="'" line="22" column="29" />
