@@ -211,7 +211,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" timestamp="1564667403004">
         <mark key="'" line="73" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564668829559">
+      <file name="/Dummy.txt" timestamp="1564710681187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -245,19 +245,19 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1564127937988">
         <mark key="'" line="978" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" timestamp="1564666721219">
-        <mark key="'" line="778" column="64" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" timestamp="1564710516091">
+        <mark key="'" line="780" column="90" />
         <mark key="[" line="771" column="67" />
         <mark key="]" line="771" column="66" />
         <mark key="^" line="771" column="66" />
         <mark key="." line="771" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1564668312167">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" timestamp="1564711779133">
         <mark key="'" line="126" column="63" />
-        <mark key="[" line="128" column="29" />
-        <mark key="]" line="128" column="27" />
-        <mark key="^" line="128" column="27" />
-        <mark key="." line="128" column="27" />
+        <mark key="[" line="133" column="5" />
+        <mark key="]" line="134" column="601" />
+        <mark key="^" line="134" column="601" />
+        <mark key="." line="134" column="601" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/AlipayController.php" timestamp="1564647805497">
         <mark key="'" line="22" column="29" />
@@ -396,13 +396,13 @@
       <jump line="105" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
       <jump line="786" column="69" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
       <jump line="54" column="71" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" />
-      <jump line="780" column="88" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
       <jump line="778" column="64" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
       <jump line="259" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
       <jump line="106" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Payment.php" />
       <jump line="73" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" />
       <jump line="128" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="126" column="63" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
+      <jump line="780" column="90" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V4/OrderController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
