@@ -49,12 +49,12 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1564567549659">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="177" column="42" />
-        <mark key="]" line="177" column="42" />
-        <mark key="^" line="177" column="42" />
-        <mark key="." line="177" column="42" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" timestamp="1564991716484">
+        <mark key="'" line="221" column="26" />
+        <mark key="[" line="223" column="39" />
+        <mark key="]" line="222" column="35" />
+        <mark key="^" line="222" column="35" />
+        <mark key="." line="222" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V3.php" timestamp="1564647523711">
         <mark key="[" line="14" column="27" />
@@ -197,7 +197,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" timestamp="1564667403004">
         <mark key="'" line="73" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564990752236">
+      <file name="/Dummy.txt" timestamp="1564991717500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -220,6 +220,12 @@
         <mark key="]" line="234" column="30" />
         <mark key="^" line="234" column="30" />
         <mark key="." line="234" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/UpdateLinhuiData.php" timestamp="1564991657116">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="54" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563430387600">
         <mark key="[" line="505" column="23" />
@@ -293,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
       <jump line="61" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
       <jump line="125" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
       <jump line="84" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
@@ -393,13 +398,14 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="132" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/WechatController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
+      <jump line="221" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">5q2m5rGJ5YWs5Y+477ya5q2m5rGJ5biC5rSq5bGx5Yy65q2m54+e6Lev6KGX6YGT5Y+j6bmP56iL5Zu96ZmFQeW6pzgxMQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmluZm8oJ+WkqeeMq+aZuuaFp+WVhuWciOWbvueJh+S4iuS8oOaIkOWKnycpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -420,46 +426,46 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>Ap</text>
+        <text>更新邻汇数据失败</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRyaWJ1dGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdhcHBfaWQnID0+ICd3eDNlODg5NzhhODU5NTNmZWEnLAogICAgICAgICAgICAgICAgJ3NlY3JldCcgPT4gJzM1NjM4Njc4ODE1MDg1ODk4NzAxZWVlOTRkZGU4N2YwJywKICAgICAgICAgICAgICAgICdtZXJjaGFudF9pZCcgPT4gJzEyMzYwNzIxMDInLAogICAgICAgICAgICAgICAgJ2tleScgPT4gJ2h6bGluaHVpYmEzMzA3MjIxOTg2eWluZ2d1YW5ncGVuJywKICAgICAgICAgICAgICAgICdjZXJ0X3BhdGgnID0+ICcvdXNyL295aC9hcGljbGllbnRfY2VydC5wZW0nLAogICAgICAgICAgICAgICAgJ2tleV9wYXRoJyA9PiAnL3Vzci9veWgvYXBpY2xpZW50X2tleS5wZW0nLAogICAgICAgICAgICAgICAgJ2RldmljZV9pbmZvJyA9PiAnJywKICAgICAgICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmluZm8oJ+WkqeeMq+aZuuaFp+WVhuWciOWbvueJh+S4iuS8oOaIkOWKnycpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5q2m5rGJ5YWs5Y+477ya5q2m5rGJ5biC5rSq5bGx5Yy65q2m54+e6Lev6KGX6YGT5Y+j6bmP56iL5Zu96ZmFQeW6pzgxMQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcTG9nOjoK</text>
       </register>
       <register name="q" type="4">
         <text>service_representatives</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkcmVzcC0+ZmlsZV91cmwpKSB7CiAgICAgICAgICAgICAgICAgICAgJGltYWdlLT50b3BfaW1hZ2VfdXJsID0gJHJlc3AtPmZpbGVfdXJsOwogICAgICAgICAgICAgICAgICAgICRpbWFnZS0+c2F2ZSgpOyAvLyDlm77niYfkv53lrZjmiJDlip8KICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygn5aSp54yr5pm65oWn5ZWG5ZyI5Zu+54mH5LiK5Lyg5oiQ5YqfJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICR0aGlzLT5pbmZvKCflpKnnjKvmmbrmhafllYblnIjlm77niYfkuIrkvKDmjqXlj6Plh7rplJksY29kZTonIC4gJHJlc3AtPmNvZGUgLiAnIG1zZzonIC4gJHJlc3AtPm1zZyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5q2m5rGJ5YWs5Y+477ya5q2m5rGJ5biC5rSq5bGx5Yy65q2m54+e6Lev6KGX6YGT5Y+j6bmP56iL5Zu96ZmFQeW6pzgxMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwID0gJHRoaXMtPmMtPmV4ZWN1dGUoJGltZ1VwbG9hZFJlcSk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnYXBwX2lkJyA9PiAnd3gzZTg4OTc4YTg1OTUzZmVhJywKICAgICAgICAgICAgJ3NlY3JldCcgPT4gJzM1NjM4Njc4ODE1MDg1ODk4NzAxZWVlOTRkZGU4N2YwJywKICAgICAgICAgICAgJ21lcmNoYW50X2lkJyA9PiAnMTIzNjA3MjEwMicsCiAgICAgICAgICAgICdrZXknID0+ICdoemxpbmh1aWJhMzMwNzIyMTk4NnlpbmdndWFuZ3BlbicsCiAgICAgICAgICAgICdjZXJ0X3BhdGgnID0+ICcvdXNyL295aC9hcGljbGllbnRfY2VydC5wZW0nLAogICAgICAgICAgICAna2V5X3BhdGgnID0+ICcvdXNyL295aC9hcGljbGllbnRfa2V5LnBlbScsCiAgICAgICAgICAgICdkZXZpY2VfaW5mbycgPT4gJycsCiAgICAgICAgXTsK</text>
+        <text encoding="base64">5q2m5rGJ5YWs5Y+477ya5q2m5rGJ5biC5rSq5bGx5Yy65q2m54+e6Lev6KGX6YGT5Y+j6bmP56iL5Zu96ZmFQeW6pzgxMQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0Tm90aWZ5KCktPmdldCgnc2lnbicpOwo=</text>
+        <text encoding="base64">5q2m5rGJ5YWs5Y+477ya5q2m5rGJ5biC5rSq5bGx5Yy65q2m54+e6Lev6KGX6YGT5Y+j6bmP56iL5Zu96ZmFQeW6pzgxMQo=</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
@@ -471,7 +477,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnYXBwX2lkJyA9PiAnd3gzZTg4OTc4YTg1OTUzZmVhJywKICAgICAgICAgICAgJ3NlY3JldCcgPT4gJzM1NjM4Njc4ODE1MDg1ODk4NzAxZWVlOTRkZGU4N2YwJywKICAgICAgICAgICAgJ21lcmNoYW50X2lkJyA9PiAnMTIzNjA3MjEwMicsCiAgICAgICAgICAgICdrZXknID0+ICdoemxpbmh1aWJhMzMwNzIyMTk4NnlpbmdndWFuZ3BlbicsCiAgICAgICAgICAgICdjZXJ0X3BhdGgnID0+ICcvdXNyL295aC9hcGljbGllbnRfY2VydC5wZW0nLAogICAgICAgICAgICAna2V5X3BhdGgnID0+ICcvdXNyL295aC9hcGljbGllbnRfa2V5LnBlbScsCiAgICAgICAgICAgICdkZXZpY2VfaW5mbycgPT4gJycsCiAgICAgICAgXTsK</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
