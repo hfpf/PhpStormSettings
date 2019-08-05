@@ -5,9 +5,9 @@
       <mark key="M" line="63" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Models/Notification.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Kernel.php" timestamp="1564568417831">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Kernel.php" timestamp="1564990784163">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="183" column="45" />
+        <mark key="[" line="183" column="59" />
         <mark key="]" line="183" column="45" />
         <mark key="." line="183" column="45" />
         <mark key="^" line="183" column="39" />
@@ -197,7 +197,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Notify.php" timestamp="1564667403004">
         <mark key="'" line="73" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564726285145">
+      <file name="/Dummy.txt" timestamp="1564990752236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
