@@ -27,6 +27,7 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/dingo/api/src/Routing/Adapter/Laravel.php" timestamp="1565162986349" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/readme.md" timestamp="1563882890366">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="18" />
@@ -169,7 +170,7 @@
         <mark key="." line="580" column="0" />
         <mark key="^" line="581" column="11" />
       </file>
-      <file name="/PHP Console" timestamp="1565078416233">
+      <file name="/PHP Console" timestamp="1565162964867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/GroupsController.php" timestamp="1564461332309">
