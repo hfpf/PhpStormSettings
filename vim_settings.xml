@@ -242,12 +242,12 @@
         <mark key="." line="38" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/PhysicalResource.php" timestamp="1565159705485" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ActivityCaseService.php" timestamp="1565258046778">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ActivityCaseService.php" timestamp="1565267826482">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="59" column="45" />
-        <mark key="^" line="59" column="45" />
-        <mark key="." line="59" column="45" />
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="21" />
+        <mark key="^" line="67" column="21" />
+        <mark key="." line="67" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563430387600">
         <mark key="[" line="505" column="23" />
