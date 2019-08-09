@@ -242,12 +242,12 @@
         <mark key="." line="38" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/PhysicalResource.php" timestamp="1565159705485" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ActivityCaseService.php" timestamp="1565267826482">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ActivityCaseService.php" timestamp="1565318029551">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="67" column="21" />
-        <mark key="^" line="67" column="21" />
-        <mark key="." line="67" column="21" />
+        <mark key="[" line="67" column="77" />
+        <mark key="]" line="68" column="6" />
+        <mark key="^" line="68" column="6" />
+        <mark key="." line="68" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/trunk/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/TaskController.php" timestamp="1563430387600">
         <mark key="[" line="505" column="23" />
@@ -319,7 +319,7 @@
         <mark key="^" line="328" column="45" />
         <mark key="." line="328" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/ReportControllerTest.php" timestamp="1565315991097" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/ReportControllerTest.php" timestamp="1565317359160" />
     </filemarks>
     <jumps>
       <jump line="1306" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
@@ -427,8 +427,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUb3BDbGllbnQKICAgICAqLwogICAgcHJpdmF0ZSAkYzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDMuNSBMaW1pdGluZyBDb25uZWN0aW9ucyB8IDMzCg==</text>
+      <register name="&quot;" type="4">
+        <text>that can identify the user at the application leve</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YyA9IG5ldyBUb3BDbGllbnQ7CiAgICAgICAgJHRoaXMtPmMtPmFwcGtleSA9ICcyNTkxNjAxNyc7CiAgICAgICAgJHRoaXMtPmMtPnNlY3JldEtleSA9ICdjYjkxODllOTYxMjNmMTBmNzBiNjY2ZWMyZjhlMzAwYic7Cg==</text>
@@ -449,7 +449,7 @@
         <text>简介</text>
       </register>
       <register name="-" type="4">
-        <text>修改同步天猫资源商圈的命</text>
+        <text>that can identify the user at the application leve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</text>
