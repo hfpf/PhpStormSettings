@@ -27,7 +27,7 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/SellingResourceController.php" timestamp="1565334470140" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/SellingResourceController.php" timestamp="1565337470198" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/dingo/api/src/Routing/Adapter/Laravel.php" timestamp="1565162986349" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/readme.md" timestamp="1563882890366">
         <mark key="[" line="7" column="19" />
@@ -99,6 +99,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/LeavingSoon.php" timestamp="1565330792905">
         <mark key="'" line="40" column="39" />
       </file>
+      <file name="/NotificationAssistance.php" timestamp="1565337494220" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Support/Attribute.php" timestamp="1564661176003">
         <mark key="'" line="58" column="23" />
       </file>
@@ -114,11 +115,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V2/TransactionController.php" timestamp="1564461859239">
         <mark key="'" line="330" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" timestamp="1565332001022">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" timestamp="1565339584654">
+        <mark key="'" line="252" column="47" />
+        <mark key="[" line="318" column="19" />
+        <mark key="]" line="318" column="18" />
+        <mark key="^" line="318" column="18" />
+        <mark key="." line="318" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1564128988196">
         <mark key="'" line="276" column="33" />
@@ -138,6 +140,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Support/Collection.php" timestamp="1564659318790">
         <mark key="'" line="97" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/SendSMS.php" timestamp="1565337893944" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CompanyController.php" timestamp="1563865482358">
         <mark key="[" line="181" column="85" />
         <mark key="]" line="181" column="85" />
@@ -205,7 +208,7 @@
         <mark key="^" line="897" column="40" />
         <mark key="." line="897" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565254272962">
+      <file name="/Dummy.txt" timestamp="1565338441354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -261,6 +264,9 @@
         <mark key="^" line="16" column="92" />
         <mark key="." line="16" column="92" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/NotifyActivity.php" timestamp="1565339542275">
+        <mark key="'" line="61" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1564717507045">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="49" column="8" />
@@ -288,14 +294,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/ReportControllerTest.php" timestamp="1565317359160" />
     </filemarks>
     <jumps>
-      <jump line="1304" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="101" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" />
-      <jump line="68" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSiteBelong.php" />
-      <jump line="8" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/taobao/top/request/TmallPopupstoreSiteUpdateRequest.php" />
-      <jump line="124" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="65" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
-      <jump line="13" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/taobao/top/request/TmallPopupstoreSiteUpdateRequest.php" />
-      <jump line="141" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UpdateTopSite.php" />
       <jump line="67" column="0" filename="/Kernel.php" />
       <jump line="104" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSiteBelong2Top.php" />
@@ -388,6 +386,14 @@
       <jump line="0" column="0" filename="/Applications/XAMPP/xamppfiles/etc/php.ini" />
       <jump line="59" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/LeavingSoon.php" />
       <jump line="40" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/LeavingSoon.php" />
+      <jump line="315" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="320" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="262" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="229" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="292" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="61" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/NotifyActivity.php" />
+      <jump line="252" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -418,7 +424,7 @@
         <text>that can identify the user at the application leve</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIGFuZCA1MDAtbGV2ZWwgcmVzcG9uc2VzIGluZGljYXRlIHNlcnZlciBlcnJvciB3aGVyZWFzIDQwMC1sZXZlbCByZXNwb25zZXMgaW5kaWNhdGUgY2xpZW50IGVycm9yLl4K</text>
@@ -479,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -505,10 +511,10 @@
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxXZWJQYXltZW50XD4=</entry>
         <entry encoding="base64">XDxwb3N0Tm90aWZ5QXBwXD4=</entry>
-        <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9zaWduXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRJbWFnZXNcPg==</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>/var /const /</entry>
