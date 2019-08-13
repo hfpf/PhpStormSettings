@@ -81,7 +81,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/packages/huangfu/laravel-alipay/src/Payment/WebPayment.php" timestamp="1564647635080">
         <mark key="'" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/v3.15.1-depoly.sh" timestamp="1565663294058" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/v3.15.1-depoly.sh" timestamp="1565681821064">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V5/OrderController.php" timestamp="1564653361948">
         <mark key="[" line="24" column="49" />
         <mark key="]" line="24" column="48" />
