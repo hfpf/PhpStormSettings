@@ -147,12 +147,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V2/TransactionController.php" timestamp="1564461859239">
         <mark key="'" line="330" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" timestamp="1565774892362">
-        <mark key="'" line="262" column="49" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" timestamp="1565830932063">
+        <mark key="'" line="320" column="35" />
         <mark key="[" line="307" column="0" />
         <mark key="]" line="307" column="0" />
         <mark key="^" line="56" column="64" />
-        <mark key="." line="307" column="0" />
+        <mark key="." line="321" column="233" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1564128988196">
         <mark key="'" line="276" column="33" />
@@ -361,7 +361,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/ReportControllerTest.php" timestamp="1565317359160" />
     </filemarks>
     <jumps>
-      <jump line="1284" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/FieldOrderItem.php" />
       <jump line="39" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/hfpf/laravel-alipay/src/AlipayServiceProvider.php" />
       <jump line="9" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/AlipayController.php" />
       <jump line="22" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/AlipayController.php" />
@@ -441,7 +440,6 @@
       <jump line="59" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/LeavingSoon.php" />
       <jump line="40" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/LeavingSoon.php" />
       <jump line="315" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
-      <jump line="320" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
       <jump line="262" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
       <jump line="229" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
@@ -461,6 +459,8 @@
       <jump line="273" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
       <jump line="199" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
       <jump line="268" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="325" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
+      <jump line="320" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/NotificationAssistance.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
