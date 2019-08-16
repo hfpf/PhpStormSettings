@@ -187,7 +187,7 @@
         <mark key="^" line="897" column="40" />
         <mark key="." line="897" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565952948272">
+      <file name="/Dummy.txt" timestamp="1565953113340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -222,12 +222,12 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1565947926809">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/SendSite2Top.php" timestamp="1565953515798">
         <mark key="'" line="92" column="40" />
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="56" column="6" />
+        <mark key="[" line="57" column="38" />
+        <mark key="]" line="57" column="37" />
+        <mark key="." line="57" column="37" />
+        <mark key="^" line="57" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Payment/Merchant.php" timestamp="1564661196670">
         <mark key="'" line="62" column="9" />

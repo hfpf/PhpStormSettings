@@ -62,6 +62,36 @@
           <option name="namespace" value="PHPer" />
           <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/LinhuiSpider.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/location/locationServer.git" />
+          <option name="name" value="locationServer" />
+          <option name="namespace" value=" location" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:location/locationServer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/LinhuibaAdmin/linhuiba_admin.git" />
+          <option name="name" value="linhuiba_admin" />
+          <option name="namespace" value="LinhuibaAdmin" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:LinhuibaAdmin/linhuiba_admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/PHPer/laravel5.5.git" />
+          <option name="name" value="laravel5.5" />
+          <option name="namespace" value="PHPer" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/laravel5.5.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/PHPer/LinhuibaServer.git" />
+          <option name="name" value="LinhuibaServer" />
+          <option name="namespace" value="PHPer" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/LinhuibaServer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/PHPer/LinhuiSpider.git" />
+          <option name="name" value="LinhuiSpider" />
+          <option name="namespace" value="PHPer" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/LinhuiSpider.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
