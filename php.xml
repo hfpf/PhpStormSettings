@@ -103,7 +103,7 @@
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.9/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/pear/share/pear:/usr/local/Cellar/php/7.3.9/share/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.7.2">
