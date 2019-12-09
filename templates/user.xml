@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="dsaf" value="$city = $this-&gt;province;&#10;        if ($city == $this-&gt;city) {&#10;            $city = $city;&#10;        } else {&#10;            $city = $city . $this-&gt;city;&#10;        }&#10;        return $city;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
