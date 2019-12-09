@@ -1,6 +1,6 @@
 <templateSet group="HuangFu">
-  <template name="$resp" value="$response = $this-&gt;user(1)&#10;            -&gt;version('$VERION$')&#10;            -&gt;json('$METHOD$', '/api/$LINK$');$END$&#10;" description="测试方法中调用接口" toReformat="false" toShortenFQNames="true">
-    <variable name="VERION" expression="phpSuggestVariableName()" defaultValue="v1" alwaysStopAt="true" />
+  <template name="$respApi" value="$response = $this-&gt;user(1)&#10;            -&gt;version('$VERION$')&#10;            -&gt;json('$METHOD$', '/api/$LINK$');$END$&#10;" description="测试方法中调用接口" toReformat="false" toShortenFQNames="true">
+    <variable name="VERION" expression="" defaultValue="v1" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="GET" alwaysStopAt="true" />
     <variable name="LINK" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
