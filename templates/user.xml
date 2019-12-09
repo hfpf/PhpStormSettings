@@ -1,8 +1,10 @@
 <templateSet group="user">
-  <template name="dsaf" value="$city = $this-&gt;province;&#10;        if ($city == $this-&gt;city) {&#10;            $city = $city;&#10;        } else {&#10;            $city = $city . $this-&gt;city;&#10;        }&#10;        return $city;" toReformat="true" toShortenFQNames="true">
+  <template name="$respApi" value="$response = $this-&gt;user(1)&#10;            -&gt;version('$VERION$')&#10;            -&gt;json('$METHOD$', '/api/$LINK$');$END$&#10;" description="测试方法中调用接口" toReformat="false" toShortenFQNames="true">
+    <variable name="VERION" expression="&quot;v1&quot;" defaultValue="v1" alwaysStopAt="true" />
+    <variable name="METHOD" expression="&quot;GET&quot;" defaultValue="GET" alwaysStopAt="true" />
+    <variable name="LINK" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Expression" value="true" />
-      <option name="PHP Statement" value="true" />
     </context>
   </template>
 </templateSet>
