@@ -1,0 +1,11 @@
+<templateSet group="Linhuiba">
+  <template name="ya" value="/**&#10;* @api {$METHOD$} /$PATH$ $DESCRIPTION$&#10;*&#10;* @link $LINK$&#10;*/" description="API comment" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="&quot;GET&quot;" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LINK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
