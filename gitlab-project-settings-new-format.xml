@@ -92,6 +92,96 @@
           <option name="namespace" value="PHPer" />
           <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/LinhuiSpider.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/android/LinhuibaCrm.git" />
+          <option name="name" value="LinhuibaCrm" />
+          <option name="namespace" value=" android" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:android/LinhuibaCrm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/location/ebookingwx.git" />
+          <option name="name" value="ebookingWX" />
+          <option name="namespace" value=" location" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:location/ebookingwx.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/location/locationBusinessWXMP.git" />
+          <option name="name" value="locationBusinessWXMP" />
+          <option name="namespace" value=" location" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:location/locationBusinessWXMP.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/location/locationServer.git" />
+          <option name="name" value="locationServer" />
+          <option name="namespace" value=" location" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:location/locationServer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/location/locationweb2b.git" />
+          <option name="name" value="LocationWeb2B" />
+          <option name="namespace" value=" location" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:location/locationweb2b.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/dy/businesspdf.git" />
+          <option name="name" value="businessPdf" />
+          <option name="namespace" value="duyu" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:dy/businesspdf.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/front-end-web/LinhuibaCRM4Wap.git" />
+          <option name="name" value="LinhuibaCRM4Wap" />
+          <option name="namespace" value="front-end-web" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:front-end-web/LinhuibaCRM4Wap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/front-end-web/LinhuibaWap.git" />
+          <option name="name" value="LinhuibaWap" />
+          <option name="namespace" value="front-end-web" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:front-end-web/LinhuibaWap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/iOS/LinhuibaCRM.git" />
+          <option name="name" value="LinhuibaCRM" />
+          <option name="namespace" value="iOS" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:iOS/LinhuibaCRM.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/LinhuibaAdmin/linhuiba_admin.git" />
+          <option name="name" value="linhuiba_admin" />
+          <option name="namespace" value="LinhuibaAdmin" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:LinhuibaAdmin/linhuiba_admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/lui/lui.git" />
+          <option name="name" value="Lui" />
+          <option name="namespace" value="lui" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:lui/lui.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/PHPer/laravel5.5.git" />
+          <option name="name" value="laravel5.5" />
+          <option name="namespace" value="PHPer" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/laravel5.5.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/PHPer/LinhuibaServer.git" />
+          <option name="name" value="LinhuibaServer" />
+          <option name="namespace" value="PHPer" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/LinhuibaServer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/PHPer/LinhuiSpider.git" />
+          <option name="name" value="LinhuiSpider" />
+          <option name="namespace" value="PHPer" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:PHPer/LinhuiSpider.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.lanhanba.com/huanfu/laravel6.0.git" />
+          <option name="name" value="laravel6.0" />
+          <option name="namespace" value="皇甫" />
+          <option name="sshUrl" value="git@gitlab.lanhanba.com:huanfu/laravel6.0.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
