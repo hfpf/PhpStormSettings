@@ -8,6 +8,7 @@
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="apidoc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ebk.integration" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
       <mapping pattern="LinhuibaServer" type="PLAIN_TEXT" />
