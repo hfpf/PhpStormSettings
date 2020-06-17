@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592401239532">
+      <file name="/Dummy.txt" timestamp="1592401813888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,11 +125,6 @@
       <file name="/V1.php" timestamp="1592396861652">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/EBooking/EbkUser.php" timestamp="1592397211621">
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/WalletController.php" timestamp="1592396487142">
         <mark key="[" line="236" column="0" />
