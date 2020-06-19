@@ -142,12 +142,12 @@
       <file name="/fragment.php" timestamp="1592469919101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/Ordered.php" timestamp="1592545533059">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/Ordered.php" timestamp="1592546851258">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="38" />
+        <mark key="[" line="51" column="45" />
+        <mark key="]" line="51" column="61" />
+        <mark key="." line="51" column="60" />
+        <mark key="^" line="51" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" timestamp="1592473025788">
         <mark key="'" line="39" column="20" />
