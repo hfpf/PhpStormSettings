@@ -114,6 +114,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="35" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/resources/views/layouts/app.blade.php" timestamp="1592566467068">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Middleware/AdminAuth.php" timestamp="1592554102967" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/resources/views/home.blade.php" timestamp="1592472909454">
         <mark key="'" line="0" column="0" />
@@ -123,12 +129,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/HandlerStack.php" timestamp="1592553410705">
         <mark key="'" line="42" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/resources/views/profile.blade.php" timestamp="1592470568879">
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1592482392863">
         <mark key="[" line="50" column="0" />
@@ -158,13 +158,6 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/resources/views/orders.blade.php" timestamp="1592468531263">
-        <mark key="'" line="9" column="49" />
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="10" column="48" />
-        <mark key="." line="10" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/resources/js/bootstrap.js" timestamp="1592472400363">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="37" column="9" />
@@ -179,6 +172,12 @@
       </file>
       <file name="/PHP Console" timestamp="1592554989814">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1592552790273">
         <mark key="'" line="181" column="62" />
