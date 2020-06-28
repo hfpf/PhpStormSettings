@@ -120,13 +120,16 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="/Dummy.txt" timestamp="1593327175859">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" timestamp="1593095784898">
         <mark key="'" line="141" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/HandlerStack.php" timestamp="1592553410705">
         <mark key="'" line="42" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1592635515670">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1593327536338">
         <mark key="'" line="49" column="36" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -160,15 +163,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Providers/AppServiceProvider.php" timestamp="1593095760195" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Middleware.php" timestamp="1592553638428">
         <mark key="'" line="58" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1592552790273">
         <mark key="'" line="181" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1592549919783">
-        <mark key="'" line="410" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
