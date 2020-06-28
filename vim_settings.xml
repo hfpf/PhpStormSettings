@@ -107,11 +107,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/InEnterprise.php" timestamp="1593328531021">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="23" column="5" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/InEnterprise.php" timestamp="1593329236367">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="44" />
+      </file>
+      <file name="/a.dummy" timestamp="1593329293927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
+        <mark key="'" line="110" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1593328599104">
+        <mark key="'" line="25" column="40" />
+      </file>
+      <file name="/PHP Console" timestamp="1592554989814">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593329828469">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="67" />
+        <mark key="^" line="21" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Http/Controllers/SettingsController.php" timestamp="1592634454110">
         <mark key="'" line="50" column="26" />
@@ -132,9 +157,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" timestamp="1593095784898">
         <mark key="'" line="141" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/HandlerStack.php" timestamp="1592553410705">
-        <mark key="'" line="42" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1593327536338">
         <mark key="'" line="49" column="36" />
         <mark key="[" line="50" column="0" />
@@ -154,33 +176,11 @@
         <mark key="." line="56" column="39" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
-        <mark key="'" line="110" column="31" />
-      </file>
-      <file name="/PHP Console" timestamp="1592554989814">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Middleware.php" timestamp="1592553638428">
-        <mark key="'" line="58" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1592552790273">
-        <mark key="'" line="181" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" />
-      <jump line="33" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" />
-      <jump line="35" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Providers/ConfigServiceProvider.php" />
-      <jump line="76" column="57" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" />
       <jump line="117" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/pimple/pimple/src/Pimple/Container.php" />
       <jump line="46" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php" />
       <jump line="50" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php" />
@@ -277,6 +277,10 @@
       <jump line="110" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" />
       <jump line="77" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" />
       <jump line="141" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" />
+      <jump line="14" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" />
+      <jump line="25" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" />
+      <jump line="13" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
+      <jump line="22" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,8 +288,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIOiuvue9ruW7tuaXtuaXtumXtAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldERlbGF5VGltZSgpCiAgICB7CiAgICAgICAgJG5pbmVDbG9jayA9IHRvZGF5KCktPmFkZEhvdXJzKDkpOwogICAgICAgICRzaXhQTUNsb2NrID0gdG9kYXkoKS0+YWRkSG91cnMoMTgpOwogICAgCiAgICAgICAgaWYgKG5vdygpLT5pc1dlZWtlbmQoKSkgewogICAgICAgICAgICAvLyDlpoLmnpzmmK/lkajmnKvvvIzlj5HpgIHml7bpl7Tlu7bov5/oh7PkuIvlkajkuIAgOSAtIDEyIOeCueS5i+mXtAogICAgICAgICAgICAkdGhpcy0+ZGVsYXkobm93KCktPnN0YXJ0T2ZXZWVrKCktPmFkZFdlZWsoKS0+YWRkSG91cnMoOSktPmFkZE1pbnV0ZXMocmFuZCgxLCAxODApKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKG5vdygpLT5sZXNzVGhhbigkbmluZUNsb2NrKSkgewogICAgICAgICAgICAgICAgLy8g5bCP5LqOIDkg54K577yM5Y+R6YCB5pe26Ze05bu26L+f6IezIDkgLSAxMiDngrnkuYvpl7QKICAgICAgICAgICAgICAgICR0aGlzLT5kZWxheSgkbmluZUNsb2NrLT5hZGRNaW51dGVzKHJhbmQoMSwgMTgwKSkpOwogICAgICAgICAgICB9IGVsc2VpZiAobm93KCktPmdyZWF0ZXJUaGFuKCRzaXhQTUNsb2NrKSkgewogICAgICAgICAgICAgICAgLy8g5aSn5LqOIDE454K577yM5Y+R6YCB5pe26Ze05bu26L+f6Iez56ys5LqM5aSpIDkgLSAxMiDngrnkuYvpl7QKICAgICAgICAgICAgICAgIGlmIChDYXJib246OnRvbW9ycm93KCktPmlzV2Vla2VuZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRlbGF5KG5vdygpLT5zdGFydE9mV2VlaygpLT5hZGRXZWVrKCktPmFkZEhvdXJzKDkpLT5hZGRNaW51dGVzKHJhbmQoMSwgMTgwKSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZGVsYXkoQ2FyYm9uOjp0b21vcnJvdygpLT5hZGRIb3Vycyg5KS0+YWRkTWludXRlcyhyYW5kKDEsIDE4MCkpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vIOWmguaenG1vZGVsIOS4jeWtmOWcqHByb3ZpZGVyX2lk</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -306,7 +310,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>M7EventDelay</text>
+        <text encoding="base64">IC8vIOWmguaenG1vZGVsIOS4jeWtmOWcqHByb3ZpZGVyX2lk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWZvcmVTZW5kaW5nQ2FsbGJhY2tzXD4=</text>
