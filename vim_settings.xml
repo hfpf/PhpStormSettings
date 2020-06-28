@@ -107,31 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/HandlerStack.php" timestamp="1592553410705">
-        <mark key="'" line="42" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1592550496351">
-        <mark key="'" line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
-        <mark key="'" line="110" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/.env" timestamp="1592634263964" />
-      <file name="/PHP Console" timestamp="1592554989814">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Middleware.php" timestamp="1592553638428">
-        <mark key="'" line="58" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1592549919783">
-        <mark key="'" line="410" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Http/Controllers/SettingsController.php" timestamp="1592634454110">
         <mark key="'" line="50" column="26" />
         <mark key="[" line="50" column="0" />
@@ -145,8 +120,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Middleware/AdminAuth.php" timestamp="1592554102967" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1592619812222" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" timestamp="1593095784898">
+        <mark key="'" line="141" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/HandlerStack.php" timestamp="1592553410705">
+        <mark key="'" line="42" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1592635515670">
         <mark key="'" line="49" column="36" />
         <mark key="[" line="50" column="0" />
@@ -159,6 +138,9 @@
       <file name="/fragment.php" timestamp="1592554825132">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1592550496351">
+        <mark key="'" line="51" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/Ordered.php" timestamp="1592619324045">
         <mark key="'" line="35" column="20" />
         <mark key="[" line="55" column="48" />
@@ -166,19 +148,33 @@
         <mark key="." line="56" column="39" />
         <mark key="^" line="56" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
+        <mark key="'" line="110" column="31" />
+      </file>
+      <file name="/PHP Console" timestamp="1592554989814">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Providers/AppServiceProvider.php" timestamp="1593095760195" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Middleware.php" timestamp="1592553638428">
+        <mark key="'" line="58" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1592552790273">
         <mark key="'" line="181" column="62" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php" timestamp="1592545265954" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/OSS/DefaultAcsClient.php" timestamp="1592482574474">
-        <mark key="'" line="76" column="17" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1592549919783">
+        <mark key="'" line="410" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" />
       <jump line="33" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" />
       <jump line="35" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Providers/ConfigServiceProvider.php" />
@@ -278,6 +274,7 @@
       <jump line="49" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" />
       <jump line="110" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" />
       <jump line="77" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" />
+      <jump line="141" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
