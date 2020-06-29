@@ -147,6 +147,7 @@
       <file name="/fragment.php" timestamp="1592554825132">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/database/migrations/landlord/2020_06_29_034002_create_landlord_tenants_table.php" timestamp="1593402014570" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/Ordered.php" timestamp="1592619324045">
         <mark key="'" line="35" column="20" />
         <mark key="[" line="55" column="48" />
@@ -185,6 +186,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593402644791" />
     </filemarks>
     <jumps>
       <jump line="117" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/pimple/pimple/src/Pimple/Container.php" />
