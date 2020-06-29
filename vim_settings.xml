@@ -113,31 +113,6 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1593329293927">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
-        <mark key="'" line="110" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1593328599104">
-        <mark key="'" line="25" column="40" />
-      </file>
-      <file name="/PHP Console" timestamp="1592554989814">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593399261062">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="68" />
-        <mark key="." line="21" column="67" />
-        <mark key="^" line="21" column="68" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Http/Controllers/SettingsController.php" timestamp="1592634454110">
         <mark key="'" line="50" column="26" />
         <mark key="[" line="50" column="0" />
@@ -163,6 +138,9 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1593329293927">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" timestamp="1592554125994">
         <mark key="'" line="487" column="47" />
       </file>
@@ -175,6 +153,34 @@
         <mark key="]" line="56" column="40" />
         <mark key="." line="56" column="39" />
         <mark key="^" line="56" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
+        <mark key="'" line="110" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1593328599104">
+        <mark key="'" line="25" column="40" />
+      </file>
+      <file name="/PHP Console" timestamp="1592554989814">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/public/css/app.css" timestamp="1592566579402">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593399261062">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="67" />
+        <mark key="^" line="21" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/Http/Kernel.php" timestamp="1593401974798">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+        <mark key="." line="39" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
