@@ -119,11 +119,14 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/database/migrations/landlord/2020_06_29_034002_create_landlord_tenants_table.php" timestamp="1593409959549" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Concerns/UsesMultitenancyConfig.php" timestamp="1593410646530" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/MicroMerchant/Kernel/BaseClient.php" timestamp="1592633628098">
-        <mark key="'" line="110" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1593328599104">
         <mark key="'" line="25" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/Scopes/TenantScope.php" timestamp="1593413942055">
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593399261062">
         <mark key="'" line="22" column="16" />
@@ -148,7 +151,7 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="35" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593327175859">
+      <file name="/Dummy.txt" timestamp="1593413844334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" timestamp="1593095784898">
@@ -160,12 +163,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/Ordered.php" timestamp="1592619324045">
-        <mark key="'" line="35" column="20" />
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="56" column="40" />
-        <mark key="." line="56" column="39" />
-        <mark key="^" line="56" column="40" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/User.php" timestamp="1593414028425">
+        <mark key="[" line="44" column="49" />
+        <mark key="]" line="44" column="50" />
+        <mark key="^" line="44" column="50" />
+        <mark key="." line="44" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" timestamp="1593410949951">
         <mark key="'" line="35" column="9" />
@@ -177,7 +179,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593413016535">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593413033685">
         <mark key="'" line="16" column="63" />
       </file>
     </filemarks>
