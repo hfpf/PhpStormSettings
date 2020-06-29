@@ -186,10 +186,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
         <mark key="'" line="77" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593402644791" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593402648742">
+        <mark key="'" line="16" column="65" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/pimple/pimple/src/Pimple/Container.php" />
       <jump line="46" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php" />
       <jump line="50" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php" />
       <jump line="51" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php" />
@@ -289,6 +290,7 @@
       <jump line="25" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" />
       <jump line="13" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
       <jump line="22" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
+      <jump line="16" column="65" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
