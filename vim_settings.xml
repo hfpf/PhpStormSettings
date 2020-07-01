@@ -117,12 +117,8 @@
         <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1593575029343" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593399261062">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="68" />
-        <mark key="." line="21" column="67" />
-        <mark key="^" line="21" column="68" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" timestamp="1593575881023">
+        <mark key="'" line="51" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/Http/Kernel.php" timestamp="1593401974798">
         <mark key="[" line="39" column="14" />
@@ -164,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="187" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="184" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="92" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
@@ -264,6 +259,7 @@
       <jump line="2190" column="68" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="2202" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="2153" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="54" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +268,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIOWmguaenG1vZGVsIOS4jeWtmOWcqHByb3ZpZGVyX2lk</text>
+        <text>echo</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -293,7 +289,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIOWmguaenG1vZGVsIOS4jeWtmOWcqHByb3ZpZGVyX2lk</text>
+        <text>echo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VEZWZhdWx0UXVlcnlHcmFtbWFyXD4=</text>
