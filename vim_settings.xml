@@ -117,8 +117,8 @@
         <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1593575029343" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593593810037">
-        <mark key="'" line="13" column="21" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593602570134">
+        <mark key="'" line="15" column="60" />
         <mark key="[" line="21" column="67" />
         <mark key="]" line="21" column="68" />
         <mark key="." line="21" column="67" />
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="184" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="92" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="96" column="95" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
@@ -261,6 +260,7 @@
       <jump line="2153" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="54" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" />
       <jump line="13" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
+      <jump line="15" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
