@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmljZVw+</entry>
-        <entry encoding="base64">XDxyb2xlXD4=</entry>
         <entry encoding="base64">XDxpc0NvbmZpZGVudGlhbFw+</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxmaXJzdFBhcnR5XD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxtaWRkbGV3YXJlc1w+</entry>
         <entry encoding="base64">XDxiZWZvcmVTZW5kaW5nQ2FsbGJhY2tzXD4=</entry>
         <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
+        <entry encoding="base64">XDxxdWVyeUdyYW1tYXJcPg==</entry>
+        <entry encoding="base64">XDx1c2VEZWZhdWx0UXVlcnlHcmFtbWFyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/var/const/gc</entry>
@@ -107,20 +107,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/InEnterprise.php" timestamp="1593329236367">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/PrefixCacheTask.php" timestamp="1593411132356" />
-      <file name="/a.dummy" timestamp="1593329293927">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/database/migrations/landlord/2020_06_29_034002_create_landlord_tenants_table.php" timestamp="1593409959549" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Concerns/UsesMultitenancyConfig.php" timestamp="1593410646530" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php" timestamp="1593328599104">
-        <mark key="'" line="25" column="40" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1593574966562">
+        <mark key="'" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/Scopes/TenantScope.php" timestamp="1593413942055">
         <mark key="[" line="24" column="50" />
@@ -128,6 +116,7 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1593575029343" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593399261062">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="21" column="67" />
@@ -144,72 +133,37 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/TenantFinder/DomainTenantFinder.php" timestamp="1593409945683">
         <mark key="'" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Http/Controllers/SettingsController.php" timestamp="1592634454110">
-        <mark key="'" line="50" column="26" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="35" column="40" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593413844334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/config/app.php" timestamp="1593095784898">
-        <mark key="'" line="141" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/HomeController.php" timestamp="1593327536338">
-        <mark key="'" line="49" column="36" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/Processor.php" timestamp="1593574901021" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/User.php" timestamp="1593414028425">
         <mark key="[" line="44" column="49" />
         <mark key="]" line="44" column="50" />
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" timestamp="1593574329194">
+        <mark key="'" line="68" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" timestamp="1593410949951">
         <mark key="'" line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/database.php" timestamp="1593412969903" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1593575021825">
+        <mark key="'" line="2153" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" timestamp="1593574438368">
+        <mark key="'" line="366" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php" timestamp="1593574320831" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Models/Tenant.php" timestamp="1593410557259">
         <mark key="'" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" timestamp="1592634014898">
-        <mark key="'" line="77" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593413033685">
         <mark key="'" line="16" column="63" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" />
-      <jump line="261" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" />
-      <jump line="158" column="71" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" />
-      <jump line="106" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" />
-      <jump line="38" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/Inspire.php" />
-      <jump line="60" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OfficialAccount/Menu/Client.php" />
-      <jump line="104" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="37" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="200" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/AccessToken.php" />
-      <jump line="202" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/AccessToken.php" />
-      <jump line="223" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="220" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="175" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="29" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="147" column="85" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
-      <jump line="172" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="155" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
-      <jump line="201" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <jump line="23" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <jump line="30" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <jump line="33" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <jump line="228" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
-      <jump line="205" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/BaseClient.php" />
-      <jump line="114" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
-      <jump line="116" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="129" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="187" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="184" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
@@ -284,6 +238,32 @@
       <jump line="15" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" />
       <jump line="25" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" />
       <jump line="35" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" />
+      <jump line="68" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" />
+      <jump line="267" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="298" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
+      <jump line="14" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
+      <jump line="59" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
+      <jump line="366" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
+      <jump line="1052" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="1063" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="77" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="191" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="181" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="193" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="203" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="280" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="403" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="3088" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="9" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="404" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="269" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="279" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="14" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
+      <jump line="2189" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="2201" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="2190" column="68" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="2202" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="2153" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +296,7 @@
         <text encoding="base64">IC8vIOWmguaenG1vZGVsIOS4jeWtmOWcqHByb3ZpZGVyX2lk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhYmFzZVw+</text>
+        <text encoding="base64">XDx1c2VEZWZhdWx0UXVlcnlHcmFtbWFyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjp3aXRoSGVhZGVycyhbCiAgICAgICAgICAgICdBY2NlcHQnID0+ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgICAgJ0F1dGhvcml6YXRpb24nID0+ICdCZWFyZXIgJyAuICR0b2tlbgogICAgICAgIF0pLT5nZXQoJ2h0dHA6Ly9saW5odWliYXNlcnZlci50ZXN0L2FwaS9vcmRlcl9pdGVtcycsIFsKICAgICAgICAgICAgJ3N0YXR1cycgPT4gJ2FsbCcsCiAgICAgICAgICAgICdwYWdlJyA9PiAxLAogICAgICAgIF0pOwo=</text>
@@ -379,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkYXRhYmFzZVw+</last-search>
+      <last-search encoding="base64">XDx1c2VEZWZhdWx0UXVlcnlHcmFtbWFyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhYmFzZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VEZWZhdWx0UXVlcnlHcmFtbWFyXD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
       <last-dir>1</last-dir>
