@@ -107,6 +107,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" timestamp="1593676773416">
+        <mark key="'" line="23" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1593574966562">
         <mark key="'" line="14" column="36" />
       </file>
@@ -152,9 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
-      <jump line="92" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
-      <jump line="96" column="95" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" />
       <jump line="24" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php" />
       <jump line="108" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
       <jump line="371" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
@@ -252,6 +252,9 @@
       <jump line="54" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" />
       <jump line="13" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
       <jump line="15" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" />
+      <jump line="28" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
+      <jump line="25" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
+      <jump line="23" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
