@@ -127,10 +127,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" timestamp="1593581636067">
         <mark key="'" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/TenantFinder/DomainTenantFinder.php" timestamp="1593409945683">
-        <mark key="'" line="10" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593413844334">
+      <file name="/Dummy.txt" timestamp="1593668815342">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/Processor.php" timestamp="1593574901021" />
@@ -143,9 +140,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php" timestamp="1593574329194">
         <mark key="'" line="68" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" timestamp="1593410949951">
-        <mark key="'" line="35" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1593575021825">
         <mark key="'" line="2153" column="37" />
       </file>
@@ -153,9 +147,6 @@
         <mark key="'" line="366" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php" timestamp="1593574320831" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Models/Tenant.php" timestamp="1593410557259">
-        <mark key="'" line="10" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" timestamp="1593413033685">
         <mark key="'" line="16" column="63" />
       </file>
