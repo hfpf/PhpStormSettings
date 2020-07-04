@@ -107,9 +107,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593758684584">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" timestamp="1593676773416">
         <mark key="'" line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1593828396568" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1593574966562">
         <mark key="'" line="14" column="36" />
       </file>
@@ -123,7 +127,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1593575029343" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1593575021825">
+        <mark key="'" line="2153" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" timestamp="1593574438368">
+        <mark key="'" line="366" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593654859634">
         <mark key="'" line="15" column="60" />
         <mark key="[" line="21" column="67" />
@@ -134,19 +143,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" timestamp="1593581636067">
         <mark key="'" line="51" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593758684584">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/Processor.php" timestamp="1593574901021" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/symfony/console/Application.php" timestamp="1593765432503" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/AuthTelescope.php" timestamp="1593758638242" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1593575021825">
-        <mark key="'" line="2153" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" timestamp="1593574438368">
-        <mark key="'" line="366" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Queue/InteractsWithQueue.php" timestamp="1593679646633" />
     </filemarks>
     <jumps>
       <jump line="24" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php" />
