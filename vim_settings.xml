@@ -113,7 +113,10 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" timestamp="1593676773416">
         <mark key="'" line="23" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1593828396568" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1594112301457" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/src/Controllers/OpenPlatformController.php" timestamp="1594112470619">
+        <mark key="'" line="30" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1593574966562">
         <mark key="'" line="14" column="36" />
       </file>
@@ -150,10 +153,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Console/Commands/GetToken.php" timestamp="1593581636067">
         <mark key="'" line="51" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" timestamp="1594112550796">
+        <mark key="'" line="52" column="69" />
+        <mark key="[" line="88" column="61" />
+        <mark key="]" line="88" column="79" />
+        <mark key="^" line="88" column="79" />
+        <mark key="." line="88" column="78" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
-      <jump line="371" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
       <jump line="83" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
       <jump line="28" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/app/Http/Controllers/HomeController.php" />
       <jump line="370" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
@@ -252,6 +260,8 @@
       <jump line="25" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
       <jump line="23" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
       <jump line="444" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Common/CommonValue.php" />
+      <jump line="52" column="69" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" />
+      <jump line="30" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/src/Controllers/OpenPlatformController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
