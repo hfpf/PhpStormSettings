@@ -117,19 +117,17 @@
         <mark key="'" line="23" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1594125435442" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594125525955">
+      <file name="$USER_HOME$/Desktop/_intellij_phpdebug_validator.php" timestamp="1594125956285" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594126108444">
         <mark key="'" line="16" column="36" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="45" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1594125242569" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/src/Controllers/OpenPlatformController.php" timestamp="1594112470619">
         <mark key="'" line="30" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1593574966562">
-        <mark key="'" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_04_01_144932_create_business_districts_table.php" timestamp="1594125033906">
         <mark key="'" line="16" column="21" />
@@ -144,9 +142,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1593575021825">
-        <mark key="'" line="2153" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1594124867230">
         <mark key="'" line="22" column="24" />
         <mark key="[" line="32" column="11" />
@@ -160,6 +155,9 @@
         <mark key="]" line="445" column="41" />
         <mark key="^" line="445" column="41" />
         <mark key="." line="445" column="40" />
+      </file>
+      <file name="/PHP Console" timestamp="1594126051141">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Traits/DetermineProvider.php" timestamp="1593654859634">
         <mark key="'" line="15" column="60" />
