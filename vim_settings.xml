@@ -107,8 +107,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1594180991455">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_04_01_215051_create_gdps_table.php" timestamp="1594124990068">
         <mark key="'" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1594216044886">
+        <mark key="'" line="228" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594216202595">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/src/Controllers/OpenPlatformController.php" timestamp="1594112470619">
         <mark key="'" line="30" column="35" />
@@ -129,40 +142,17 @@
         <mark key="." line="32" column="19" />
         <mark key="^" line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" timestamp="1594129696560">
-        <mark key="'" line="8" column="33" />
-      </file>
-      <file name="/PHP Console" timestamp="1594126051141">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" timestamp="1594112550796">
-        <mark key="'" line="52" column="69" />
-        <mark key="[" line="88" column="61" />
-        <mark key="]" line="88" column="79" />
-        <mark key="^" line="88" column="79" />
-        <mark key="." line="88" column="78" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594180991455">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1594127011111">
-        <mark key="'" line="228" column="59" />
-      </file>
-      <file name="$USER_HOME$/Desktop/_intellij_phpdebug_validator.php" timestamp="1594125956285" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594208990136">
-        <mark key="'" line="17" column="30" />
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1594125242569" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" timestamp="1594194740774" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" timestamp="1594193811467">
         <mark key="'" line="57" column="34" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" timestamp="1594193868506">
         <mark key="'" line="105" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" timestamp="1594129696560">
+        <mark key="'" line="8" column="33" />
+      </file>
+      <file name="/PHP Console" timestamp="1594126051141">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" timestamp="1594129688735">
         <mark key="'" line="44" column="17" />
@@ -177,9 +167,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_05_22_113019_create_booth_flow_devices_table.php" timestamp="1594125044474">
         <mark key="'" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" timestamp="1594112550796">
+        <mark key="'" line="52" column="69" />
+        <mark key="[" line="88" column="61" />
+        <mark key="]" line="88" column="79" />
+        <mark key="^" line="88" column="79" />
+        <mark key="." line="88" column="78" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Support/Str.php" />
       <jump line="533" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
       <jump line="540" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
       <jump line="568" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php" />
@@ -279,6 +275,7 @@
       <jump line="56" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="57" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
+      <jump line="30" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,7 +284,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT5vck9uKC4uLik7</text>
+        <text>get();</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -308,7 +305,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5vck9uKC4uLik7</text>
+        <text>get();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NvY1w+</text>
