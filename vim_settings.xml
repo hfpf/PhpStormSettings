@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/Records/ModifyRecord.php" timestamp="1594361467653">
         <mark key="'" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" timestamp="1594374757874">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="9" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" timestamp="1594394415385">
+        <mark key="'" line="21" column="11" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1594367455842">
         <mark key="[" line="37" column="0" />
@@ -149,18 +149,18 @@
         <mark key="." line="91" column="105" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Auth/VerifyTicket.php" timestamp="1594369853120" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594375197698">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594394351480">
         <mark key="'" line="18" column="41" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="24" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/resources/views/welcome.blade.php" timestamp="1594375245985">
-        <mark key="[" line="67" column="290" />
-        <mark key="]" line="67" column="290" />
-        <mark key="^" line="67" column="0" />
-        <mark key="." line="67" column="290" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/resources/views/welcome.blade.php" timestamp="1594394377792">
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="29" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="67" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" timestamp="1594361668239" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/Authenticate.php" timestamp="1594361912236">
@@ -175,7 +175,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Server/Handlers/VerifyTicketRefreshed.php" timestamp="1594369900786" />
     </filemarks>
     <jumps>
-      <jump line="16" column="63" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/config/multitenancy.php" />
       <jump line="70" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Models/Tenant.php" />
       <jump line="10" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Models/Tenant.php" />
       <jump line="15" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Tasks/SwitchTenantDatabaseTask.php" />
@@ -275,6 +274,7 @@
       <jump line="15" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
       <jump line="18" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
       <jump line="18" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
+      <jump line="21" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +283,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL2NnaS1iaW4vY29tcG9uZW50bG9naW5wYWdlP2F1dGhfdHlwZT0yJmJpel9hcHBpZD13eDY4YjhkNDI5MTBiZmM5ZjQmcHJlX2F1dGhfY29kZT1wcmVhdXRoY29kZSU0MCU0MCU0MG0xQ2tqTi1DR3RuRlpTTVFkSEJUZXVaZUtkLUdsdExqSGRSYUVaNWstM0YtM1ZkZkdja3FPY2w1RW5XNWU3QlYmY29tcG9uZW50X2FwcGlkPXd4NjdhYmI3YmE5NTViMjE4NCZyZWRpcmVjdF91cmk9aHR0cCUzQSUyRiUyRjZjYjQxYzBlNzNmMC5uZ3Jvay5pbyUyRiUyRm9wZW4tcGxhdGZvcm0lMkZzZXJ2ZQ==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -304,7 +304,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL2NnaS1iaW4vY29tcG9uZW50bG9naW5wYWdlP2F1dGhfdHlwZT0yJmJpel9hcHBpZD13eDY4YjhkNDI5MTBiZmM5ZjQmcHJlX2F1dGhfY29kZT1wcmVhdXRoY29kZSU0MCU0MCU0MG0xQ2tqTi1DR3RuRlpTTVFkSEJUZXVaZUtkLUdsdExqSGRSYUVaNWstM0YtM1ZkZkdja3FPY2w1RW5XNWU3QlYmY29tcG9uZW50X2FwcGlkPXd4NjdhYmI3YmE5NTViMjE4NCZyZWRpcmVjdF91cmk9aHR0cCUzQSUyRiUyRjZjYjQxYzBlNzNmMC5uZ3Jvay5pbyUyRiUyRm9wZW4tcGxhdGZvcm0lMkZzZXJ2ZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlXD4=</text>
