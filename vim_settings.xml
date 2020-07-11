@@ -107,14 +107,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594394351480">
+        <mark key="'" line="18" column="41" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/src/Controllers/OpenPlatformController.php" timestamp="1594370625284">
         <mark key="'" line="43" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/resources/views/welcome.blade.php" timestamp="1594394377792">
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="29" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="67" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" timestamp="1594375173519">
         <mark key="'" line="217" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/Records/ModifyRecord.php" timestamp="1594361467653">
-        <mark key="'" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" timestamp="1594394415385">
         <mark key="'" line="21" column="11" />
@@ -129,18 +139,30 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/admin/api.php" timestamp="1594361682239" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/Authenticate.php" timestamp="1594361912236">
+        <mark key="'" line="45" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/AdminController.php" timestamp="1594440793715">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="1" />
+      </file>
       <file name="/PHP Console" timestamp="1594374536778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/Records/Record.php" timestamp="1594361703098">
         <mark key="'" line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" timestamp="1594361772800">
+        <mark key="'" line="89" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/AuthApp.php" timestamp="1594362132257">
         <mark key="'" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Api/CustomerFlowController.php" timestamp="1594362234390" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/AppTokenService.php" timestamp="1594362288275" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/CustomerFlowController.php" timestamp="1594362270877">
+        <mark key="'" line="28" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" timestamp="1594373619479">
         <mark key="'" line="100" column="29" />
         <mark key="[" line="91" column="63" />
@@ -148,31 +170,6 @@
         <mark key="^" line="91" column="106" />
         <mark key="." line="91" column="105" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Auth/VerifyTicket.php" timestamp="1594369853120" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594394351480">
-        <mark key="'" line="18" column="41" />
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/resources/views/welcome.blade.php" timestamp="1594394377792">
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="29" />
-        <mark key="^" line="67" column="29" />
-        <mark key="." line="67" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" timestamp="1594361668239" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/Authenticate.php" timestamp="1594361912236">
-        <mark key="'" line="45" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" timestamp="1594361772800">
-        <mark key="'" line="89" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/CustomerFlowController.php" timestamp="1594362270877">
-        <mark key="'" line="28" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Server/Handlers/VerifyTicketRefreshed.php" timestamp="1594369900786" />
     </filemarks>
     <jumps>
       <jump line="70" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/spatie/laravel-multitenancy/src/Models/Tenant.php" />
