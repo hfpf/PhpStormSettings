@@ -107,29 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594712476515">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594706976925">
-        <mark key="'" line="50" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1594709413389" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594623564989">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594706950055">
-        <mark key="'" line="293" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1594623560411">
-        <mark key="'" line="1467" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/QichachaService.php" timestamp="1594709470488">
-        <mark key="'" line="39" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1594717413243" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/dev.env.js" timestamp="1594716434722">
         <mark key="[" line="7" column="1" />
@@ -137,15 +114,35 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/.babelrc" timestamp="1594717467981">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/composer.json" timestamp="1594717981543" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/index.js" timestamp="1594711901887">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594623959016">
-        <mark key="'" line="51" column="23" />
+      <file name="/Dummy.txt" timestamp="1594717419284">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594706976925">
+        <mark key="'" line="50" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1594709413389" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594706950055">
+        <mark key="'" line="293" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/QichachaService.php" timestamp="1594709470488">
+        <mark key="'" line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/config/route_admin.php" timestamp="1594718140226" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/admin/controller/ApiCommon.php" timestamp="1594718519811" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/config/config.php" timestamp="1594718146346" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/QichachaController.php" timestamp="1594709435531">
         <mark key="'" line="23" column="32" />
       </file>
@@ -259,7 +256,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>, &quot;transform-runtime&quot;]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -280,7 +277,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, &quot;transform-runtime&quot;]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlXD4=</text>
