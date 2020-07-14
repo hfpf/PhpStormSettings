@@ -130,11 +130,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/QichachaService.php" timestamp="1594709470488">
         <mark key="'" line="39" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/dev.env.js" timestamp="1594711851248">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="32" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/dev.env.js" timestamp="1594716434722">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
         <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="31" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/index.js" timestamp="1594711901887">
         <mark key="[" line="23" column="14" />
@@ -258,7 +258,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>value()</text>
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -279,7 +279,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>value()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlXD4=</text>
