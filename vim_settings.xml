@@ -107,16 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" timestamp="1594621918294" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/deploy-test.sh" timestamp="1594647181337" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" timestamp="1594622878708">
         <mark key="'" line="13" column="20" />
         <mark key="[" line="18" column="48" />
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" timestamp="1594621885963">
-        <mark key="'" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594623959016">
         <mark key="'" line="51" column="23" />
@@ -126,10 +122,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php" timestamp="1594623198347">
         <mark key="'" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EvaluateService.php" timestamp="1594647560124">
-        <mark key="'" line="171" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594705013762">
+      <file name="/Dummy.txt" timestamp="1594705063093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" timestamp="1594647634480">
@@ -149,10 +142,8 @@
         <mark key="'" line="1467" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/PotentiallyMissing.php" timestamp="1594623213018" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" timestamp="1594607101516">
-        <mark key="'" line="89" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1594623070997" />
+      <file name="/ProfileController.php" timestamp="1594705306250" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php" timestamp="1594622872726">
         <mark key="'" line="16" column="27" />
       </file>
