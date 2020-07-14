@@ -108,12 +108,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/deploy-test.sh" timestamp="1594647181337" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" timestamp="1594622878708">
-        <mark key="'" line="13" column="20" />
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="48" />
-        <mark key="." line="18" column="48" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/crm.php" timestamp="1594706633664" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594623959016">
         <mark key="'" line="51" column="23" />
       </file>
@@ -125,9 +120,10 @@
       <file name="/Dummy.txt" timestamp="1594705063093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" timestamp="1594647634480">
-        <mark key="'" line="583" column="31" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594706976925">
+        <mark key="'" line="50" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1594706449923" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594623564989">
         <mark key="'" line="26" column="14" />
         <mark key="[" line="26" column="19" />
@@ -136,22 +132,17 @@
         <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Stringable.php" timestamp="1594623939389" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1594621939896" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.lock" timestamp="1594622205871" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594706950055">
+        <mark key="'" line="293" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1594623560411">
         <mark key="'" line="1467" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1594706706540" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/PotentiallyMissing.php" timestamp="1594623213018" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1594623070997" />
       <file name="/ProfileController.php" timestamp="1594705306250" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php" timestamp="1594622872726">
-        <mark key="'" line="16" column="27" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="193" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="203" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
       <jump line="280" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
       <jump line="403" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="3088" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
@@ -249,6 +240,9 @@
       <jump line="534" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
       <jump line="1244" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
       <jump line="583" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
+      <jump line="287" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="293" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="50" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
