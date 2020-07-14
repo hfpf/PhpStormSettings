@@ -107,23 +107,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/deploy-test.sh" timestamp="1594647181337" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/crm.php" timestamp="1594706633664" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594623959016">
-        <mark key="'" line="51" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/GetAMapDataFromPMS.php" timestamp="1594647185127" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1594705002456" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php" timestamp="1594623198347">
-        <mark key="'" line="4" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1594705063093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594706976925">
         <mark key="'" line="50" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Providers/RouteServiceProvider.php" timestamp="1594706449923" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1594709413389" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594623564989">
         <mark key="'" line="26" column="14" />
         <mark key="[" line="26" column="19" />
@@ -131,20 +121,26 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Stringable.php" timestamp="1594623939389" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594706950055">
         <mark key="'" line="293" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1594623560411">
         <mark key="'" line="1467" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1594706706540" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/PotentiallyMissing.php" timestamp="1594623213018" />
-      <file name="/ProfileController.php" timestamp="1594705306250" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/QichachaService.php" timestamp="1594709470488">
+        <mark key="'" line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594623959016">
+        <mark key="'" line="51" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/QichachaController.php" timestamp="1594709435531">
+        <mark key="'" line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php" timestamp="1594623198347">
+        <mark key="'" line="4" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
-      <jump line="403" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="3088" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="9" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="404" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
@@ -243,6 +239,8 @@
       <jump line="287" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="293" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="50" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" />
+      <jump line="23" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/QichachaController.php" />
+      <jump line="39" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/QichachaService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
