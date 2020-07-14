@@ -109,13 +109,6 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" timestamp="1594621918294" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/deploy-test.sh" timestamp="1594647181337" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" timestamp="1594394415385">
-        <mark key="'" line="21" column="11" />
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" timestamp="1594622878708">
         <mark key="'" line="13" column="20" />
         <mark key="[" line="18" column="48" />
@@ -129,11 +122,15 @@
         <mark key="'" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/GetAMapDataFromPMS.php" timestamp="1594647185127" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1594705002456" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php" timestamp="1594623198347">
         <mark key="'" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EvaluateService.php" timestamp="1594647560124">
         <mark key="'" line="171" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594705013762">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" timestamp="1594647634480">
         <mark key="'" line="583" column="31" />
@@ -150,12 +147,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.lock" timestamp="1594622205871" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1594623560411">
         <mark key="'" line="1467" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/AdminController.php" timestamp="1594440793715">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="2" />
-        <mark key="^" line="17" column="2" />
-        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/PotentiallyMissing.php" timestamp="1594623213018" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" timestamp="1594607101516">
