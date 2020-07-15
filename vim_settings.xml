@@ -110,16 +110,15 @@
       <file name="/Dummy.txt" timestamp="1594799690139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1594799193232" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1594799790443" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/composer.json" timestamp="1594799088358" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/UserControllerTest.php" timestamp="1594800731346" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1594798575684">
         <mark key="'" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/QichachaService.php" timestamp="1594709470488">
         <mark key="'" line="39" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1594799416338" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" timestamp="1594800958357" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594800773575" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/dev.env.js" timestamp="1594716434722">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="1" />
@@ -144,8 +143,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/QichachaController.php" timestamp="1594709435531">
         <mark key="'" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1594798595855" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1594799380394" />
     </filemarks>
     <jumps>
       <jump line="404" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
