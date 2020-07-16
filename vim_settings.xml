@@ -110,7 +110,7 @@
       <file name="/Dummy.txt" timestamp="1594799690139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594883213419" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594883932568" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/JWT.php" timestamp="1594802643091">
         <mark key="'" line="120" column="28" />
       </file>
@@ -138,11 +138,20 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/routes/api.php" timestamp="1594884695204">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/.babelrc" timestamp="1594717467981">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="32" />
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
+        <mark key="'" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/jwt.php" timestamp="1594799113409">
         <mark key="'" line="27" column="66" />
@@ -150,6 +159,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php" timestamp="1594802845023">
         <mark key="'" line="36" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/.phpstorm.meta.php" timestamp="1594884567360" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" timestamp="1594802967426">
         <mark key="'" line="140" column="24" />
       </file>
@@ -158,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
       <jump line="23" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Jobs/MailOrderActivityPlan.php" />
       <jump line="444" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Common/CommonValue.php" />
       <jump line="52" column="69" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" />
@@ -258,6 +267,7 @@
       <jump line="51" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" />
       <jump line="75" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" />
       <jump line="140" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" />
+      <jump line="19" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
