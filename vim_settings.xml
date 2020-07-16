@@ -107,8 +107,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594887183185">
+      <file name="/Dummy.txt" timestamp="1594890154812">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Route.php" timestamp="1594887855687">
         <mark key="'" line="90" column="0" />
@@ -116,8 +119,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1594889097860">
         <mark key="'" line="463" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/JWT.php" timestamp="1594802643091">
-        <mark key="'" line="120" column="28" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1594892797867">
+        <mark key="'" line="167" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php" timestamp="1594802792092">
         <mark key="'" line="373" column="30" />
@@ -134,9 +137,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594804883642">
         <mark key="'" line="299" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Blacklist.php" timestamp="1594802745590">
-        <mark key="'" line="78" column="25" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothCameraService.php" timestamp="1594890540824" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1594887829441">
         <mark key="'" line="17" column="38" />
       </file>
@@ -152,20 +153,22 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
         <mark key="'" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/jwt.php" timestamp="1594799113409">
-        <mark key="'" line="27" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php" timestamp="1594802845023">
         <mark key="'" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1594887204039">
         <mark key="'" line="35" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594891078507" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" timestamp="1594802967426">
         <mark key="'" line="140" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" timestamp="1594802698742">
-        <mark key="'" line="33" column="32" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1594892290666">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="42" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="87" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594889187040">
         <mark key="'" line="20" column="32" />
@@ -176,9 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php" />
-      <jump line="13" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" />
-      <jump line="27" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
       <jump line="4" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php" />
       <jump line="26" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
       <jump line="1467" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
@@ -276,6 +276,9 @@
       <jump line="462" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
       <jump line="463" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
       <jump line="20" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
+      <jump line="167" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
+      <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
+      <jump line="73" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,8 +286,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>oute::post('customes', 'CustomerController@st</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICRyZXNwb25zZS0+anNvbigpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -305,43 +308,43 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>oute::post('customes', 'CustomerController@st</text>
+        <text>Online</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJHN0b3JlWyduYW1lJ10sICRzdG9yZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICRyZXNwb25zZS0+anNvbigpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygnT25saW5lOiAnIC4gJHNuKTsK</text>
       </register>
       <register name="q" type="4">
         <text>poi_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgJHJvbGVzID0gREI6OnRhYmxlKCd1c2VycycpLT5wbHVjaygnaWQnLCAnbmFtZScpOwovLyAgICBEQjo6dGFibGUoJ3VzZXJzJyktPnNlbGVjdCgpLT5vcmRlckJ5KCdpZCcpLT5jaHVuaygxLCBmdW5jdGlvbiAoJHVzZXJzKSB7Ci8vICAgICAgICAvLyBQcm9jZXNzIHRoZSByZWNvcmRzLi4uCi8vCi8vICAgICAgICAkdGhpcy0+aW5mbygnMScpOwovLy8vICAgICAgICByZXR1cm4gZmFsc2U7Ci8vICAgIH0pOwovLyAgICAkbGF0ZXN0UG9zdHMgPSBEQjo6dGFibGUoJ3Bvc3RzJykKLy8gICAgICAgIC0+c2VsZWN0KCd1c2VyX2lkJywgREI6OnJhdygnTUFYKGNyZWF0ZWRfYXQpIGFzIGxhc3RfcG9zdF9jcmVhdGVkX2F0JykpCi8vICAgICAgICAtPndoZXJlKCdpc19wdWJsaXNoZWQnLCB0cnVlKQovLyAgICAgICAgLT5ncm91cEJ5KCd1c2VyX2lkJyk7Ci8vICAgICR1c2VycyA9IERCOjp0YWJsZSgndXNlcnMnKQovLyAgICAgICAgLT5qb2luU3ViKCRsYXRlc3RQb3N0cywgJ2xhdGVzdF9wb3N0cycsIGZ1bmN0aW9uICgkam9pbikgewovLyAgICAgICAgICAgICRqb2luLT5vbigndXNlcnMuaWQnLCAnPScsICdsYXRlc3RfcG9zdHMudXNlcl9pZCcpOwovLyAgICAgICAgfSktPnRvU3FsKCk7Ci8vICAgICR0aGlzLT5pbmZvKCR1c2Vycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJHN0b3JlWyduYW1lJ10sICRzdG9yZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERCOjp0YWJsZSgnc2l6ZXMnKQogICAgICAgIC0+Y3Jvc3NKb2luKCdjb2xvcnMnKS0+dG9TcWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygkcmVzcG9uc2UtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oanNvbl9lbmNvZGUoJHN0b3JlLCBKU09OX1BSRVRUWV9QUklOVCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -350,13 +353,13 @@
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Ly8gICAgJHJvbGVzID0gREI6OnRhYmxlKCd1c2VycycpLT5wbHVjaygnaWQnLCAnbmFtZScpOwovLyAgICBEQjo6dGFibGUoJ3VzZXJzJyktPnNlbGVjdCgpLT5vcmRlckJ5KCdpZCcpLT5jaHVuaygxLCBmdW5jdGlvbiAoJHVzZXJzKSB7Ci8vICAgICAgICAvLyBQcm9jZXNzIHRoZSByZWNvcmRzLi4uCi8vCi8vICAgICAgICAkdGhpcy0+aW5mbygnMScpOwovLy8vICAgICAgICByZXR1cm4gZmFsc2U7Ci8vICAgIH0pOwovLyAgICAkbGF0ZXN0UG9zdHMgPSBEQjo6dGFibGUoJ3Bvc3RzJykKLy8gICAgICAgIC0+c2VsZWN0KCd1c2VyX2lkJywgREI6OnJhdygnTUFYKGNyZWF0ZWRfYXQpIGFzIGxhc3RfcG9zdF9jcmVhdGVkX2F0JykpCi8vICAgICAgICAtPndoZXJlKCdpc19wdWJsaXNoZWQnLCB0cnVlKQovLyAgICAgICAgLT5ncm91cEJ5KCd1c2VyX2lkJyk7Ci8vICAgICR1c2VycyA9IERCOjp0YWJsZSgndXNlcnMnKQovLyAgICAgICAgLT5qb2luU3ViKCRsYXRlc3RQb3N0cywgJ2xhdGVzdF9wb3N0cycsIGZ1bmN0aW9uICgkam9pbikgewovLyAgICAgICAgICAgICRqb2luLT5vbigndXNlcnMuaWQnLCAnPScsICdsYXRlc3RfcG9zdHMudXNlcl9pZCcpOwovLyAgICAgICAgfSktPnRvU3FsKCk7Ci8vICAgICR0aGlzLT5pbmZvKCR1c2Vycyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkcmVzcG9uc2UtPmpzb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJHN0b3JlWyduYW1lJ10sICRzdG9yZSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
