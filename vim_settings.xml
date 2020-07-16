@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIZWxwZXJzXD4=</entry>
-        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
-        <entry encoding="base64">XDxyZWdpc3RlclByb3ZpZGVyc1w+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>off</entry>
         <entry encoding="base64">XDxHdWFyZFw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxhc3NvY1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVQcmVBdXRob3JpemF0aW9uQ29kZVw+</entry>
         <entry encoding="base64">XDxiYXNlXD4=</entry>
+        <entry encoding="base64">XDxwb3N0XD4=</entry>
+        <entry encoding="base64">XDxSb3V0ZVw+</entry>
+        <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>/var/const/gc</entry>
@@ -110,6 +110,9 @@
       <file name="/Dummy.txt" timestamp="1594887183185">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Route.php" timestamp="1594887855687">
+        <mark key="'" line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/JWT.php" timestamp="1594802643091">
         <mark key="'" line="120" column="28" />
       </file>
@@ -122,14 +125,17 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594887578176">
-        <mark key="'" line="11256" column="44" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594888193618">
+        <mark key="'" line="11270" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594804883642">
         <mark key="'" line="299" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Blacklist.php" timestamp="1594802745590">
         <mark key="'" line="78" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1594887829441">
+        <mark key="'" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/routes/api.php" timestamp="1594884695204">
         <mark key="[" line="20" column="23" />
@@ -155,8 +161,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" timestamp="1594802698742">
         <mark key="'" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594887650887">
-        <mark key="'" line="20" column="37" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594888200919">
+        <mark key="'" line="20" column="46" />
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="52" />
@@ -164,56 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_04_01_144932_create_business_districts_table.php" />
-      <jump line="16" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_05_22_113019_create_booth_flow_devices_table.php" />
-      <jump line="15" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_05_22_113019_create_booth_flow_devices_table.php" />
-      <jump line="16" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
-      <jump line="224" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="226" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="228" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="44" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" />
-      <jump line="10" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="5" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="57" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" />
-      <jump line="126" column="30" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" />
-      <jump line="105" column="16" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" />
-      <jump line="47" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="48" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="56" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="57" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="30" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
-      <jump line="262" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" />
-      <jump line="252" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" />
-      <jump line="70" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
-      <jump line="141" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/app.php" />
-      <jump line="47" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/UserController.php" />
-      <jump line="52" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/UserController.php" />
-      <jump line="30" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/User.php" />
-      <jump line="46" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" />
-      <jump line="26" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/User.php" />
-      <jump line="14" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/User.php" />
-      <jump line="43" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" />
-      <jump line="56" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/UserController.php" />
-      <jump line="47" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" />
-      <jump line="49" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/UserService.php" />
-      <jump line="11" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/Records/ModifyRecord.php" />
-      <jump line="13" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/Records/Record.php" />
-      <jump line="89" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/auth.php" />
-      <jump line="45" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/Authenticate.php" />
-      <jump line="33" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Middleware/AuthApp.php" />
-      <jump line="28" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/CustomerFlowController.php" />
-      <jump line="100" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" />
-      <jump line="17" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
-      <jump line="134" column="76" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" />
-      <jump line="36" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" />
-      <jump line="126" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" />
-      <jump line="153" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" />
-      <jump line="38" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" />
-      <jump line="217" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OpenPlatform/Application.php" />
-      <jump line="43" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/src/Controllers/OpenPlatformController.php" />
-      <jump line="15" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
       <jump line="18" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
       <jump line="18" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
       <jump line="21" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
@@ -257,13 +213,63 @@
       <jump line="140" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" />
       <jump line="19" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" />
       <jump line="35" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="11270" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="15473" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
       <jump line="11243" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11253" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11256" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="20" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
+      <jump line="17" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" />
+      <jump line="20" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Route.php" />
+      <jump line="1167" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Route.php" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Route.php" />
+      <jump line="16" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
+      <jump line="13" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="15287" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="15307" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="15573" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="18523" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="18505" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11269" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11256" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11255" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11187" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11186" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11171" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11170" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11155" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11154" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11139" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11138" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11123" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11122" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11107" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11106" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11093" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11092" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11077" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11076" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11065" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11061" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11060" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11050" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11046" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11045" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11033" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11029" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11028" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11017" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11013" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11012" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10997" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10996" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10983" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10982" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10972" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10890" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10889" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="10876" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11270" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="20" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +302,7 @@
         <text>oute::post('customes', 'CustomerController@st</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlXD4=</text>
+        <text encoding="base64">XDxpbnN0YW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJHN0b3JlWyduYW1lJ10sICRzdG9yZSk7Cg==</text>
@@ -359,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
+      <last-search encoding="base64">XDxpbnN0YW5jZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0YW5jZVw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
       <last-dir>-1</last-dir>
