@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594799690139">
+      <file name="/Dummy.txt" timestamp="1594885328454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594883932568" />
@@ -123,32 +123,17 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1594798575684">
-        <mark key="'" line="12" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594804883642">
         <mark key="'" line="299" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Blacklist.php" timestamp="1594802745590">
         <mark key="'" line="78" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/config/dev.env.js" timestamp="1594716434722">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="7" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/routes/api.php" timestamp="1594884695204">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="50" />
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/ux/.babelrc" timestamp="1594717467981">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="32" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
         <mark key="'" line="19" column="23" />
@@ -163,8 +148,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" timestamp="1594802967426">
         <mark key="'" line="140" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.gitignore" timestamp="1594885210415" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" timestamp="1594802698742">
         <mark key="'" line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594885420556">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="52" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="20" column="51" />
       </file>
     </filemarks>
     <jumps>
