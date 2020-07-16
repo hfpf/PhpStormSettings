@@ -107,10 +107,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594886007436">
+      <file name="/Dummy.txt" timestamp="1594887183185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1594886509937" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/JWT.php" timestamp="1594802643091">
         <mark key="'" line="120" column="28" />
       </file>
@@ -138,7 +137,6 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Location/PDFController.php" timestamp="1594886366343" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
         <mark key="'" line="19" column="23" />
       </file>
@@ -148,7 +146,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php" timestamp="1594802845023">
         <mark key="'" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1594886427036">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1594887204039">
         <mark key="'" line="35" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" timestamp="1594802967426">
@@ -157,16 +155,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" timestamp="1594802698742">
         <mark key="'" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594886898678">
-        <mark key="'" line="20" column="35" />
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="52" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594887213820">
+        <mark key="'" line="20" column="45" />
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="52" />
-        <mark key="." line="20" column="51" />
+        <mark key="." line="20" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env" />
       <jump line="17" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_04_01_144932_create_business_districts_table.php" />
       <jump line="16" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_04_01_215051_create_gdps_table.php" />
       <jump line="17" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_04_01_215051_create_gdps_table.php" />
@@ -265,7 +262,8 @@
       <jump line="35" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="11270" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="15473" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="20" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
+      <jump line="20" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -274,7 +272,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>laravel</text>
+        <text>oute::post('customes', 'CustomerController@st</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -295,7 +293,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>laravel</text>
+        <text>oute::post('customes', 'CustomerController@st</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlXD4=</text>
