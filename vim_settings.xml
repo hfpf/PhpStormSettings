@@ -122,8 +122,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1594893001665">
         <mark key="'" line="154" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php" timestamp="1594802792092">
-        <mark key="'" line="373" column="30" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1594900451322">
+        <mark key="'" line="312" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/.env" timestamp="1594883629861">
         <mark key="[" line="11" column="12" />
@@ -134,10 +134,13 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594889027488">
         <mark key="'" line="11270" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/symfony/routing/RouteCollection.php" timestamp="1594900622380" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1594900431001">
+        <mark key="'" line="509" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594804883642">
         <mark key="'" line="299" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothCameraService.php" timestamp="1594890540824" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1594887829441">
         <mark key="'" line="17" column="38" />
       </file>
@@ -153,15 +156,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
         <mark key="'" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php" timestamp="1594802845023">
-        <mark key="'" line="36" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1594887204039">
         <mark key="'" line="35" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1594891078507" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Providers/Storage/Illuminate.php" timestamp="1594802967426">
-        <mark key="'" line="140" column="24" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Carbon.php" timestamp="1594900427670">
+        <mark key="'" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1594892290666">
         <mark key="'" line="75" column="21" />
@@ -179,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
-      <jump line="1467" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
-      <jump line="51" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Str.php" />
       <jump line="655" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
       <jump line="505" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
       <jump line="180" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EvaluateService.php" />
@@ -279,6 +275,9 @@
       <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="73" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="154" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
+      <jump line="4" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Carbon.php" />
+      <jump line="509" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
+      <jump line="312" column="34" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
