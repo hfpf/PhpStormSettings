@@ -113,6 +113,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Route.php" timestamp="1594887855687">
         <mark key="'" line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1594889097860">
+        <mark key="'" line="463" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/JWT.php" timestamp="1594802643091">
         <mark key="'" line="120" column="28" />
       </file>
@@ -125,8 +128,8 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594888193618">
-        <mark key="'" line="11270" column="42" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594889027488">
+        <mark key="'" line="11270" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594804883642">
         <mark key="'" line="299" column="60" />
@@ -142,6 +145,9 @@
         <mark key="]" line="20" column="50" />
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" timestamp="1594888708048">
+        <mark key="'" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
         <mark key="'" line="19" column="23" />
@@ -161,8 +167,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" timestamp="1594802698742">
         <mark key="'" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594888200919">
-        <mark key="'" line="20" column="46" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594889187040">
+        <mark key="'" line="20" column="32" />
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="52" />
@@ -170,12 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
-      <jump line="18" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
-      <jump line="21" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" />
-      <jump line="19" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" />
-      <jump line="8" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" />
-      <jump line="18" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" />
       <jump line="16" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php" />
       <jump line="13" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" />
       <jump line="27" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" />
@@ -268,8 +268,14 @@
       <jump line="10889" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="10876" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11270" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="20" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
+      <jump line="15" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" />
+      <jump line="12303" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="11270" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
+      <jump line="156" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
+      <jump line="446" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
+      <jump line="462" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
+      <jump line="463" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
+      <jump line="20" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
