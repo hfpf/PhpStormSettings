@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594890154812">
+      <file name="/Dummy.txt" timestamp="1594971872076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -129,20 +129,11 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1594900451322">
         <mark key="'" line="312" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/.env" timestamp="1594883629861">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594889027488">
         <mark key="'" line="11270" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1594900431001">
         <mark key="'" line="509" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/jwt.php" timestamp="1594804883642">
-        <mark key="'" line="299" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1594887829441">
         <mark key="'" line="17" column="38" />
@@ -155,6 +146,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" timestamp="1594888708048">
         <mark key="'" line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" timestamp="1594971926128">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/tests/Feature/CustomerControllerTest.php" timestamp="1594884084295">
         <mark key="'" line="19" column="23" />
@@ -183,10 +177,15 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Customer.php" timestamp="1594972022095">
+        <mark key="'" line="6" column="26" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="655" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
-      <jump line="505" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" />
       <jump line="180" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EvaluateService.php" />
       <jump line="929" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EvaluateService.php" />
       <jump line="171" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EvaluateService.php" />
@@ -285,6 +284,8 @@
       <jump line="509" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="312" column="34" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
       <jump line="293" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="4" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Customer.php" />
+      <jump line="6" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Customer.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
