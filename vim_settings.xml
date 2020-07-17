@@ -127,9 +127,6 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/ebooking1.1.1deploy.sh" timestamp="1594979649683" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" timestamp="1594971926128">
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/EBooking/EbkAccountTransaction.php" timestamp="1594973939054">
         <mark key="'" line="102" column="68" />
       </file>
@@ -139,14 +136,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/CpcnApiService.php" timestamp="1594976059366">
         <mark key="'" line="607" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594971872076">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="10" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php" timestamp="1594988184441" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594973424673">
         <mark key="'" line="50" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/Listeners/MysqlSessionInit.php" timestamp="1594988126671">
+        <mark key="'" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" timestamp="1594988111661">
+        <mark key="'" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1594973362531">
         <mark key="'" line="293" column="35" />
@@ -154,7 +152,7 @@
         <mark key="]" line="285" column="30" />
         <mark key="." line="285" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1594971809662" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Broadcasting/InteractsWithSockets.php" timestamp="1594987984196" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/CpcnNotifyService.php" timestamp="1594975895038">
         <mark key="'" line="30" column="36" />
       </file>
@@ -165,7 +163,8 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" timestamp="1594987306267">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" timestamp="1594988006902">
+        <mark key="'" line="15" column="29" />
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="36" />
         <mark key="^" line="26" column="36" />
@@ -178,13 +177,6 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594966010028">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Customer.php" timestamp="1594972022095">
         <mark key="'" line="6" column="26" />
         <mark key="[" line="2" column="13" />
@@ -194,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/JWT.php" />
-      <jump line="157" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" />
-      <jump line="33" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Manager.php" />
       <jump line="79" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Blacklist.php" />
       <jump line="207" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Blacklist.php" />
       <jump line="78" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/tymon/jwt-auth/src/Blacklist.php" />
@@ -294,6 +283,9 @@
       <jump line="607" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/CpcnApiService.php" />
       <jump line="36" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="13" column="248" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/deploy.sh" />
+      <jump line="15" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" />
+      <jump line="13" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" />
+      <jump line="13" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/Listeners/MysqlSessionInit.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
