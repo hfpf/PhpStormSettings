@@ -134,7 +134,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1594889027488">
         <mark key="'" line="11270" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/symfony/routing/RouteCollection.php" timestamp="1594900622380" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1594900431001">
         <mark key="'" line="509" column="25" />
       </file>
@@ -162,19 +161,19 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Carbon.php" timestamp="1594900427670">
         <mark key="'" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1594892290666">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1594965813317">
         <mark key="'" line="75" column="21" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="42" />
         <mark key="." line="96" column="0" />
         <mark key="^" line="87" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594889187040">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594966010028">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="20" column="52" />
-        <mark key="." line="20" column="1" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="20" />
       </file>
     </filemarks>
     <jumps>
