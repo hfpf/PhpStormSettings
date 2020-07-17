@@ -165,19 +165,18 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" timestamp="1594987306267">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/deploy.sh" timestamp="1594984033068">
         <mark key="'" line="0" column="248" />
         <mark key="[" line="2" column="15" />
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1594965813317">
-        <mark key="'" line="75" column="21" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="42" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="87" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1594966010028">
         <mark key="'" line="20" column="32" />
@@ -302,8 +301,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlArljp/mlofkvZzogIXvvJpMYXJhdmVsIENoaW5hICYjMzEwMzg7JiMyMTMwNjsmIzI1OTkxOyYjMjY3MjM7JiM2NTMwNjsmIzEyMjk4O0xhcmF2ZWwgNyAmIzIwMDEzOyYjMjU5OTE7JiMyNTk5MTsmIzI2NzIzOyYjNjUyODg7Ny54JiM2NTI4OTsmIzEyMjk5Owrovazoh6rpk77mjqXvvJpodHRwczovL2xlYXJua3UuY29tL2RvY3MvbGFyYXZlbC83LngvZXZlbnRzLzc0ODQKJiMyOTI1NjsmIzI2NDM1OyYjMjI3Njg7JiMyNjEyNjsmIzY1MzA2OyYjMzI3NjM7JiMzNTc5MzsmIzI1OTkxOyYjMjY3MjM7JiMzMzg3OTsmIzIwMzE2OyYjMjY0MzU7JiMyNDQwMjsmIzM1NzkzOyYjMzI3NzM7JiMyMTY0NDsgTGVhcm5LdSAmIzMxMDM4OyYjMjEzMDY7JiMyNTE1MjsmIzI2Mzc3OyYjMTIyOTA7JiMzNjcxNjsmIzM2NzMzOyYjMzU4MzE7JiMyMDQ0NTsmIzMwMDQxOyYjMjE0MDc7JiMyNTk5MTsmIzM4MTQyOyYjMjU1MDk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -324,7 +323,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>Request</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZVw+</text>
