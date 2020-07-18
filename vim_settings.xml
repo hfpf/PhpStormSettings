@@ -107,8 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" timestamp="1595048033962">
-        <mark key="'" line="756" column="42" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" timestamp="1595075978894">
+        <mark key="'" line="838" column="37" />
+        <mark key="[" line="838" column="44" />
+        <mark key="]" line="838" column="45" />
+        <mark key="^" line="838" column="45" />
+        <mark key="." line="838" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Requests/Admin/Booth/UpdateCamerasRequest.php" timestamp="1595053428127" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595041271079">
@@ -121,7 +125,6 @@
         <mark key="^" line="269" column="15" />
         <mark key="." line="269" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1595068929042" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1594990673242">
         <mark key="'" line="151" column="48" />
       </file>
@@ -130,14 +133,14 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1595072307527">
-        <mark key="'" line="84" column="51" />
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="58" column="31" />
-        <mark key="^" line="58" column="31" />
-        <mark key="." line="58" column="30" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1595076242361">
+        <mark key="'" line="62" column="26" />
+        <mark key="[" line="123" column="25" />
+        <mark key="]" line="123" column="26" />
+        <mark key="^" line="123" column="26" />
+        <mark key="." line="123" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595065467058">
+      <file name="/Dummy.txt" timestamp="1595075109786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Listeners/SendCustomerCreatedNotification.php" timestamp="1594989635765">
@@ -177,8 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15573" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="18523" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="18505" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11269" column="61" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11256" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
@@ -262,7 +263,6 @@
       <jump line="25" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Contracts/Auth/MustVerifyEmail.php" />
       <jump line="29" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Listeners/SendCustomerCreatedNotification.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Notifications/IntroducedCustomerCreated.php" />
-      <jump line="59" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
       <jump line="54" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
       <jump line="108" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="120" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
@@ -277,6 +277,9 @@
       <jump line="74" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" />
       <jump line="60" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
       <jump line="84" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
+      <jump line="838" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" />
+      <jump line="59" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
+      <jump line="62" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
