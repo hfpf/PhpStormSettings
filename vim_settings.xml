@@ -107,19 +107,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595041271079">
-        <mark key="'" line="167" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php" timestamp="1594989566766">
-        <mark key="'" line="18" column="42" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1594989921773">
-        <mark key="'" line="54" column="26" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" timestamp="1595048033962">
+        <mark key="'" line="756" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/Listeners/MysqlSessionInit.php" timestamp="1594988126671">
         <mark key="'" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594989069018">
+        <mark key="'" line="37" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Listeners/SendCustomerCreatedNotification.php" timestamp="1594989635765">
+        <mark key="'" line="29" column="55" />
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="85" />
+        <mark key="." line="29" column="84" />
+        <mark key="^" line="29" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Contracts/Auth/MustVerifyEmail.php" timestamp="1594989570618">
+        <mark key="'" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595041271079">
+        <mark key="'" line="167" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/MustVerifyEmail.php" timestamp="1594989511857">
         <mark key="'" line="37" column="29" />
@@ -135,13 +143,26 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="59" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Shop.php" timestamp="1594990911577" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1594990673242">
+        <mark key="'" line="151" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Notifications/IntroducedCustomerCreated.php" timestamp="1594989803685">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="92" />
         <mark key="^" line="17" column="4" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1594990684901">
+        <mark key="'" line="307" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php" timestamp="1594989566766">
+        <mark key="'" line="18" column="42" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1594989921773">
+        <mark key="'" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1595041338776">
         <mark key="'" line="46" column="17" />
@@ -156,31 +177,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" timestamp="1594991897817">
-        <mark key="'" line="756" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1594990673242">
-        <mark key="'" line="151" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1594989069018">
-        <mark key="'" line="37" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Listeners/SendCustomerCreatedNotification.php" timestamp="1594989635765">
-        <mark key="'" line="29" column="55" />
-        <mark key="[" line="29" column="69" />
-        <mark key="]" line="29" column="85" />
-        <mark key="." line="29" column="84" />
-        <mark key="^" line="29" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Contracts/Auth/MustVerifyEmail.php" timestamp="1594989570618">
-        <mark key="'" line="25" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothCameraService.php" timestamp="1595040743541" />
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" timestamp="1594990464405" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1594989587157" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1594990684901">
-        <mark key="'" line="307" column="21" />
       </file>
     </filemarks>
     <jumps>
