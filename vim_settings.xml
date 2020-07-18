@@ -107,8 +107,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595039368542">
-        <mark key="'" line="40" column="52" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595041271079">
+        <mark key="'" line="167" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php" timestamp="1594989566766">
         <mark key="'" line="18" column="42" />
@@ -120,9 +120,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/Listeners/MysqlSessionInit.php" timestamp="1594988126671">
         <mark key="'" line="13" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" timestamp="1594988111661">
-        <mark key="'" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/MustVerifyEmail.php" timestamp="1594989511857">
         <mark key="'" line="37" column="29" />
@@ -146,7 +143,7 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1594991500020">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1595041338776">
         <mark key="'" line="46" column="17" />
         <mark key="[" line="49" column="30" />
         <mark key="]" line="49" column="33" />
@@ -179,6 +176,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Contracts/Auth/MustVerifyEmail.php" timestamp="1594989570618">
         <mark key="'" line="25" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothCameraService.php" timestamp="1595040743541" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" timestamp="1594990464405" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1594989587157" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1594990684901">
@@ -241,7 +239,6 @@
       <jump line="462" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
       <jump line="463" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
       <jump line="20" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
-      <jump line="167" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
       <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="73" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="154" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
@@ -286,6 +283,7 @@
       <jump line="752" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" />
       <jump line="40" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
       <jump line="756" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" />
+      <jump line="167" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
