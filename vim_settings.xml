@@ -130,8 +130,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1594989921773">
-        <mark key="'" line="54" column="26" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1595072307527">
+        <mark key="'" line="84" column="51" />
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="58" column="31" />
+        <mark key="^" line="58" column="31" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1595065467058">
         <mark key="[" line="0" column="0" />
@@ -173,8 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15287" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="15307" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="15573" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="18523" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="18505" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
@@ -273,6 +275,8 @@
       <jump line="167" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
       <jump line="252" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" />
       <jump line="74" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" />
+      <jump line="60" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
+      <jump line="84" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
