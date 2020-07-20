@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry>off</entry>
         <entry encoding="base64">XDxHdWFyZFw+</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxzdGFja1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxwb3N0XD4=</entry>
         <entry encoding="base64">XDxSb3V0ZVw+</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxpbnB1dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>/var/const/gc</entry>
@@ -138,7 +138,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
         <mark key="'" line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" timestamp="1595232416926">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" timestamp="1595232762254">
         <mark key="'" line="420" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1594990673242">
@@ -316,7 +316,7 @@
         <text encoding="base64">J2xpa2UnLCAnJScuICRrZXl3b3Jkcy4gJyUnKS0+Z2V0KCk7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnN0YW5jZVw+</text>
+        <text encoding="base64">XDxpbnB1dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkYm9vdGhzIGFzICRib290aCkgewogICAgICAgICAgICAkdGhpcy0+aW5mbygkYm9vdGgtPmlkKTsKICAgICAgICAgICAgJHRoaXMtPmluZm8oJGJvb3RoLT5uYW1lKTsKICAgICAgICB9Cg==</text>
