@@ -130,11 +130,7 @@
         <mark key="^" line="269" column="15" />
         <mark key="." line="269" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/CompanyCreated.php" timestamp="1594989802567">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="59" column="5" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1595237961547" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
         <mark key="'" line="38" column="17" />
       </file>
