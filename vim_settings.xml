@@ -114,18 +114,11 @@
         <mark key="^" line="838" column="45" />
         <mark key="." line="838" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_02_12_115259_create_ebk_enterprises_table.php" timestamp="1595232309811">
+        <mark key="'" line="24" column="22" />
+      </file>
       <file name="/Dummy.txt" timestamp="1595225396245">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Listeners/SendCustomerCreatedNotification.php" timestamp="1594989635765">
-        <mark key="'" line="29" column="55" />
-        <mark key="[" line="29" column="69" />
-        <mark key="]" line="29" column="85" />
-        <mark key="." line="29" column="84" />
-        <mark key="^" line="29" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Contracts/Auth/MustVerifyEmail.php" timestamp="1594989570618">
-        <mark key="'" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595041271079">
         <mark key="'" line="167" column="54" />
@@ -137,11 +130,16 @@
         <mark key="^" line="269" column="15" />
         <mark key="." line="269" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_05_19_104015_add_rtmp_live_url_into_booth_cameras_table.php" timestamp="1595226292073" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/CompanyCreated.php" timestamp="1594989802567">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="59" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
+        <mark key="'" line="38" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" timestamp="1595232416926">
+        <mark key="'" line="420" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/LabelController.php" timestamp="1594990673242">
         <mark key="'" line="151" column="48" />
@@ -156,6 +154,7 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/EBooking/V1/RegisterEnterprise.php" timestamp="1595232193710" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1594990684901">
         <mark key="'" line="307" column="21" />
       </file>
@@ -173,7 +172,6 @@
         <mark key="^" line="123" column="26" />
         <mark key="." line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_05_08_172306_create_booth_cameras_table.php" timestamp="1595227140580" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" timestamp="1595041338776">
         <mark key="'" line="46" column="17" />
         <mark key="[" line="49" column="30" />
@@ -181,18 +179,11 @@
         <mark key="." line="49" column="32" />
         <mark key="^" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/migrations/2020_05_06_105953_create_flow_devices_table.php" timestamp="1595225276554" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/AdminControllerTest.php" timestamp="1595226506577">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11187" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11186" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11171" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11170" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11155" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11154" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11139" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11138" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11123" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
@@ -287,6 +278,12 @@
       <jump line="238" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" />
       <jump line="32" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Resources/Admin/Booth/CamerasResource.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/AdminControllerTest.php" />
+      <jump line="422" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" />
+      <jump line="430" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" />
+      <jump line="38" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" />
+      <jump line="429" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" />
+      <jump line="24" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_02_12_115259_create_ebk_enterprises_table.php" />
+      <jump line="420" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -382,12 +379,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbnN0YW5jZVw+</last-search>
+      <last-search encoding="base64">XDxpbnB1dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnN0YW5jZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dFw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
