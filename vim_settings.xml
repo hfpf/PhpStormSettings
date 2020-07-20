@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" timestamp="1595041271079">
         <mark key="'" line="167" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" timestamp="1595225198838">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" timestamp="1595247380927">
         <mark key="'" line="238" column="25" />
-        <mark key="[" line="283" column="55" />
-        <mark key="]" line="269" column="15" />
-        <mark key="^" line="269" column="15" />
-        <mark key="." line="269" column="14" />
+        <mark key="[" line="283" column="39" />
+        <mark key="]" line="283" column="38" />
+        <mark key="^" line="283" column="38" />
+        <mark key="." line="283" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1595237961547" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
@@ -287,8 +287,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNob3AtPmJvb3RocwogICAgICAgICAgICAkYm9vdGhzID0gQm9vdGg6OndoZXJlKCdzaG9wJywgJHNob3AtPmlkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>sync($cameraModels);</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -309,7 +309,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2xpa2UnLCAnJScuICRrZXl3b3Jkcy4gJyUnKS0+Z2V0KCk7</text>
+        <text>sync($cameraModels);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFw+</text>
