@@ -132,6 +132,7 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595404339312" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" timestamp="1595323909399">
         <mark key="'" line="252" column="48" />
         <mark key="[" line="275" column="12" />
@@ -156,13 +157,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_06_145435_create_approval_used_templates_table.php" timestamp="1595389025964" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Company.php" timestamp="1595322128354">
         <mark key="'" line="268" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Resources/Admin/Booth/CamerasResource.php" timestamp="1595226263072">
-        <mark key="'" line="32" column="32" />
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="54" />
-        <mark key="^" line="29" column="54" />
-        <mark key="." line="29" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/AdminControllerTest.php" timestamp="1595226506577">
         <mark key="'" line="0" column="0" />
