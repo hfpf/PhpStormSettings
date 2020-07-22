@@ -127,7 +127,13 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="35" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php" timestamp="1595322133484" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_02_12_115259_create_ebk_enterprises_table.php" timestamp="1595232309811">
+        <mark key="'" line="24" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595331199681">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1595384156855" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" timestamp="1595323909399">
         <mark key="'" line="252" column="48" />
         <mark key="[" line="275" column="12" />
@@ -135,12 +141,24 @@
         <mark key="^" line="274" column="22" />
         <mark key="." line="274" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1595237961547" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
+        <mark key="'" line="38" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" timestamp="1595232762254">
         <mark key="'" line="420" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" timestamp="1595063751348">
+        <mark key="'" line="74" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Company.php" timestamp="1595322128354">
         <mark key="'" line="268" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Resources/Admin/Booth/CamerasResource.php" timestamp="1595226263072">
+        <mark key="'" line="32" column="32" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="54" />
+        <mark key="^" line="29" column="54" />
+        <mark key="." line="29" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1595076255504">
         <mark key="'" line="65" column="26" />
@@ -151,26 +169,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/AdminControllerTest.php" timestamp="1595226506577">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_02_12_115259_create_ebk_enterprises_table.php" timestamp="1595232309811">
-        <mark key="'" line="24" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595331199681">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
-        <mark key="'" line="38" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" timestamp="1595063751348">
-        <mark key="'" line="74" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/EBooking/V1/RegisterEnterprise.php" timestamp="1595232193710" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Resources/Admin/Booth/CamerasResource.php" timestamp="1595226263072">
-        <mark key="'" line="32" column="32" />
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="54" />
-        <mark key="^" line="29" column="54" />
-        <mark key="." line="29" column="53" />
       </file>
     </filemarks>
     <jumps>
