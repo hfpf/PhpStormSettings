@@ -107,18 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2019_07_29_143218_add_columns_into_demands_table.php" timestamp="1595392222185">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/composer.json" timestamp="1595406785144" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Providers/EventServiceProvider.php" timestamp="1595405976156">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="23" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/FetchParkCompany.php" timestamp="1595409093409">
         <mark key="'" line="53" column="35" />
       </file>
@@ -131,13 +120,15 @@
         <mark key="'" line="181" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/User.php" timestamp="1595408988811" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595409638619" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595410000367" />
       <file name="/Dummy.txt" timestamp="1595406655852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595408867817">
         <mark key="'" line="274" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595411215474" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/queue.php" timestamp="1595411315231" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/storage/logs/laravel-2020-07-22.log" timestamp="1595408413781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
