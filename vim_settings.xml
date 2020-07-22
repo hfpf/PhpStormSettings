@@ -107,13 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" timestamp="1595075978894">
-        <mark key="'" line="838" column="37" />
-        <mark key="[" line="838" column="44" />
-        <mark key="]" line="838" column="45" />
-        <mark key="^" line="838" column="45" />
-        <mark key="." line="838" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/Admin/YundingCameraService.php" timestamp="1595248487138">
         <mark key="'" line="36" column="20" />
         <mark key="[" line="48" column="28" />
@@ -130,7 +123,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_02_12_115259_create_ebk_enterprises_table.php" timestamp="1595232309811">
         <mark key="'" line="24" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595385404457">
+      <file name="/Dummy.txt" timestamp="1595387168163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1595384156855" />
@@ -141,15 +134,19 @@
         <mark key="^" line="274" column="22" />
         <mark key="." line="274" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/resources/views/welcome.blade.php" timestamp="1595387164436" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/web.php" timestamp="1595387182506" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/EnterpriseService.php" timestamp="1595232283927">
         <mark key="'" line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/BoothControllerTest.php" timestamp="1595385979833" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/BoothControllerTest.php" timestamp="1595386804947">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/EBooking/V1/AuthController.php" timestamp="1595232762254">
         <mark key="'" line="420" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" timestamp="1595063751348">
-        <mark key="'" line="74" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_06_145435_create_approval_used_templates_table.php" timestamp="1595385335125" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Company.php" timestamp="1595322128354">
@@ -172,6 +169,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/AdminControllerTest.php" timestamp="1595226506577">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/wechat.php" timestamp="1595387149000" />
     </filemarks>
     <jumps>
       <jump line="11107" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
