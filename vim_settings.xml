@@ -127,6 +127,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/console.php" timestamp="1595384156855" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2019_07_29_143218_add_columns_into_demands_table.php" timestamp="1595392222185">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/BoothController.php" timestamp="1595323909399">
         <mark key="'" line="252" column="48" />
         <mark key="[" line="275" column="12" />
@@ -158,13 +163,6 @@
         <mark key="]" line="29" column="54" />
         <mark key="^" line="29" column="54" />
         <mark key="." line="29" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" timestamp="1595076255504">
-        <mark key="'" line="65" column="26" />
-        <mark key="[" line="123" column="25" />
-        <mark key="]" line="123" column="26" />
-        <mark key="^" line="123" column="26" />
-        <mark key="." line="123" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Admin/AdminControllerTest.php" timestamp="1595226506577">
         <mark key="'" line="0" column="0" />
@@ -280,7 +278,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$value['a']</text>
+        <text>}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -301,7 +299,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>$value['a']</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb2tlblw+</text>
