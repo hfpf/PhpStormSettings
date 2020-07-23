@@ -107,41 +107,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/composer.json" timestamp="1595406785144" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/FetchParkCompany.php" timestamp="1595409093409">
-        <mark key="'" line="53" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1595408275260">
-        <mark key="'" line="505" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_22_082520_create_companies_table.php" timestamp="1595406359101" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/UsersTableSeeder.php" timestamp="1595408222123" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/app.php" timestamp="1595406794807">
-        <mark key="'" line="181" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/User.php" timestamp="1595408988811" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595410000367" />
       <file name="/Dummy.txt" timestamp="1595406655852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595408867817">
         <mark key="'" line="274" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595411215474" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/queue.php" timestamp="1595411315231" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/storage/logs/laravel-2020-07-22.log" timestamp="1595408413781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/storage/logs/command-laravel--2020-07-22.log" timestamp="1595408606039" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/Inner/Crm/CompanyIndexResourceCollection.php" timestamp="1595407677710" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2019_07_24_141940_create_companies_table.php" timestamp="1595406383819" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/V1/AuthControllerTest.php" timestamp="1595408094643" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/deployment/v1.6.1-deploy.sh" timestamp="1595478318679" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/FetchParkCompany.php" timestamp="1595409093409">
+        <mark key="'" line="53" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1595408275260">
+        <mark key="'" line="505" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/ReviewController.php" timestamp="1595409172012">
         <mark key="'" line="93" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/RecordTemplateController.php" timestamp="1595409385352" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/app.php" timestamp="1595406794807">
+        <mark key="'" line="181" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11061" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
