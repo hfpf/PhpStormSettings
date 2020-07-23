@@ -107,24 +107,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" timestamp="1595505140908">
+        <mark key="'" line="61" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/composer.json" timestamp="1595491660112">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/deployment/v1.6.1-deploy.sh" timestamp="1595478318679" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/FetchParkCompany.php" timestamp="1595409093409">
-        <mark key="'" line="53" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/AuthController.php" timestamp="1595408275260">
-        <mark key="'" line="505" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" timestamp="1595495090452">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1595494987109">
         <mark key="[" line="0" column="0" />
@@ -132,14 +122,30 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/Controller.php" timestamp="1595491479140">
         <mark key="'" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1595490740813" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595495154345">
         <mark key="'" line="293" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/Channels/WechatTempMsgChannel.php" timestamp="1595504913412" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/storage/logs/laravel-2020-07-22.log" timestamp="1595408413781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/Notification.php" timestamp="1595504680420" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/CompanyCreated.php" timestamp="1595504996464">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/FetchParkCompany.php" timestamp="1595409093409">
+        <mark key="'" line="53" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Foundation/Console/stubs/channel.stub" timestamp="1595505068112" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" timestamp="1595495090452">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/ReviewController.php" timestamp="1595409172012">
         <mark key="'" line="93" column="21" />
@@ -150,6 +156,9 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php" timestamp="1595505034886">
+        <mark key="'" line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595495097299">
         <mark key="'" line="47" column="39" />
         <mark key="[" line="48" column="45" />
@@ -157,11 +166,10 @@
         <mark key="^" line="48" column="45" />
         <mark key="." line="48" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/Notifications/VerifyEmail.php" timestamp="1595505211964" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/Channels/CrmUmChannel.php" timestamp="1595504769139" />
     </filemarks>
     <jumps>
-      <jump line="11013" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="11012" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="10997" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="10996" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="10983" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="10982" column="70" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
@@ -259,6 +267,9 @@
       <jump line="48" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="47" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="293" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="18" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php" />
+      <jump line="50" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" />
+      <jump line="61" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -267,7 +278,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>customer</text>
+        <text>UmChannel</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -288,7 +299,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>customer</text>
+        <text>UmChannel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDdXN0b21lclw+</text>
