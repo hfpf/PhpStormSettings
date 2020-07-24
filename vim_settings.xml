@@ -110,12 +110,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" timestamp="1595505140908">
         <mark key="'" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/composer.json" timestamp="1595491660112">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1595575953609">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,6 +153,9 @@
         <mark key="." line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/Http/Kernel.php" timestamp="1595583217315" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/routes.php" timestamp="1595588367353">
+        <mark key="'" line="13" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php" timestamp="1595505889196">
         <mark key="'" line="6" column="34" />
       </file>
@@ -167,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10889" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="10876" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="15" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" />
@@ -267,6 +263,7 @@
       <jump line="6" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php" />
       <jump line="14" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
       <jump line="290" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
+      <jump line="13" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/routes.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
