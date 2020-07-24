@@ -119,9 +119,6 @@
       <file name="/Dummy.txt" timestamp="1595575953609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/Controller.php" timestamp="1595491479140">
-        <mark key="'" line="7" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595495154345">
         <mark key="'" line="293" column="32" />
       </file>
@@ -129,6 +126,12 @@
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/routes/web.php" timestamp="1595583298281">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="/PHP Console" timestamp="1595579406354">
         <mark key="[" line="0" column="0" />
@@ -155,6 +158,7 @@
         <mark key="^" line="48" column="45" />
         <mark key="." line="48" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel7.15/app/Http/Kernel.php" timestamp="1595583217315" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php" timestamp="1595505889196">
         <mark key="'" line="6" column="34" />
       </file>
