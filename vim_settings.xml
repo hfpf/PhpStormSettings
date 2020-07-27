@@ -107,6 +107,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OpenPlatform/Auth/AccessToken.php" timestamp="1595836110346" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/bin/hyperf.php" timestamp="1595830045066" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595832546444">
+        <mark key="'" line="148" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OpenPlatform/Base/Client.php" timestamp="1595836730517">
+        <mark key="'" line="39" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1595829078367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -122,7 +130,6 @@
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/bin/hyperf.php" timestamp="1595830045066" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2019_07_24_141940_create_companies_table.php" timestamp="1595833212997">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="56" />
@@ -134,9 +141,6 @@
         <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/config/autoload/databases.php" timestamp="1595832511154" />
-      <file name="/PHP Console" timestamp="1595579406354">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" timestamp="1595833217238">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -161,15 +165,8 @@
         <mark key="'" line="13" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/vendor/hyperf/server/src/Command/StartServer.php" timestamp="1595831369483" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595832546444">
-        <mark key="'" line="148" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" timestamp="1595505990509">
-        <mark key="'" line="290" column="40" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="15" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" />
       <jump line="12303" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="11270" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
@@ -269,6 +266,7 @@
       <jump line="13" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/routes.php" />
       <jump line="148" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" />
       <jump line="47" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
+      <jump line="39" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OpenPlatform/Base/Client.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
