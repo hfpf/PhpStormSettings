@@ -115,10 +115,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595495154345">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1595831776387" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595831875842">
         <mark key="'" line="293" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/CompanyCreated.php" timestamp="1595504996464">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/.env" timestamp="1595832540932" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/CompanyCreated.php" timestamp="1595831767354">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
@@ -130,6 +132,7 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/config/autoload/databases.php" timestamp="1595832511154" />
       <file name="/PHP Console" timestamp="1595579406354">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,17 +146,13 @@
         <mark key="'" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1595822075883" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595495097299">
-        <mark key="'" line="47" column="39" />
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="48" column="45" />
-        <mark key="^" line="48" column="45" />
-        <mark key="." line="48" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/routes.php" timestamp="1595588522507">
         <mark key="'" line="13" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/CRM/vendor/hyperf/server/src/Command/StartServer.php" timestamp="1595831369483" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595832546444">
+        <mark key="'" line="148" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php" timestamp="1595505889196">
         <mark key="'" line="6" column="34" />
       </file>
@@ -162,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10876" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="31" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="15" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" />
       <jump line="12303" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
@@ -262,6 +260,7 @@
       <jump line="14" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
       <jump line="290" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
       <jump line="13" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/routes.php" />
+      <jump line="148" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
