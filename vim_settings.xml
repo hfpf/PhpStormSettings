@@ -143,15 +143,15 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CustomerAssembler.php" timestamp="1595833234862">
-        <mark key="[" line="14" column="43" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CustomerAssembler.php" timestamp="1595834112395">
+        <mark key="[" line="11" column="27" />
         <mark key="]" line="15" column="27" />
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1595822075883" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595833228433">
-        <mark key="'" line="47" column="41" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595834105705">
+        <mark key="'" line="47" column="30" />
         <mark key="[" line="48" column="45" />
         <mark key="]" line="48" column="45" />
         <mark key="^" line="48" column="45" />
@@ -268,7 +268,7 @@
       <jump line="290" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
       <jump line="13" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/routes.php" />
       <jump line="148" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" />
-      <jump line="47" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
+      <jump line="47" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
