@@ -143,11 +143,11 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CustomerAssembler.php" timestamp="1595834112395">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CustomerAssembler.php" timestamp="1595835118864">
         <mark key="[" line="11" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="26" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1595822075883" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595834105705">
