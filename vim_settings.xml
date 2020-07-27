@@ -110,8 +110,10 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" timestamp="1595505140908">
         <mark key="'" line="61" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595828788298">
+      <file name="/Dummy.txt" timestamp="1595829078367">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595495154345">
         <mark key="'" line="293" column="32" />
