@@ -107,39 +107,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/AutoLabel.php" timestamp="1595921124772">
-        <mark key="'" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/Jobs/RabbitMQJob.php" timestamp="1595921048981">
-        <mark key="'" line="15" column="47" />
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="47" />
-        <mark key="." line="15" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPConnection.php" timestamp="1595925678481">
         <mark key="'" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/MqSend.php" timestamp="1595926203950">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/MqSend.php" timestamp="1595926941718">
         <mark key="'" line="48" column="28" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1595922400209" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/symfony/console/Application.php" timestamp="1595921202059" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ResourceController.php" timestamp="1595926971157">
+        <mark key="'" line="1160" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Message/AMQPMessage.php" timestamp="1595926251948" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/ImportBrands.php" timestamp="1595923101624">
         <mark key="'" line="94" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/RoutesNotifications.php" timestamp="1595927014285">
+        <mark key="'" line="17" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php" timestamp="1595927033100">
+        <mark key="'" line="38" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Consumer/DemoConsumer.php" timestamp="1595926312586">
         <mark key="'" line="16" column="49" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2018_09_11_204916_create_m_brands_table.php" timestamp="1595919477326">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Producer/DemoProducer.php" timestamp="1595926220317" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MBrandController.php" timestamp="1595922445561" />
@@ -162,10 +157,8 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="37" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595921429622">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php" timestamp="1595927008166">
+        <mark key="'" line="6" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" timestamp="1595923435771">
         <mark key="[" line="17" column="0" />
@@ -174,19 +167,12 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/mq.php" timestamp="1595926205358" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_28_065722_create_brands_table.php" timestamp="1595919568127">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Notifications/Approvals/AttentionToRelationUsers.php" timestamp="1595927284897" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/DemandUntreatRemind.php" timestamp="1595926960078">
+        <mark key="'" line="79" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
-      <jump line="756" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" />
-      <jump line="167" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
-      <jump line="74" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" />
-      <jump line="60" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
       <jump line="84" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
       <jump line="838" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothFlowService.php" />
       <jump line="59" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/BoothFlowFetch.php" />
@@ -282,6 +268,11 @@
       <jump line="33" column="63" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Controller/IndexController.php" />
       <jump line="48" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/MqSend.php" />
       <jump line="16" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Consumer/DemoConsumer.php" />
+      <jump line="79" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/DemandUntreatRemind.php" />
+      <jump line="1160" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/ResourceController.php" />
+      <jump line="6" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php" />
+      <jump line="17" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/RoutesNotifications.php" />
+      <jump line="38" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
