@@ -121,12 +121,10 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/Controller.php" timestamp="1595909005677">
         <mark key="'" line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1595922400209" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/symfony/console/Application.php" timestamp="1595921202059" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/vendor/hyperf/amqp/src/Pool/AmqpConnectionPool.php" timestamp="1595916659723" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php" timestamp="1595915250750" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1595908806283">
-        <mark key="'" line="475" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Consumer/DemoConsumer.php" timestamp="1595918607017">
         <mark key="'" line="12" column="10" />
         <mark key="[" line="12" column="106" />
@@ -139,6 +137,7 @@
         <mark key="]" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Producer/DemoProducer.php" timestamp="1595919134497" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/MBrandController.php" timestamp="1595922445561" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Controller/IndexController.php" timestamp="1595918164676">
         <mark key="[" line="35" column="22" />
         <mark key="]" line="35" column="18" />
@@ -162,13 +161,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/phpunit.xml" timestamp="1595908752976">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_28_065722_create_brands_table.php" timestamp="1595919568127">
         <mark key="[" line="18" column="0" />
