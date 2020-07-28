@@ -107,16 +107,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/horizon.php" timestamp="1595906001732">
-        <mark key="'" line="178" column="13" />
-        <mark key="[" line="185" column="25" />
-        <mark key="]" line="185" column="25" />
-        <mark key="^" line="185" column="25" />
-        <mark key="." line="185" column="24" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/autoload/server.php" timestamp="1595917071760" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1595908515264">
         <mark key="'" line="1405" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/config/config.php" timestamp="1595916745339" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/Controller.php" timestamp="1595909005677">
         <mark key="'" line="11" column="28" />
       </file>
@@ -127,21 +122,13 @@
         <mark key="." line="53" column="21" />
         <mark key="^" line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Notifications/IntroducedCustomerCreated.php" timestamp="1595906737609">
-        <mark key="'" line="10" column="45" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/vendor/hyperf/amqp/src/Pool/AmqpConnectionPool.php" timestamp="1595916659723" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595908022137">
         <mark key="'" line="45" column="31" />
         <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="37" />
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1595907547171">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="14" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Customer.php" timestamp="1595908153944" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php" timestamp="1595915250750" />
@@ -154,6 +141,12 @@
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Controller/IndexController.php" timestamp="1595916497420">
+        <mark key="[" line="33" column="77" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="34" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Providers/RouteServiceProvider.php" timestamp="1595907757466">
         <mark key="'" line="44" column="21" />
@@ -174,9 +167,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/web.php" timestamp="1595907855662">
         <mark key="'" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595907004079">
-        <mark key="[" line="67" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/phpunit.xml" timestamp="1595908752976">
         <mark key="'" line="0" column="0" />
@@ -303,7 +293,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>return</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -324,13 +314,13 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdXBlcnZpc29yXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IkRCX0NPTk5FQ1RJT04iIHZhbHVlPSJzcWxpdGUiLz4KICAgICAgICA8c2VydmVyIG5hbWU9IkRCX0RBVEFCQVNFIiB2YWx1ZT0iOm1lbW9yeToiLz4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnbWV0aG9kJyA9PiAkbWV0aG9kLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gIkhlbGxvIHskdXNlcn0uIiwKICAgICAgICBdOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
