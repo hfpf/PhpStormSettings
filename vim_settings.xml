@@ -109,7 +109,7 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyStoreRequest.php" timestamp="1595841584110" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2018_09_11_204916_create_m_brands_table.php" timestamp="1595841029558" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/horizon.php" timestamp="1595902176163" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/horizon.php" timestamp="1595902222322" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php" timestamp="1595840639624" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" timestamp="1595842496695">
         <mark key="'" line="12" column="41" />
@@ -139,15 +139,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595842556127">
         <mark key="'" line="293" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595901994681">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595904467826">
         <mark key="[" line="67" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" timestamp="1595902188237">
-        <mark key="'" line="51" column="13" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="12" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" timestamp="1595904476883">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CustomerAssembler.php" timestamp="1595841558021">
         <mark key="[" line="15" column="49" />
@@ -182,7 +182,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1595842934080" />
     </filemarks>
     <jumps>
-      <jump line="73" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="154" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
       <jump line="4" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Carbon.php" />
       <jump line="509" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
@@ -282,6 +281,7 @@
       <jump line="47" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="17" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
       <jump line="51" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
+      <jump line="0" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
