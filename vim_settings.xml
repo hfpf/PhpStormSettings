@@ -108,8 +108,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyStoreRequest.php" timestamp="1595841584110" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OpenPlatform/Auth/AccessToken.php" timestamp="1595836110346" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2018_09_11_204916_create_m_brands_table.php" timestamp="1595841029558" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/horizon.php" timestamp="1595902176163" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php" timestamp="1595840639624" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" timestamp="1595842496695">
         <mark key="'" line="12" column="41" />
@@ -127,7 +127,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/overtrue/wechat/src/OpenPlatform/Base/Client.php" timestamp="1595840402757">
         <mark key="'" line="39" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595840915222">
+      <file name="/Dummy.txt" timestamp="1595902133311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,15 +139,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1595842556127">
         <mark key="'" line="293" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2019_07_24_141940_create_companies_table.php" timestamp="1595833212997">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="56" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595901994681">
+        <mark key="[" line="67" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_customers_table.php" timestamp="1595833217238">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" timestamp="1595902188237">
+        <mark key="'" line="51" column="13" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CustomerAssembler.php" timestamp="1595841558021">
         <mark key="[" line="15" column="49" />
@@ -169,8 +169,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" timestamp="1595843337674">
         <mark key="'" line="70" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595843438764">
-        <mark key="'" line="48" column="39" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" timestamp="1595901205806">
+        <mark key="'" line="47" column="39" />
         <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="37" />
         <mark key="^" line="49" column="37" />
@@ -182,8 +182,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1595842934080" />
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
-      <jump line="40" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="73" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Console/Commands/Inspire.php" />
       <jump line="154" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/FlowController.php" />
       <jump line="4" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Support/Carbon.php" />
@@ -276,12 +274,14 @@
       <jump line="24" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" />
       <jump line="14" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
       <jump line="12" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
-      <jump line="47" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="285" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="48" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="293" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="72" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" />
       <jump line="70" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" />
+      <jump line="47" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
+      <jump line="17" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
+      <jump line="51" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,8 +289,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiA9IEFQSTo6cG9zdCgiYXBpL2lubmVyL2NybS9jb21wYW5pZXMiLCAkcGFyYW1zKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRqc29uWydjb2RlJ10sIDEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Laravel</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -311,7 +311,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>api/inner/crmlcompanies</text>
+        <text>Laravel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0U3RvcmVcPg==</text>
