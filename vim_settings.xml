@@ -147,8 +147,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/SyncQueue.php" timestamp="1595939615843">
         <mark key="'" line="37" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" timestamp="1595994706656">
-        <mark key="'" line="20" column="39" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" timestamp="1595994972909">
+        <mark key="'" line="20" column="41" />
         <mark key="[" line="17" column="5" />
         <mark key="]" line="18" column="40" />
         <mark key="^" line="18" column="40" />
@@ -288,7 +288,6 @@
       <jump line="110" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
       <jump line="90" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php" />
       <jump line="87" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
-      <jump line="20" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" />
       <jump line="174" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
       <jump line="37" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/SyncQueue.php" />
       <jump line="116" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
@@ -303,6 +302,7 @@
       <jump line="218" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/ContractMigration.php" />
       <jump line="281" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/ContractMigration.php" />
       <jump line="10" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/BrandCreated.php" />
+      <jump line="20" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
