@@ -107,11 +107,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/QueueServiceProvider.php" timestamp="1595935764969">
-        <mark key="'" line="49" column="33" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Jobs/BrandCreated.php" timestamp="1595942223510">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" timestamp="1595941429592">
+        <mark key="'" line="130" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1595938589764">
         <mark key="'" line="20" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" timestamp="1595940048511">
+        <mark key="'" line="174" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" timestamp="1595939129159">
+        <mark key="'" line="87" column="48" />
+        <mark key="[" line="87" column="45" />
+        <mark key="]" line="87" column="45" />
+        <mark key="." line="87" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" timestamp="1595937940813">
         <mark key="'" line="10" column="18" />
@@ -120,11 +135,8 @@
         <mark key="^" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/queue.php" timestamp="1595937910327">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="107" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php" timestamp="1595939276742">
+        <mark key="'" line="90" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/MBrand.php" timestamp="1595938570545">
         <mark key="'" line="8" column="24" />
@@ -132,30 +144,23 @@
         <mark key="]" line="29" column="47" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" timestamp="1595936734811">
-        <mark key="'" line="53" column="29" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/SyncQueue.php" timestamp="1595939615843">
+        <mark key="'" line="37" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Consumer/DemoConsumer.php" timestamp="1595937363804">
-        <mark key="'" line="16" column="52" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" timestamp="1595941470535">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/horizon/src/JobPayload.php" timestamp="1595936477617">
-        <mark key="'" line="131" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" timestamp="1595938671063">
-        <mark key="'" line="18" column="56" />
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" timestamp="1595936996892">
-        <mark key="'" line="136" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php" timestamp="1595935734183">
-        <mark key="'" line="324" column="24" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Jobs/Job.php" timestamp="1595940657491" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/BrandCreated.php" timestamp="1595942178884">
+        <mark key="'" line="11" column="34" />
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" timestamp="1595937928633">
         <mark key="'" line="48" column="16" />
@@ -164,48 +169,40 @@
         <mark key="." line="53" column="20" />
         <mark key="^" line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php" timestamp="1595936029438">
-        <mark key="'" line="157" column="26" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/ContractMigration.php" timestamp="1595941701678">
+        <mark key="'" line="281" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1595937093235">
+      <file name="/PHP Console" timestamp="1595941555331">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/horizon/src/Tags.php" timestamp="1595936593889" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/symfony/console/Application.php" timestamp="1595936301298" />
-      <file name="/Dummy.txt" timestamp="1595937546392">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/config/queue.php" timestamp="1595937919879">
         <mark key="[" line="67" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/console.php" timestamp="1595937041789">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="78" />
-        <mark key="^" line="18" column="78" />
-        <mark key="." line="18" column="77" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/console.php" timestamp="1595940101747">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="56" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" timestamp="1595936317859">
-        <mark key="'" line="96" column="10" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Jobs/Ordered.php" timestamp="1595941019612">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/helpers.php" timestamp="1595941603849">
+        <mark key="[" line="663" column="5" />
+        <mark key="]" line="664" column="20" />
+        <mark key="^" line="664" column="20" />
+        <mark key="." line="664" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/CallQueuedHandler.php" timestamp="1595939905097">
+        <mark key="'" line="51" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
-      <jump line="10" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Notifications/IntroducedCustomerCreated.php" />
-      <jump line="13" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" />
-      <jump line="14" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Events/CustomerCreated.php" />
-      <jump line="47" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="48" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="44" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Providers/RouteServiceProvider.php" />
-      <jump line="15" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/web.php" />
-      <jump line="45" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="29" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/StoreCustomer.php" />
-      <jump line="48" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/.env" />
-      <jump line="14" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
-      <jump line="863" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="1405" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/phpunit.xml" />
       <jump line="20" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
       <jump line="475" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
@@ -238,14 +235,10 @@
       <jump line="24" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Providers/EventServiceProvider.php" />
       <jump line="10" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php" />
       <jump line="7706" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/_ide_helper.php" />
-      <jump line="93" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
-      <jump line="115" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
-      <jump line="116" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
       <jump line="68" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
       <jump line="18" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/Connectors/RabbitMQConnector.php" />
       <jump line="52" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/Dispatchable.php" />
       <jump line="16" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/Dispatchable.php" />
-      <jump line="17" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/console.php" />
       <jump line="131" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingDispatch.php" />
       <jump line="2923" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
       <jump line="194" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
@@ -292,6 +285,24 @@
       <jump line="8" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/MBrand.php" />
       <jump line="20" column="74" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="18" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" />
+      <jump line="110" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
+      <jump line="90" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php" />
+      <jump line="87" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
+      <jump line="20" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Observers/MBrandObserver.php" />
+      <jump line="174" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
+      <jump line="37" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/SyncQueue.php" />
+      <jump line="116" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
+      <jump line="58" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/CallQueuedHandler.php" />
+      <jump line="61" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/CallQueuedHandler.php" />
+      <jump line="51" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/CallQueuedHandler.php" />
+      <jump line="17" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/console.php" />
+      <jump line="12" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Jobs/Ordered.php" />
+      <jump line="93" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
+      <jump line="115" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
+      <jump line="130" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" />
+      <jump line="218" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/ContractMigration.php" />
+      <jump line="281" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/temp/ContractMigration.php" />
+      <jump line="10" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Jobs/BrandCreated.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,8 +310,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>json</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -321,58 +332,58 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>sqs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXN0UHVzaGVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKICAgICAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdkaXNwbGF5X25hbWUnLCA0MCktPmNvbW1lbnQoJ+WQjeensCcpOwogICAgICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2ltYWdlJywgMTAwKS0+bnVsbGFibGUoKS0+Y29tbWVudCgn5bCB6Z2i5Zu+dXJsJyk7CiAgICAgICAgICAgICAgICAkdGFibGUtPmludGVnZXIoJ2NyZWF0ZWRfYnknKS0+Y29tbWVudCgn5Yib5bu65Lq6aWQnKTsKICAgICAgICAgICAgICAgICR0YWJsZS0+aW50ZWdlcigndXBkYXRlZF9ieScpLT5jb21tZW50KCfkv67mlLnkurppZCcpOwogICAgICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7CiAgICAgICAgICAgICAgICAkdGFibGUtPnNvZnREZWxldGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWV1ZTo6Y29ubmVjdGlvbigncmFiYml0bXEnKS0+cHVzaFJhdyhqc29uX2VuY29kZSgkZGF0YSkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6Om9ic2VydmUoTUJyYW5kT2JzZXJ2ZXI6OmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>poi_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudChuZXcgQnJhbmRDcmVhdGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWM6Om9ic2VydmUoTUJyYW5kT2JzZXJ2ZXI6OmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIERpbmdvXEFwaVxFdmVudFxSZXNwb25zZVdhc01vcnBoZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYnJhbmQtPmNyZWF0ZWRfYnkgPSA4NDA7CiAgICAgICAgJGJyYW5kLT51cGRhdGVkX2J5ID0gODQwOwo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudChuZXcgQnJhbmRDcmVhdGVkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkYXRhOwo=</text>
+        <text encoding="base64">dXNlIERpbmdvXEFwaVxFdmVudFxSZXNwb25zZVdhc01vcnBoZWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG9zdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYnJhbmQtPmNyZWF0ZWRfYnkgPSA4NDA7CiAgICAgICAgJGJyYW5kLT51cGRhdGVkX2J5ID0gODQwOwo=</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFNUVBDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkYXRhOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG9zdCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
