@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxSb3V0ZVw+</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxidXNfZGVwX2lkc1w+</entry>
         <entry encoding="base64">XDxDb21wYW55SW5kZXhSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxDb21wYW55SW5kZXhSZXNvdXJjZUNvbGxlY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxTdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>/var/const/gc</entry>
@@ -107,7 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/CollectionsTableSeeder.php" timestamp="1596101403932" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" timestamp="1596101660700">
         <mark key="'" line="13" column="27" />
         <mark key="[" line="22" column="51" />
@@ -115,103 +114,60 @@
         <mark key="^" line="23" column="48" />
         <mark key="." line="23" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596101023496">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyIndexResourceCollection.php" timestamp="1596101376010">
-        <mark key="'" line="32" column="36" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="48" column="4" />
-        <mark key="^" line="48" column="4" />
-        <mark key="." line="48" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/CompanyIndexRequest.php" timestamp="1596100922218">
-        <mark key="'" line="7" column="39" />
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/BaseRequest.php" timestamp="1596100960671">
-        <mark key="'" line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596105397027">
-        <mark key="'" line="106" column="34" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/BaseRequest.php" timestamp="1596100978593">
-        <mark key="'" line="4" column="31" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Company.php" timestamp="1596101180940">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="73" column="5" />
-        <mark key="^" line="73" column="5" />
-        <mark key="." line="73" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/ContactsTableSeeder.php" timestamp="1596101653373" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_30_155712_create_contacts_table.php" timestamp="1596101622582">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php" timestamp="1596108298965">
+        <mark key="'" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Factory.php" timestamp="1596108600236" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Contact.php" timestamp="1596101520073">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Collection.php" timestamp="1596101454631" />
       <file name="/PHP Console" timestamp="1596101652845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Request.php" timestamp="1596101092235" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_30_155708_create_collections_table.php" timestamp="1596101382645">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/psr/http-message/src/StreamInterface.php" timestamp="1596108819772" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/RedisStore.php" timestamp="1596108360247">
+        <mark key="'" line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" timestamp="1596108643430">
+        <mark key="'" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Collection.php" timestamp="1596101474841">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1596101213435">
-        <mark key="'" line="219" column="27" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" timestamp="1596108809411">
+        <mark key="'" line="218" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" timestamp="1596100930735">
-        <mark key="'" line="15" column="43" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596105397027">
+        <mark key="'" line="106" column="34" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" timestamp="1596100816742">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="22" />
-        <mark key="^" line="33" column="22" />
-        <mark key="." line="33" column="21" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php" timestamp="1596108247565">
+        <mark key="'" line="5" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/MemcachedStore.php" timestamp="1596108335405">
+        <mark key="'" line="200" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Store.php" timestamp="1596108593803" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggableStore.php" timestamp="1596108363309">
+        <mark key="'" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php" timestamp="1596108322763">
+        <mark key="'" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Repository.php" timestamp="1596108619954" />
     </filemarks>
     <jumps>
-      <jump line="62" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" />
-      <jump line="82" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" />
-      <jump line="74" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" />
-      <jump line="66" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" />
-      <jump line="21" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_29_062905_create_cities_table.php" />
-      <jump line="45" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="47" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="16" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
-      <jump line="13" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Customer.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_29_063844_create_company_relations_table.php" />
-      <jump line="48" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
-      <jump line="14" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
-      <jump line="23" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CustomerControllerTest.php" />
       <jump line="17" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" />
       <jump line="16" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" />
       <jump line="47" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
@@ -299,6 +255,19 @@
       <jump line="9" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Company.php" />
       <jump line="32" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyIndexResourceCollection.php" />
       <jump line="106" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" />
+      <jump line="5" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php" />
+      <jump line="22" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php" />
+      <jump line="6" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php" />
+      <jump line="9" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php" />
+      <jump line="61" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php" />
+      <jump line="143" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php" />
+      <jump line="5" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php" />
+      <jump line="200" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/MemcachedStore.php" />
+      <jump line="7" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/RedisStore.php" />
+      <jump line="6" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggableStore.php" />
+      <jump line="15" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" />
+      <jump line="6" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" />
+      <jump line="218" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +300,7 @@
         <text>increments('id');</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21wYW55SW5kZXhSZXNvdXJjZUNvbGxlY3Rpb25cPg==</text>
+        <text encoding="base64">XDxTdG9yZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPmludGVnZXIoJ3Byb3ZpbmNlX2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCduYW1lJywgMTAwKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdjb2RlJyk7CiAgICAgICAgICAgICR0YWJsZS0+dGlueUludGVnZXIoJ2xvY2F0ZWQnKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdzdGF0dXMnKS0+bnVsbGFibGUoKS0+Y29tbWVudCgn54q25oCBMe+8muWFqOW8gOaUviDvvIwy77ya5Y+q5byA5pS+57uZ54mp5Lia5L2/55SoJyk7CiAgICAgICAgICAgICR0YWJsZS0+dGV4dCgnZGVzY3JpcHRpb24nKS0+bnVsbGFibGUoKS0+Y29tbWVudCgn5LuL57uNJyk7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwogICAgICAgICAgICAkdGFibGUtPmRvdWJsZSgnbGF0aXR1ZGUnKS0+ZGVmYXVsdCgwKS0+Y29tbWVudCgn57qs5bqmJyk7CiAgICAgICAgICAgICR0YWJsZS0+ZG91YmxlKCdsb25naXR1ZGUnKS0+ZGVmYXVsdCgwKS0+Y29tbWVudCgn57uP5bqmJyk7CiAgICAgICAgICAgICR0YWJsZS0+ZG91YmxlKCdhbWFwX2xuZycpLT5jb21tZW50KCfkuK3lv4Pnu4/luqYo6auY5b63KScpOwogICAgICAgICAgICAkdGFibGUtPmRvdWJsZSgnYW1hcF9sYXQnKS0+Y29tbWVudCgn5Lit5b+D57qs5bqmKOmrmOW+tyknKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdob3VzZV9wcmljZScpLT5udWxsYWJsZSgpLT5jb21tZW50KCfln47luILmiL/lnYfku7cnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2RvbWFpbl9uYW1lJywgMTYpLT5udWxsYWJsZSgpLT5jb21tZW50KCfln5/lkI3nroDnp7AnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3NlcnZpY2VfcGhvbmUnLCAzMiktPmRlZmF1bHQoJzA1NzE4ODU3MzgyNScpLT5jb21tZW50KCflrqLmnI3nlLXor50nKTsKICAgICAgICAgICAgJHRhYmxlLT50aW55SW50ZWdlcigndGllcicpLT5kZWZhdWx0KDQpLT5jb21tZW50KCfln47luILnrYnnuqfvvJox5YiwNCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnZW5fbmFtZScsIDMyKS0+bnVsbGFibGUoKS0+Y29tbWVudCgn5Z+O5biC5ou86Z+zJyk7CiAgICAgICAgICAgICR0YWJsZS0+ZGVjaW1hbCgnZGVsaXZlcnlfZmVlJywgMTYsIDIpLT5kZWZhdWx0KDAuMDApLT5jb21tZW50KCfkuI3lkIzln47luILlv6vpgJLotLnvvIjljZXkvY3vvJrlhYPvvIznsr7noa7liLDlsI/mlbDngrnlkI7kuKTkvY3vvIknKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdzZXJ2aWNlX3JlcHJlc2VudGF0aXZlX2lkJyktPm51bGxhYmxlKCktPmNvbW1lbnQoJ+WuouacjUlEJyk7CiAgICAgICAgICAgICR0YWJsZS0+aW50ZWdlcignb3BlbmVkX2J5JyktPmNvbW1lbnQoJ+WfjuW4guW8gOmAmuiAhSDlhbPogZQgdXNlcnMuaWQnKTsKICAgICAgICAgICAgJHRhYmxlLT5kYXRlVGltZSgnb25saW5lX3RpbWUnKS0+Y29tbWVudCgn5LiK57q/5pe26Ze0Jyk7CiAgICAgICAgICAgICR0YWJsZS0+ZGF0ZSgnb3BlbmluZ190aW1lJyktPmNvbW1lbnQoJ+W8gOWfjuaXtumXtCcpOwogICAgICAgICAgICAkdGFibGUtPnVuaXF1ZSgnZG9tYWluX25hbWUnLCAnZG9tYWluX25hbWUnKTsK</text>
@@ -394,12 +363,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb21wYW55SW5kZXhSZXNvdXJjZUNvbGxlY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxTdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21wYW55SW5kZXhSZXNvdXJjZUNvbGxlY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTdG9yZVw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
