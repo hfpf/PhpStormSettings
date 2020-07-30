@@ -120,7 +120,7 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596010634950">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596079335903">
         <mark key="'" line="293" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/factories/UserFactory.php" timestamp="1596006669681">
@@ -161,12 +161,12 @@
         <mark key="^" line="37" column="30" />
         <mark key="." line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596079033059">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="18" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596079353620">
+        <mark key="'" line="239" column="4" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1596008357759">
         <mark key="'" line="16010" column="54" />
@@ -177,7 +177,7 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1596011021184">
+      <file name="/PHP Console" timestamp="1596079323203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1596010140789" />
