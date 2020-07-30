@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NvY1w+</entry>
-        <entry encoding="base64">XDxjcmVhdGVQcmVBdXRob3JpemF0aW9uQ29kZVw+</entry>
         <entry encoding="base64">XDxiYXNlXD4=</entry>
         <entry encoding="base64">XDxwb3N0XD4=</entry>
         <entry encoding="base64">XDxSb3V0ZVw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxsYXN0UHVzaGVkXD4=</entry>
         <entry>pos</entry>
         <entry>st</entry>
+        <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
+        <entry encoding="base64">XDxidXNfZGVwX2lkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>/var/const/gc</entry>
@@ -107,9 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1596005784590">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1596007007409">
         <mark key="'" line="41" column="21" />
       </file>
@@ -120,8 +117,8 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596079335903">
-        <mark key="'" line="293" column="32" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596080835013">
+        <mark key="'" line="189" column="126" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/factories/UserFactory.php" timestamp="1596006669681">
         <mark key="'" line="19" column="19" />
@@ -177,41 +174,27 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1596079323203">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/MDepartment.php" timestamp="1596079857133">
+        <mark key="'" line="210" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" timestamp="1596080075744">
+        <mark key="'" line="338" column="30" />
+      </file>
+      <file name="/PHP Console" timestamp="1596080243612">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" timestamp="1596080233088">
+        <mark key="'" line="506" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1596010140789" />
-      <file name="/Dummy.txt" timestamp="1596005819495">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/User.php" timestamp="1596006604324">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="20" />
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_16_074240_create_companies_table.php" timestamp="1596006018644" />
     </filemarks>
     <jumps>
-      <jump line="68" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
-      <jump line="18" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/Connectors/RabbitMQConnector.php" />
-      <jump line="52" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/Dispatchable.php" />
-      <jump line="16" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/Dispatchable.php" />
-      <jump line="131" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Bus/PendingDispatch.php" />
-      <jump line="2923" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" />
-      <jump line="194" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="157" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="181" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="43" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" />
-      <jump line="122" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
-      <jump line="147" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="47" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="53" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="26" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
-      <jump line="4" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
-      <jump line="20" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
       <jump line="22" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
       <jump line="19" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
       <jump line="69" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
@@ -295,6 +278,23 @@
       <jump line="26" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
       <jump line="49" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
+      <jump line="82" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="180" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="172" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="166" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="29" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="169" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="208" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/MDepartment.php" />
+      <jump line="210" column="72" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/MDepartment.php" />
+      <jump line="353" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="335" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="358" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="338" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" />
+      <jump line="502" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" />
+      <jump line="509" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" />
+      <jump line="507" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" />
+      <jump line="506" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" />
+      <jump line="189" column="126" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +327,7 @@
         <text>Company::paginate(10);</text>
       </register>
       <register name="/" type="4">
-        <text>st</text>
+        <text encoding="base64">XDxidXNfZGVwX2lkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2F1dGg6YXBpJyktPnBvc3QoJy9jb21wYW5pZXMnLCAnQ29tcGFueUNvbnRyb2xsZXJAc3RvcmUnKTs=</text>
@@ -390,12 +390,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>st</last-search>
+      <last-search encoding="base64">XDxidXNfZGVwX2lkc1w+</last-search>
       <last-offset />
-      <last-pattern>st</last-pattern>
+      <last-pattern encoding="base64">XDxidXNfZGVwX2lkc1w+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
