@@ -107,118 +107,86 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1596007007409">
-        <mark key="'" line="41" column="21" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_28_155718_create_crm_review_users_table.php" timestamp="1596095650472" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyStoreRequest.php" timestamp="1596096376552">
+        <mark key="'" line="37" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" timestamp="1596006363866">
-        <mark key="'" line="16" column="30" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="37" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyIndexRequest.php" timestamp="1596095878537">
+        <mark key="'" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596080835013">
-        <mark key="'" line="189" column="126" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" timestamp="1596096578085">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/factories/UserFactory.php" timestamp="1596006669681">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="14" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596096334284">
+        <mark key="'" line="249" column="36" />
+        <mark key="[" line="253" column="39" />
+        <mark key="]" line="262" column="37" />
+        <mark key="." line="262" column="36" />
+        <mark key="^" line="262" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Middleware/Authenticate.php" timestamp="1596007000793">
-        <mark key="'" line="4" column="34" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyIndexResourceCollection.php" timestamp="1596096058298">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php" timestamp="1596009863072" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1596008501412">
-        <mark key="'" line="21" column="33" />
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="73" />
-        <mark key="^" line="21" column="73" />
-        <mark key="." line="21" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithAuthentication.php" timestamp="1596007075840" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1596007939321">
-        <mark key="'" line="207" column="16" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CompanyService.php" timestamp="1596008612821">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" timestamp="1596008482342">
-        <mark key="'" line="53" column="27" />
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596079353620">
-        <mark key="'" line="239" column="4" />
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/_ide_helper.php" timestamp="1596008357759">
-        <mark key="'" line="16010" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Domain/Company/CompanyDO.php" timestamp="1596009591592">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/MDepartment.php" timestamp="1596079857133">
-        <mark key="'" line="210" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiUser.php" timestamp="1596080075744">
-        <mark key="'" line="338" column="30" />
-      </file>
-      <file name="/PHP Console" timestamp="1596080243612">
+      <file name="/PHP Console" timestamp="1596096554882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" timestamp="1596080233088">
-        <mark key="'" line="506" column="24" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/CrmReviewUser.php" timestamp="1596095588601" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/SourcesTableSeeder.php" timestamp="1596096553230" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/CompanyStoreRequest.php" timestamp="1596096508354">
+        <mark key="'" line="37" column="23" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1596010140789" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/User.php" timestamp="1596006604324">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1596096284746">
+        <mark key="'" line="207" column="16" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="72" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/CompanyIndexRequest.php" timestamp="1596095874572">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/BaseRequest.php" timestamp="1596095893752" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596096582847">
+        <mark key="'" line="323" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596096373669">
+        <mark key="'" line="285" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/BaseRequest.php" timestamp="1596095922196">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/SourcesTableSeeder.php" timestamp="1596096616580">
+        <mark key="'" line="163" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CompanyService.php" timestamp="1596096303915">
+        <mark key="'" line="22" column="29" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="4" />
+        <mark key="^" line="58" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_30_080651_create_sources_table.php" timestamp="1596096461726">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="21" column="83" />
+        <mark key="." line="21" column="82" />
+        <mark key="^" line="21" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_28_155853_create_sources_table.php" timestamp="1596096465102" />
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
-      <jump line="19" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/BusServiceProvider.php" />
-      <jump line="69" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="72" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Bus/Dispatcher.php" />
-      <jump line="50" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/QueueServiceProvider.php" />
-      <jump line="324" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php" />
-      <jump line="49" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/QueueServiceProvider.php" />
-      <jump line="155" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php" />
-      <jump line="157" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php" />
-      <jump line="37" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/horizon/src/JobPayload.php" />
-      <jump line="126" column="23" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" />
-      <jump line="123" column="6" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" />
-      <jump line="119" column="41" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" />
-      <jump line="96" column="10" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" />
-      <jump line="90" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/horizon/src/JobPayload.php" />
-      <jump line="131" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/horizon/src/JobPayload.php" />
-      <jump line="41" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" />
-      <jump line="22" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" />
-      <jump line="87" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" />
-      <jump line="51" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" />
-      <jump line="53" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Horizon/RabbitMQQueue.php" />
-      <jump line="514" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
-      <jump line="768" column="63" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
-      <jump line="132" column="81" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
       <jump line="136" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/Queue/RabbitMQQueue.php" />
       <jump line="16" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/hyperf-course/app/Amqp/Consumer/DemoConsumer.php" />
       <jump line="10" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env" />
@@ -258,7 +226,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2020_07_29_063844_create_company_relations_table.php" />
       <jump line="48" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CustomerController.php" />
       <jump line="14" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CustomerService.php" />
-      <jump line="293" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="23" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CustomerControllerTest.php" />
       <jump line="17" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" />
       <jump line="16" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" />
@@ -295,6 +262,31 @@
       <jump line="507" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" />
       <jump line="506" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/DataService.php" />
       <jump line="189" column="126" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="256" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="32" column="11" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="35" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="36" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="37" column="9" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="38" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/Inner/Crm/CompanyResource.php" />
+      <jump line="739" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="734" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="219" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" />
+      <jump line="677" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="38" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="70" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="7" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyIndexRequest.php" />
+      <jump line="229" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
+      <jump line="71" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="293" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="259" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
+      <jump line="22" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/CompanyService.php" />
+      <jump line="248" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
+      <jump line="249" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
+      <jump line="285" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
+      <jump line="37" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyStoreRequest.php" />
+      <jump line="37" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/CompanyStoreRequest.php" />
+      <jump line="323" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" />
+      <jump line="163" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/SourcesTableSeeder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +295,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Company::paginate(10);</text>
+        <text encoding="base64">JHRhYmxlLT50aW1lc3RhbXBzKCk7</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -324,58 +316,58 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>Company::paginate(10);</text>
+        <text encoding="base64">JHRhYmxlLT50aW1lc3RhbXBzKCk7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXNfZGVwX2lkc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2F1dGg6YXBpJyktPnBvc3QoJy9jb21wYW5pZXMnLCAnQ29tcGFueUNvbnRyb2xsZXJAc3RvcmUnKTs=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBEQjo6YmVnaW5UcmFuc2FjdGlvbigpOwogICAgICAgICAgICAkY29sdW1ucyA9IFsnbmFtZScsICdwcm9kdWN0JywgJ2J1ZGdldF9sZXZlbCcsICdpbmR1c3RyeV9pZCcsICdwcm92aW5jZV9pZCcsICdjaXR5X2lkJywgJ2Rpc3RyaWN0X2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2FkZHJlc3MnLCAnY29vcGVyYXRpb24nLCAncGFzdF9mcm9tJywgJ3NvdXJjZV9pZCcsICdpbnRyb2R1Y2VyX2lkJywgJ3R5cGUnXTsKICAgICAgICAgICAgZm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpIHsKICAgICAgICAgICAgICAgIGlmIChpbl9hcnJheSgka2V5LCAkY29sdW1ucykpIHsKICAgICAgICAgICAgICAgICAgICAkY29tcGFueS0+eyRrZXl9ID0gJHZhbHVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoISRjb21wYW55LT5pZCAmJiBpc3NldCgkZGF0YVsnaW50cm9kdWNlcl9pZCddKSAmJiAkaW50cm9kdWNlciA9IFVzZXI6OmZpbmQoJGRhdGFbJ2ludHJvZHVjZXJfaWQnXSkpIHsKICAgICAgICAgICAgICAgIE5vdGlmaWNhdGlvbjo6c2VuZCgkY29tcGFueSwgbmV3IENvbXBhbnlDcmVhdGVkKCRpbnRyb2R1Y2VyLCAkY29tcGFueSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAkY29tcGFueS0+bGFzdF9mb2xsb3dfYXQgPSBub3coKTsKICAgICAgICAgICAgJGNvbXBhbnktPnNhdmUoKTsKCiAgICAgICAgICAgIC8vIOWFs+iBlOWTgeeJjAogICAgICAgICAgICAkYnJhbmRJZHMgPSBpc3NldCgkZGF0YVsnYnJhbmRfaWRzJ10pID8gJGRhdGFbJ2JyYW5kX2lkcyddIDogW107CiAgICAgICAgICAgICRjb21wYW55LT5icmFuZHMoKS0+c3luYygkYnJhbmRJZHMpOwoKICAgICAgICAgICAgLy8g5YWz6IGU5Ymv6KGM5LiaCiAgICAgICAgICAgICRkZXB1dHlJbmR1c3RyeUlkcyA9IGlzc2V0KCRkYXRhWydkZXB1dHlfaW5kdXN0cnlfaWRzJ10pID8gJGRhdGFbJ2RlcHV0eV9pbmR1c3RyeV9pZHMnXSA6IFtdOwogICAgICAgICAgICAkY29tcGFueS0+ZGVwdXR5SW5kdXN0cmllcygpLT5zeW5jKCRkZXB1dHlJbmR1c3RyeUlkcyk7CgogICAgICAgICAgICAvLyDlhbPogZTnq57kuonlr7nmiYsKICAgICAgICAgICAgJGNvbXBldGl0b3JJZHMgPSBpc3NldCgkZGF0YVsnY29tcGV0aXRvcl9pZHMnXSkgPyAkZGF0YVsnY29tcGV0aXRvcl9pZHMnXSA6IFtdOwogICAgICAgICAgICAkY29tcGFueS0+Y29tcGV0aXRvcnMoKS0+c3luYygkY29tcGV0aXRvcklkcyk7CgogICAgICAgICAgICBEQjo6Y29tbWl0KCk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBEQjo6cm9sbEJhY2soKTsKICAgICAgICAgICAgdGhyb3cgJGU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ2RlcG9zaXQnKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5kZXBvc2l0ID0gJHJlcXVlc3QtPmlucHV0KCdkZXBvc2l0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ21pbmltdW1fb3JkZXJfcXVhbnRpdHknKSkgewogICAgICAgICAgICAgICAgJHJlc291cmNlLT5taW5pbXVtX29yZGVyX3F1YW50aXR5ID0gJHJlcXVlc3QtPmlucHV0KCdtaW5pbXVtX29yZGVyX3F1YW50aXR5Jyk7IC8vIOacgOWwj+iuoui0p+mHjyjljZXkvY3vvJrlpKkpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>poi_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBxdWVyeUNvbXBhbnkoJHBlclBhZ2UpCiAgICB7Ci8vICAgICAgICAkcXVlcnkgPSBDb21wYW55Ojp3aGVyZU51bGwoJ2RlbGV0ZWRfYXQnKTsKLy8gICAgICAgICRjb21wYW5pZXMgPSAkcXVlcnktPnBhZ2luYXRlKCRwZXJQYWdlKTsKLy8gICAgICAgICRjb21wYW5pZXMKICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIChjb2Rl54q25oCB56CB6KGoKSB7TnVtYmVyfSAgIC00MTcgICDmiYDpgInluLjnlKjniankuJropoHmsYLkuI3lrZjlnKgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcGFueURvLT5jcmVhdGVkQnkgPSAkdXNlcklkOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlc291cmNlc1xKc29uXEpzb25SZXN1bHRSZXNwb25zZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaWQgPSBBdXRoOjppZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVpcmVtZW50QXJyYXkgPSBqc29uX2RlY29kZSgkcmVxdWVzdC0+aW5wdXQoJ3JlcXVpcmVtZW50X2lkcycpKTsgLy8g54mp5Lia6KaB5rGCSUTmlbDnu4QKICAgICAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVtZW50QXJyYXkgYXMgJHJlcXVpcmVtZW50X2lkKSB7CiAgICAgICAgICAgICAgICAkcmVxdWlyZW1lbnQgPSBDb250cmFiYW5kOjpmaW5kKCRyZXF1aXJlbWVudF9pZCk7CiAgICAgICAgICAgICAgICBpZiAoIWNvdW50KCRyZXF1aXJlbWVudCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+ZmFpbChDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX0NPREUKICAgICAgICAgICAgICAgICAgICAgICAgLCBDb21tb25WYWx1ZTo6RVJST1JfUkVRVUlSRU1FTlRfTk9UX0VYSVNUX01TRyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPnJlcXVpcmVtZW50cygpLT5zYXZlKCRyZXF1aXJlbWVudCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaWQgPSBBdXRoOjppZCgpOwo=</text>
+        <text encoding="base64">ICAgIHVzZSBKc29uUmVzdWx0UmVzcG9uc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaWQgPSBBdXRoOjppZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXFZhbGlkYXRpb25cVmFsaWRhdG9yOwo=</text>
       </register>
       <register name="w" type="4">
         <text>最小订货量(单位：天)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tZXItPmJyYW5kcygpLT5zeW5jKCRjdXN0b21lckRPLT5icmFuZHMpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxWYWxpZGF0aW9uRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIGEgZmFpbGVkIHZhbGlkYXRpb24gYXR0ZW1wdC4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXFZhbGlkYXRpb25cVmFsaWRhdG9yICAkdmFsaWRhdG9yCiAgICAgKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZmFpbGVkVmFsaWRhdGlvbihWYWxpZGF0b3IgJHZhbGlkYXRvcikKICAgIHsKICAgICAgICB0aHJvdyBuZXcgVmFsaWRhdGlvbkV4Y2VwdGlvbigkdmFsaWRhdG9yKTsKICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>ERROR_LIMITED_AUTHORITY_CODE</text>
