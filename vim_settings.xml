@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EnterpriseDemandService.php" timestamp="1596195107136" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EnterpriseDemandService.php" timestamp="1596196493119" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" timestamp="1596189009566">
         <mark key="'" line="251" column="38" />
       </file>
@@ -125,13 +125,7 @@
         <mark key="^" line="41" column="114" />
         <mark key="." line="41" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/User.php" timestamp="1596187553511">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="27" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Enterprise/V1/OrderPostRequest.php" timestamp="1596196558096" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/V1.php" timestamp="1596188989422" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596187888503">
         <mark key="'" line="111" column="32" />
@@ -141,20 +135,16 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/CompanyController.php" timestamp="1596188594341" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/ModelHasRolesTableSeeder.php" timestamp="1596187837991" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_28_155822_create_model_has_roles_table.php" timestamp="1596187778201" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/LinhuiRolesTableSeeder.php" timestamp="1596187182043" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/composer.json" timestamp="1596187683921" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_28_155844_create_role_has_permissions_table.php" timestamp="1596187963299" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" timestamp="1596194090342">
         <mark key="'" line="366" column="51" />
       </file>
-      <file name="/PHP Console" timestamp="1596194094190">
+      <file name="/PHP Console" timestamp="1596196539780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/crm.php" timestamp="1596188946740" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Enterprise/V1/Demand/StoreRequest.php" timestamp="1596194070800" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/User.php" timestamp="1596187563251">
-        <mark key="'" line="70" column="84" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" timestamp="1596195059868">
         <mark key="'" line="24" column="13" />
         <mark key="[" line="16" column="62" />
@@ -162,10 +152,13 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/routes/Api/Enterprise/V1.php" timestamp="1596196523274" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/User.php" timestamp="1596188168585" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/OrderController.php" timestamp="1596196539218">
+        <mark key="'" line="75" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="677" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="38" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="70" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="7" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/Inner/Crm/CompanyIndexRequest.php" />
@@ -265,6 +258,7 @@
       <jump line="366" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
       <jump line="21" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
       <jump line="24" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
+      <jump line="75" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/OrderController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
