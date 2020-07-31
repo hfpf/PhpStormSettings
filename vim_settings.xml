@@ -107,6 +107,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Log/LogManager.php" timestamp="1596109019808">
+        <mark key="'" line="590" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" timestamp="1596101660700">
         <mark key="'" line="13" column="27" />
         <mark key="[" line="22" column="51" />
@@ -124,10 +127,8 @@
         <mark key="'" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Factory.php" timestamp="1596108600236" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Contact.php" timestamp="1596101520073">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/_ide_helper.php" timestamp="1596108928013">
+        <mark key="'" line="6335" column="53" />
       </file>
       <file name="/PHP Console" timestamp="1596101652845">
         <mark key="[" line="0" column="0" />
@@ -139,11 +140,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" timestamp="1596108643430">
         <mark key="'" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Collection.php" timestamp="1596101474841">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" timestamp="1596108809411">
         <mark key="'" line="218" column="37" />
       </file>
@@ -151,6 +147,9 @@
         <mark key="'" line="106" column="34" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="44" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UserStatistics.php" timestamp="1596108921622">
+        <mark key="'" line="44" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php" timestamp="1596108247565">
         <mark key="'" line="5" column="32" />
@@ -168,11 +167,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Repository.php" timestamp="1596108619954" />
     </filemarks>
     <jumps>
-      <jump line="17" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" />
-      <jump line="16" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Interfaces/Assembler/CompanyAssembler.php" />
-      <jump line="47" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
-      <jump line="19" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/factories/UserFactory.php" />
-      <jump line="17" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" />
       <jump line="4" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Middleware/Authenticate.php" />
       <jump line="41" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" />
       <jump line="45" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" />
@@ -268,6 +262,11 @@
       <jump line="15" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" />
       <jump line="6" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php" />
       <jump line="218" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
+      <jump line="44" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Console/Commands/UserStatistics.php" />
+      <jump line="6335" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/_ide_helper.php" />
+      <jump line="20" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Log/LogManager.php" />
+      <jump line="117" column="88" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Log/LogManager.php" />
+      <jump line="590" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Log/LogManager.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
