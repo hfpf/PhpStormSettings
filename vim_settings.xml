@@ -113,12 +113,12 @@
       <file name="/a.dummy" timestamp="1596184887109">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" timestamp="1596184920468">
-        <mark key="'" line="25" column="33" />
-        <mark key="[" line="25" column="50" />
-        <mark key="]" line="26" column="54" />
-        <mark key="^" line="26" column="54" />
-        <mark key="." line="26" column="53" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" timestamp="1596185066435">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596184649987">
         <mark key="[" line="317" column="32" />
@@ -128,17 +128,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/CrmReview.php" timestamp="1596184875864" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/helpers.php" timestamp="1596183559830" />
-      <file name="/PHP Console" timestamp="1596184955991">
+      <file name="/PHP Console" timestamp="1596185073225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/User.php" timestamp="1596183110367">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Http/Response.php" timestamp="1596183719084" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596184948969">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/LinhuiUsersTableSeeder.php" timestamp="1596185054740" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596185068952">
         <mark key="'" line="111" column="32" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="44" column="49" />
