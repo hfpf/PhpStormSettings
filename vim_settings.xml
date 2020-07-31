@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EnterpriseDemandService.php" timestamp="1596194471859" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EnterpriseDemandService.php" timestamp="1596195107136" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" timestamp="1596189009566">
         <mark key="'" line="251" column="38" />
       </file>
@@ -155,8 +155,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/User.php" timestamp="1596187563251">
         <mark key="'" line="70" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" timestamp="1596194952061">
-        <mark key="'" line="9" column="38" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" timestamp="1596195059868">
+        <mark key="'" line="24" column="13" />
         <mark key="[" line="16" column="62" />
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="14" />
@@ -165,8 +165,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/User.php" timestamp="1596188168585" />
     </filemarks>
     <jumps>
-      <jump line="734" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
-      <jump line="219" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" />
       <jump line="677" column="5" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="38" column="8" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
       <jump line="70" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" />
@@ -265,6 +263,8 @@
       <jump line="251" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" />
       <jump line="362" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
       <jump line="366" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
+      <jump line="21" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
+      <jump line="24" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
