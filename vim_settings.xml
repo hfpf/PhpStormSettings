@@ -167,6 +167,7 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/ContactService.php" timestamp="1596200704040" />
       <file name="/PHP Console" timestamp="1596200519672">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +184,6 @@
         <mark key="." line="98" column="18" />
         <mark key="^" line="98" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1596198564333" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" timestamp="1596200267112" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" timestamp="1596200208268">
         <mark key="'" line="109" column="54" />
