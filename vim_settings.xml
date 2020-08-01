@@ -120,13 +120,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" timestamp="1596198671698">
-        <mark key="'" line="15" column="37" />
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="48" />
-        <mark key="^" line="31" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" timestamp="1596200250826">
         <mark key="'" line="287" column="28" />
         <mark key="[" line="353" column="32" />
@@ -136,11 +129,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/TargetContactController.php" timestamp="1596200518335">
         <mark key="'" line="98" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" timestamp="1596198674349">
-        <mark key="'" line="111" column="32" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596199808435">
         <mark key="'" line="346" column="30" />
@@ -152,14 +140,9 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/Company.php" timestamp="1596199463861">
-        <mark key="'" line="129" column="49" />
-        <mark key="[" line="159" column="5" />
-        <mark key="]" line="160" column="4" />
-        <mark key="." line="160" column="3" />
-        <mark key="^" line="160" column="4" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Contract.php" timestamp="1596203947909">
+        <mark key="'" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/ContractsTableSeeder.php" timestamp="1596198659134" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Admin/ContactController.php" timestamp="1596200371697" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/routes/api.php" timestamp="1596200220717">
         <mark key="[" line="24" column="31" />
@@ -167,22 +150,27 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/ContactService.php" timestamp="1596200704040" />
-      <file name="/PHP Console" timestamp="1596200519672">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" timestamp="1596204188481">
+        <mark key="'" line="143" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596199317649">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ContactService.php" timestamp="1596203777855">
+        <mark key="'" line="181" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Services/ContactService.php" timestamp="1596200704040" />
+      <file name="/PHP Console" timestamp="1596204186371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1596200174020">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" timestamp="1596199455299">
-        <mark key="'" line="100" column="41" />
-        <mark key="[" line="97" column="54" />
-        <mark key="]" line="98" column="19" />
-        <mark key="." line="98" column="18" />
-        <mark key="^" line="98" column="19" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" timestamp="1596203834765">
+        <mark key="'" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" timestamp="1596204015330">
+        <mark key="'" line="394" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" timestamp="1596204185421">
+        <mark key="'" line="29" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" timestamp="1596200267112" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" timestamp="1596200208268">
@@ -194,20 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" />
-      <jump line="16" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/migrations/2020_07_28_155708_create_cities_table.php" />
-      <jump line="109" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/database/seeds/DatabaseSeeder.php" />
-      <jump line="30" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <jump line="74" column="16" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" />
-      <jump line="15" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/tests/Feature/Inner/Crm/CompanyControllerTest.php" />
-      <jump line="34" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" />
-      <jump line="8" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/User.php" />
-      <jump line="5" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/User.php" />
-      <jump line="14" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" />
-      <jump line="13" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/database/seeds/DatabaseSeeder.php" />
-      <jump line="33" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/tests/Feature/CompanyControllerTest.php" />
-      <jump line="26" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/CompanyController.php" />
-      <jump line="5" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/CompanyIndexRequest.php" />
       <jump line="7" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/CompanyIndexRequest.php" />
       <jump line="4" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/BaseRequest.php" />
       <jump line="7" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Requests/BaseRequest.php" />
@@ -294,6 +268,20 @@
       <jump line="17" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/StoreContact.php" />
       <jump line="25" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/ContactController.php" />
       <jump line="98" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/TargetContactController.php" />
+      <jump line="186" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="131" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" />
+      <jump line="181" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ContactService.php" />
+      <jump line="106" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" />
+      <jump line="9" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" />
+      <jump line="18" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="22" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="29" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="34" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="389" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="14" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Contract.php" />
+      <jump line="394" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" />
+      <jump line="29" column="65" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" />
+      <jump line="143" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
