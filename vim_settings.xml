@@ -107,6 +107,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1596627523815">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" timestamp="1596248846495">
         <mark key="'" line="143" column="15" />
       </file>
@@ -122,18 +125,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldRelation.php" timestamp="1596248336126">
         <mark key="'" line="35" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Traits/ModifyRecord.php" timestamp="1596253910859">
-        <mark key="'" line="42" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596627523815">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/CompanyService.php" timestamp="1596253267762" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/ContactSourceController.php" timestamp="1596594270583" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596253307914">
         <mark key="'" line="316" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/BoothController.php" timestamp="1596594328716" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" timestamp="1596253972624">
         <mark key="'" line="218" column="33" />
       </file>
@@ -143,8 +137,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/composer.json" timestamp="1597114131370" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" timestamp="1596253847575">
         <mark key="'" line="41" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Traits/ModifyRecord.php" timestamp="1596253910859">
+        <mark key="'" line="42" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/TableLogContent.php" timestamp="1596249671365">
         <mark key="'" line="9" column="19" />
@@ -161,7 +159,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Contract.php" timestamp="1596249513616">
         <mark key="'" line="304" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/common.php" timestamp="1596260300488" />
     </filemarks>
     <jumps>
       <jump line="32" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
