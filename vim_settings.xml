@@ -131,7 +131,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" timestamp="1596253847575">
         <mark key="'" line="41" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/spatie/laravel-permission/database/migrations/create_permission_tables.php.stub" timestamp="1597117551913" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/spatie/laravel-permission/database/migrations/create_permission_tables.php.stub" timestamp="1597117719030" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/model/Customer.php" timestamp="1596260444750">
         <mark key="'" line="389" column="18" />
       </file>
@@ -145,8 +145,8 @@
         <mark key="'" line="104" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiRole.php" timestamp="1597115833752" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" timestamp="1597117174174">
-        <mark key="'" line="44" column="21" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" timestamp="1597117819841">
+        <mark key="'" line="44" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -245,11 +245,11 @@
       <jump line="389" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/model/Customer.php" />
       <jump line="15" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" />
       <jump line="26" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" />
-      <jump line="44" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" />
       <jump line="104" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/RoleController.php" />
       <jump line="152" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/spatie/laravel-permission/src/Models/Role.php" />
       <jump line="15" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Role.php" />
       <jump line="6" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Role.php" />
+      <jump line="44" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
