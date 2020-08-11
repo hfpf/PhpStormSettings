@@ -137,23 +137,21 @@
         <mark key="'" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/spatie/laravel-permission/database/migrations/create_permission_tables.php.stub" timestamp="1597115678641" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" timestamp="1596248968897">
-        <mark key="'" line="29" column="88" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/model/Customer.php" timestamp="1596260444750">
         <mark key="'" line="389" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" timestamp="1597115714546" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" timestamp="1597115924881">
+        <mark key="'" line="26" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1596253891016">
         <mark key="'" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Contract.php" timestamp="1596249513616">
         <mark key="'" line="304" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/LinhuiRole.php" timestamp="1597115833752" />
     </filemarks>
     <jumps>
-      <jump line="32" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
-      <jump line="150" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Models/LinhuiUser.php" />
       <jump line="44" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/User.php" />
       <jump line="1518" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/User.php" />
       <jump line="70" column="84" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/User.php" />
@@ -252,6 +250,8 @@
       <jump line="218" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" />
       <jump line="139" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/controller/Customer.php" />
       <jump line="389" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/model/Customer.php" />
+      <jump line="15" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" />
+      <jump line="26" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
