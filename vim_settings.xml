@@ -110,9 +110,6 @@
       <file name="/Dummy.txt" timestamp="1596627523815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" timestamp="1596248846495">
-        <mark key="'" line="143" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/ContractService.php" timestamp="1596252977293">
         <mark key="'" line="58" column="27" />
         <mark key="[" line="57" column="54" />
@@ -122,20 +119,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/controller/Customer.php" timestamp="1596260408523">
         <mark key="'" line="139" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldRelation.php" timestamp="1596248336126">
-        <mark key="'" line="35" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/CompanyController.php" timestamp="1596253307914">
         <mark key="'" line="316" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/spatie/laravel-permission/config/permission.php" timestamp="1597115682757" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/ModifyRecord.php" timestamp="1596253972624">
         <mark key="'" line="218" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/BaseRecords.php" timestamp="1596248726199">
-        <mark key="'" line="42" column="29" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/composer.json" timestamp="1597114131370" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Record.php" timestamp="1596253847575">
@@ -147,12 +136,14 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/TableLogContent.php" timestamp="1596249671365">
         <mark key="'" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/spatie/laravel-permission/database/migrations/create_permission_tables.php.stub" timestamp="1597115678641" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" timestamp="1596248968897">
         <mark key="'" line="29" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/model/Customer.php" timestamp="1596260444750">
         <mark key="'" line="389" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" timestamp="1597115714546" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1596253891016">
         <mark key="'" line="11" column="25" />
       </file>
