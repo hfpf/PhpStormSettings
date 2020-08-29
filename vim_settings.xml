@@ -131,30 +131,38 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/Traits/ModifyRecord.php" timestamp="1596253910859">
         <mark key="'" line="42" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" timestamp="1598682642253">
+        <mark key="'" line="14" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/72crm/application/crm/model/Customer.php" timestamp="1596260444750">
         <mark key="'" line="389" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/config/permission.php" timestamp="1597115924881">
         <mark key="'" line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1598682903700">
+        <mark key="'" line="128" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1596253891016">
         <mark key="'" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" timestamp="1598681772629">
-        <mark key="'" line="20" column="28" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" timestamp="1598682609254">
+        <mark key="'" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/RoleController.php" timestamp="1597117212403">
         <mark key="'" line="104" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/AbstractModel.php" timestamp="1598682892676">
+        <mark key="'" line="5" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" timestamp="1597117819841">
         <mark key="'" line="44" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/Communities.php" timestamp="1598682645697">
+        <mark key="'" line="6" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
-      <jump line="366" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
-      <jump line="21" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
-      <jump line="24" column="13" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
       <jump line="75" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/OrderController.php" />
       <jump line="177" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/AuthController.php" />
       <jump line="198" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Enterprise/EnterpriseService.php" />
@@ -249,8 +257,12 @@
       <jump line="6" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Role.php" />
       <jump line="44" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" />
       <jump line="44" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/BoothController.php" />
-      <jump line="13" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="20" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
+      <jump line="13" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
+      <jump line="14" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" />
+      <jump line="6" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/Communities.php" />
+      <jump line="5" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/AbstractModel.php" />
+      <jump line="128" column="6" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
