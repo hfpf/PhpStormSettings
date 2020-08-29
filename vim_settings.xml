@@ -162,12 +162,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" timestamp="1598687034922">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="28" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" timestamp="1598688102844">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="20" column="52" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="20" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1598682903700">
         <mark key="'" line="128" column="6" />
