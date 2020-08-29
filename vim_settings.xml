@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXN0UHVzaGVkXD4=</entry>
         <entry>pos</entry>
         <entry>st</entry>
         <entry encoding="base64">XDx1c2VyX2lkc1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
         <entry encoding="base64">XDxNb2RlbFw+</entry>
+        <entry encoding="base64">XDxVc2VyUmVwb3NpdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>/var/const/gc</entry>
@@ -129,12 +129,6 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/composer.json" timestamp="1598684563940">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Providers/RepositoryServiceProvider.php" timestamp="1598692583347" />
       <file name="/Dummy.txt" timestamp="1598691844290">
         <mark key="[" line="0" column="0" />
@@ -148,6 +142,9 @@
       </file>
       <file name="/fragment.php" timestamp="1598685226394">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Domain/Users/Providers/RepositoryServiceProvider.php" timestamp="1598693488868">
+        <mark key="'" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/DataTransferObjects/CommunityDTO.php" timestamp="1598685554949">
         <mark key="[" line="15" column="38" />
@@ -169,19 +166,17 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" timestamp="1598693139861">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="7" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Http/Controllers/UserController.php" timestamp="1598693611275">
+        <mark key="'" line="93" column="26" />
       </file>
       <file name="/private/var/folders/ww/8lbytm9j2v17bcn12hc3qlr00000gn/T/ide-phpunit.php" timestamp="1598685192309" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/Communities.php" timestamp="1598684618074">
-        <mark key="'" line="6" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/TargetContactController.php" />
-      <jump line="7" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/StoreContact.php" />
       <jump line="17" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Requests/V1/StoreContact.php" />
       <jump line="25" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Controllers/ContactController.php" />
       <jump line="98" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Crm/TargetContactController.php" />
@@ -280,6 +275,8 @@
       <jump line="45" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Infrastructure/Abstracts/EloquentRepository.php" />
       <jump line="13" column="14" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Infrastructure/Abstracts/EloquentRepository.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Requests/Community/Admin/Create.php" />
+      <jump line="54" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Domain/Users/Providers/RepositoryServiceProvider.php" />
+      <jump line="93" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Http/Controllers/UserController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +309,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2RlbFw+</text>
+        <text encoding="base64">XDxVc2VyUmVwb3NpdG9yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzID0gJHRoaXMtPmNvbW11bml0eS0+Y3JlYXRlKCRjcmVhdGUtPmFsbCgpKTsK</text>
@@ -375,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNb2RlbFw+</last-search>
+      <last-search encoding="base64">XDxVc2VyUmVwb3NpdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2RlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxVc2VyUmVwb3NpdG9yeVw+</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
       <last-dir>-1</last-dir>
