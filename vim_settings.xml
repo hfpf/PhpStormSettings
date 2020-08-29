@@ -110,6 +110,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Requests/Community/Create.php" timestamp="1598693102218">
         <mark key="'" line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Entity/Community.php" timestamp="1598706198130">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Domain/Users/Repositories/EloquentUserRepository.php" timestamp="1598692298791" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Requests/Community/Admin/Create.php" timestamp="1598693090929">
         <mark key="'" line="29" column="0" />
@@ -130,7 +136,7 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Providers/RepositoryServiceProvider.php" timestamp="1598692583347" />
-      <file name="/Dummy.txt" timestamp="1598702592424">
+      <file name="/Dummy.txt" timestamp="1598706126495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Repositories/EloquentUserRepository.php" timestamp="1598692499327" />
@@ -139,9 +145,6 @@
         <mark key="]" line="40" column="30" />
         <mark key="^" line="40" column="30" />
         <mark key="." line="40" column="29" />
-      </file>
-      <file name="/fragment.php" timestamp="1598685226394">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Domain/Users/Providers/RepositoryServiceProvider.php" timestamp="1598693488868">
         <mark key="'" line="54" column="12" />
