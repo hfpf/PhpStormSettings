@@ -140,6 +140,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Company.php" timestamp="1596253891016">
         <mark key="'" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" timestamp="1598681772629">
+        <mark key="'" line="20" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/RoleController.php" timestamp="1597117212403">
         <mark key="'" line="104" column="18" />
       </file>
@@ -148,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
-      <jump line="251" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/DemandController.php" />
       <jump line="362" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
       <jump line="366" column="51" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Enterprise/V1/DemandController.php" />
       <jump line="21" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/crmServer/app/Http/Resources/V1/CompanyResource.php" />
@@ -248,6 +249,8 @@
       <jump line="6" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Role.php" />
       <jump line="44" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Admin/AdminController.php" />
       <jump line="44" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/BoothController.php" />
+      <jump line="13" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
+      <jump line="20" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
