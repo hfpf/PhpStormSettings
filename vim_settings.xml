@@ -129,9 +129,6 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/AbstractModel.php" timestamp="1598682892676">
-        <mark key="'" line="5" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/composer.json" timestamp="1598684563940">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
@@ -141,7 +138,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1598683030165">
         <mark key="'" line="190" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598690297169">
+      <file name="/Dummy.txt" timestamp="1598691844290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsTo.php" timestamp="1598683118689">
