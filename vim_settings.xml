@@ -108,12 +108,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Repositories/EloquentRepository.php" timestamp="1598717829629" />
+      <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/routes/Backend/Access.php" timestamp="1598750979749" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" timestamp="1598750526637">
         <mark key="'" line="10" column="30" />
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="23" />
         <mark key="^" line="14" column="4" />
         <mark key="." line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/Frontend/Appliance/ApplianceRepository.php" timestamp="1598751197954">
+        <mark key="'" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/composer.json" timestamp="1598711660425">
         <mark key="[" line="10" column="21" />
@@ -133,9 +137,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1598710972697">
         <mark key="'" line="742" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Requests/Community/Create.php" timestamp="1598693102218">
-        <mark key="'" line="28" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/User.php" timestamp="1598716753683">
         <mark key="'" line="5" column="33" />
       </file>
@@ -146,14 +147,6 @@
         <mark key="." line="8" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.env.testing" timestamp="1598712903971" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Requests/Community/Admin/Create.php" timestamp="1598693090929">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/artisan" timestamp="1598692873070" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" timestamp="1598750488842">
         <mark key="'" line="23" column="41" />
         <mark key="[" line="26" column="0" />
@@ -164,8 +157,8 @@
       <file name="/Dummy.txt" timestamp="1598711593945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/modular-structure/app/Domain/Users/Providers/RepositoryServiceProvider.php" timestamp="1598693488868">
-        <mark key="'" line="54" column="12" />
+      <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/BaseRepository.php" timestamp="1598751025261">
+        <mark key="'" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" timestamp="1598716756107">
         <mark key="'" line="13" column="21" />
@@ -184,16 +177,15 @@
         <mark key="." line="22" column="43" />
         <mark key="^" line="22" column="44" />
       </file>
+      <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Http/Controllers/Backend/Access/Role/RoleController.php" timestamp="1598751007599">
+        <mark key="'" line="93" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Http/Controllers/UserController.php" timestamp="1598746479674">
         <mark key="'" line="106" column="45" />
       </file>
-      <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Http/Controllers/Frontend/Appliance/ApplianceController.php" timestamp="1598750848392" />
+      <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Http/Controllers/Frontend/Appliance/ApplianceController.php" timestamp="1598750855568" />
     </filemarks>
     <jumps>
-      <jump line="30" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldRelation.php" />
-      <jump line="35" column="37" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldRelation.php" />
-      <jump line="98" column="69" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" />
-      <jump line="90" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" />
       <jump line="16" column="12" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Records/FieldMapping.php" />
       <jump line="15" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" />
       <jump line="70" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/BaseRecords.php" />
@@ -290,6 +282,10 @@
       <jump line="23" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="21" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="10" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" />
+      <jump line="93" column="25" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Http/Controllers/Backend/Access/Role/RoleController.php" />
+      <jump line="14" column="22" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/BaseRepository.php" />
+      <jump line="20" column="36" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/Frontend/Appliance/ApplianceRepository.php" />
+      <jump line="47" column="33" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/Frontend/Appliance/ApplianceRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
