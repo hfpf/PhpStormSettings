@@ -107,9 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1598711593945">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/BaseRepository.php" timestamp="1598751025261">
         <mark key="'" line="14" column="22" />
       </file>
@@ -120,26 +117,28 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/composer.json" timestamp="1598711660425">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Repositories/EloquentUserRepository.php" timestamp="1598717823772">
         <mark key="'" line="64" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/User.php" timestamp="1598716753683">
         <mark key="'" line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Entity/Community.php" timestamp="1598855882029">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" timestamp="1598716756107">
         <mark key="'" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" timestamp="1598716889230">
-        <mark key="'" line="10" column="40" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/database/migrations/2020_08_26_073741_create_communities_table.php" timestamp="1598855901038" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" timestamp="1598856024888">
+        <mark key="'" line="12" column="34" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/DataTransferObjects/CommunityDTO.php" timestamp="1598751427564">
         <mark key="[" line="15" column="38" />
@@ -150,14 +149,14 @@
       <file name="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/Frontend/Appliance/ApplianceRepository.php" timestamp="1598751197954">
         <mark key="'" line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" timestamp="1598855095534">
-        <mark key="'" line="12" column="42" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" timestamp="1598855738850">
+        <mark key="'" line="15" column="31" />
         <mark key="[" line="15" column="9" />
         <mark key="]" line="15" column="15" />
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" timestamp="1598754529351">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" timestamp="1598855701600">
         <mark key="'" line="42" column="82" />
         <mark key="[" line="32" column="23" />
         <mark key="]" line="32" column="24" />
@@ -186,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" />
       <jump line="72" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/BaseRecords.php" />
       <jump line="14" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" />
       <jump line="23" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Models/Records/Contact.php" />
@@ -268,12 +266,10 @@
       <jump line="8" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/User.php" />
       <jump line="5" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/User.php" />
       <jump line="13" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" />
-      <jump line="10" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" />
       <jump line="106" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Http/Controllers/UserController.php" />
       <jump line="64" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/laravel-api-templates/default-structure/app/Repositories/EloquentUserRepository.php" />
       <jump line="14" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="14" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
-      <jump line="15" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
       <jump line="23" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="21" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="10" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" />
@@ -281,11 +277,14 @@
       <jump line="14" column="22" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/BaseRepository.php" />
       <jump line="20" column="36" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/Frontend/Appliance/ApplianceRepository.php" />
       <jump line="47" column="33" filename="$USER_HOME$/Downloads/ddd-laravel-sample-master/app/Repositories/Frontend/Appliance/ApplianceRepository.php" />
-      <jump line="12" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
       <jump line="26" column="36" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="39" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" />
       <jump line="42" column="82" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Server/Community/CommunityService.php" />
       <jump line="22" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
+      <jump line="12" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
+      <jump line="15" column="31" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
+      <jump line="10" column="55" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" />
+      <jump line="12" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
