@@ -117,12 +117,6 @@
       <file name="/a.dummy" timestamp="1598962026033">
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Person/Entity/Person.php" timestamp="1598932850537">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Entities/Community.php" timestamp="1598961757178">
         <mark key="'" line="21" column="12" />
         <mark key="[" line="10" column="15" />
@@ -160,6 +154,7 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1599017134862" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/MapApplicationService.php" timestamp="1598952761670">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="42" />
