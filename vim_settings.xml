@@ -108,6 +108,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/KunLun/UserApplicationService.php" timestamp="1599131733875" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/Account/AccountApplicationService.php" timestamp="1599133085720">
+        <mark key="'" line="25" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/routes/Account/api.php" timestamp="1599132636984">
         <mark key="'" line="19" column="55" />
       </file>
@@ -124,7 +127,9 @@
       <file name="/Dummy.txt" timestamp="1599125827854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryTestCaseSetUp.php" timestamp="1599123890910" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/AccountController.php" timestamp="1599133081690">
+        <mark key="'" line="36" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1599124449684">
         <mark key="'" line="421" column="15" />
       </file>
@@ -142,7 +147,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" timestamp="1599125033534">
         <mark key="'" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryTestCase.php" timestamp="1599123900137" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/routes/kunlun/api.php" timestamp="1599125970610" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/PointMenuController.php" timestamp="1599133039242">
         <mark key="'" line="65" column="62" />
@@ -164,8 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Models/Community/Communities.php" />
-      <jump line="25" column="35" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="11" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Repository/CommunityRepository.php" />
       <jump line="44" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Entity/Community.php" />
       <jump line="21" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
@@ -264,6 +266,8 @@
       <jump line="62" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/PointMenuController.php" />
       <jump line="68" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/PointMenuController.php" />
       <jump line="65" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/PointMenuController.php" />
+      <jump line="36" column="64" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/AccountController.php" />
+      <jump line="25" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/Account/AccountApplicationService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
