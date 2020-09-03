@@ -107,7 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/KunLun/UserApplicationService.php" timestamp="1599131733875" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/Account/AccountApplicationService.php" timestamp="1599133085720">
         <mark key="'" line="25" column="38" />
       </file>
@@ -116,6 +115,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599135356041">
         <mark key="'" line="38" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/CommunityController.php" timestamp="1599137127607">
+        <mark key="'" line="341" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/SellingResourceController.php" timestamp="1599137184477">
+        <mark key="'" line="727" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Account/ServiceQuery/PointMenuService.php" timestamp="1599134712679">
         <mark key="'" line="29" column="45" />
@@ -153,9 +158,6 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/KunLun/UserController.php" timestamp="1599126180030">
-        <mark key="'" line="48" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" timestamp="1599135363597">
         <mark key="'" line="11" column="34" />
       </file>
@@ -179,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
-      <jump line="48" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Providers/RouteServiceProvider.php" />
       <jump line="20" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" />
       <jump line="7" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" />
       <jump line="19" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
@@ -279,6 +279,8 @@
       <jump line="4" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/TestCase.php" />
       <jump line="17" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" />
       <jump line="83" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/BoothController.php" />
+      <jump line="341" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/CommunityController.php" />
+      <jump line="727" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/SellingResourceController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
