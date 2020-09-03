@@ -124,9 +124,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/Account/PointMenuApplicationService.php" timestamp="1599135116363">
         <mark key="'" line="31" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599125827854">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothService.php" timestamp="1599136898293" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/AccountController.php" timestamp="1599133081690">
         <mark key="'" line="36" column="64" />
       </file>
@@ -143,6 +141,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Account/Service/PointMenuService.php" timestamp="1599135121895">
         <mark key="'" line="38" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/BoothController.php" timestamp="1599136916067">
+        <mark key="'" line="83" column="46" />
+        <mark key="[" line="83" column="44" />
+        <mark key="]" line="83" column="44" />
+        <mark key="." line="83" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" timestamp="1599135196616">
         <mark key="'" line="29" column="46" />
         <mark key="]" line="17" column="58" />
@@ -155,7 +159,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" timestamp="1599135363597">
         <mark key="'" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/routes/kunlun/api.php" timestamp="1599125970610" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" timestamp="1599135369618">
         <mark key="'" line="17" column="30" />
       </file>
@@ -176,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
       <jump line="33" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
       <jump line="48" column="15" filename="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/Providers/RouteServiceProvider.php" />
       <jump line="20" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" />
@@ -276,6 +278,7 @@
       <jump line="11" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
       <jump line="4" column="40" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/TestCase.php" />
       <jump line="17" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" />
+      <jump line="83" column="46" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/BoothController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,7 +287,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Commun</text>
+        <text>t</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -305,7 +308,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>Commun</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZXNcPg==</text>
