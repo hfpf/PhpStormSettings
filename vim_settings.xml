@@ -107,24 +107,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599138556979">
-        <mark key="'" line="38" column="25" />
-      </file>
-      <file name="/PHP Console" timestamp="1599190626298">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/CommunityController.php" timestamp="1599137127607">
-        <mark key="'" line="341" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/SellingResourceController.php" timestamp="1599137184477">
         <mark key="'" line="727" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/composer.json" timestamp="1599211606257" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/Account/PointMenuApplicationService.php" timestamp="1599135116363">
-        <mark key="'" line="31" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1599211639657">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothService.php" timestamp="1599136898293" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/composer.json" timestamp="1599198981451">
@@ -134,9 +118,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/ErrorCode/CommunityEnum.php" timestamp="1599212042015">
         <mark key="'" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Approval/ApprovalController.php" timestamp="1599183735463">
-        <mark key="'" line="222" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" timestamp="1599135206966">
         <mark key="'" line="13" column="24" />
@@ -157,17 +138,44 @@
         <mark key="]" line="83" column="44" />
         <mark key="." line="83" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" timestamp="1599135196616">
-        <mark key="'" line="29" column="46" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="57" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" timestamp="1599135363597">
         <mark key="'" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php" timestamp="1599135369618">
         <mark key="'" line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Repository/MemoryCommunityRepository.php" timestamp="1599135342409">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599138556979">
+        <mark key="'" line="38" column="25" />
+      </file>
+      <file name="/PHP Console" timestamp="1599190626298">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Api/CustomerFlowController.php" timestamp="1599213292574">
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="38" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="68" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/CommunityController.php" timestamp="1599137127607">
+        <mark key="'" line="341" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/composer.json" timestamp="1599211606257" />
+      <file name="/Dummy.txt" timestamp="1599211639657">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Approval/ApprovalController.php" timestamp="1599183735463">
+        <mark key="'" line="222" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" timestamp="1599135196616">
+        <mark key="'" line="29" column="46" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Account/Admin/PointMenuController.php" timestamp="1599135155644">
         <mark key="'" line="47" column="58" />
@@ -175,11 +183,6 @@
         <mark key="]" line="60" column="23" />
         <mark key="^" line="60" column="23" />
         <mark key="." line="60" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Repository/MemoryCommunityRepository.php" timestamp="1599135342409">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
