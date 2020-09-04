@@ -107,6 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599221546360" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/SellingResourceController.php" timestamp="1599137184477">
         <mark key="'" line="727" column="44" />
       </file>
@@ -129,9 +130,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/TestCase.php" timestamp="1599135365442">
         <mark key="'" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Account/Service/PointMenuService.php" timestamp="1599135121895">
-        <mark key="'" line="38" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/BoothController.php" timestamp="1599136916067">
         <mark key="'" line="83" column="46" />
         <mark key="[" line="83" column="44" />
@@ -152,7 +150,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599138556979">
         <mark key="'" line="38" column="25" />
       </file>
-      <file name="/PHP Console" timestamp="1599213433447">
+      <file name="/PHP Console" timestamp="1599221220539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Api/CustomerFlowController.php" timestamp="1599213292574">
