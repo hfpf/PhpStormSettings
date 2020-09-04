@@ -130,6 +130,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothService.php" timestamp="1599136898293" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/composer.json" timestamp="1599198981451">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Approval/ApprovalController.php" timestamp="1599183735463">
         <mark key="'" line="222" column="19" />
       </file>
@@ -170,9 +175,6 @@
         <mark key="]" line="60" column="23" />
         <mark key="^" line="60" column="23" />
         <mark key="." line="60" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/ServiceQuery/Account/PointMenuApplicationService.php" timestamp="1599134709199">
-        <mark key="'" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Repository/MemoryCommunityRepository.php" timestamp="1599135342409">
         <mark key="[" line="18" column="0" />
