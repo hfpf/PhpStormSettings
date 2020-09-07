@@ -115,7 +115,7 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599458272166">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599463985668">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="12" />
         <mark key="^" line="5" column="12" />
@@ -144,9 +144,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/SellingResourceController.php" timestamp="1599137184477">
         <mark key="'" line="727" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/CommunityController.php" timestamp="1599137127607">
-        <mark key="'" line="341" column="41" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1599462981248" />
       <file name="/Dummy.txt" timestamp="1599462074102">
         <mark key="[" line="0" column="0" />
       </file>
