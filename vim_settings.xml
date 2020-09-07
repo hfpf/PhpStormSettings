@@ -115,7 +115,7 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599458131186">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599458272166">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="12" />
         <mark key="^" line="5" column="12" />
@@ -131,7 +131,7 @@
         <mark key="^" line="55" column="14" />
         <mark key="." line="55" column="13" />
       </file>
-      <file name="/PHP Console" timestamp="1599458060265">
+      <file name="/PHP Console" timestamp="1599458333201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/composer.json" timestamp="1599458116086" />
@@ -147,7 +147,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/V1/CommunityController.php" timestamp="1599137127607">
         <mark key="'" line="341" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599457740905">
+      <file name="/Dummy.txt" timestamp="1599458341157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.unit_test" timestamp="1599457614300" />
@@ -163,12 +163,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Approval/ApprovalController.php" timestamp="1599183735463">
         <mark key="'" line="222" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/BoothController.php" timestamp="1599136916067">
-        <mark key="'" line="83" column="46" />
-        <mark key="[" line="83" column="44" />
-        <mark key="]" line="83" column="44" />
-        <mark key="." line="83" column="44" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1599458305950" />
     </filemarks>
     <jumps>
       <jump line="19" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
