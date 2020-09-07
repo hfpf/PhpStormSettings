@@ -122,6 +122,12 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Approval/ApprovalController.php" timestamp="1599183735463">
         <mark key="'" line="222" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.unit_test" timestamp="1599457486384">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" timestamp="1599135206966">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="32" column="8" />
@@ -143,12 +149,6 @@
         <mark key="[" line="83" column="44" />
         <mark key="]" line="83" column="44" />
         <mark key="." line="83" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" timestamp="1599135196616">
-        <mark key="'" line="29" column="46" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599138556979">
         <mark key="'" line="38" column="25" />
@@ -289,7 +289,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>laravel</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -310,7 +310,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>laravel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZXNcPg==</text>
