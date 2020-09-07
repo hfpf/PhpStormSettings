@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599450333205">
+      <file name="/Dummy.txt" timestamp="1599451235627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/composer.json" timestamp="1599198981451">
@@ -130,6 +130,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/TestCase.php" timestamp="1599135365442">
         <mark key="'" line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599451003178">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/BoothController.php" timestamp="1599136916067">
         <mark key="'" line="83" column="46" />
