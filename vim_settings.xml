@@ -122,11 +122,11 @@
         <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1599458218916" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/AddDatabase.php" timestamp="1599531987713">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="48" />
-        <mark key="^" line="13" column="49" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/AddDatabase.php" timestamp="1599531997876">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599138556979">
         <mark key="'" line="38" column="25" />
@@ -275,7 +275,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>Command</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -296,7 +296,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>Command</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZXNcPg==</text>
