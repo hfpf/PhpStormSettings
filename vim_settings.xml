@@ -122,6 +122,12 @@
         <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1599458218916" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/AddDatabase.php" timestamp="1599531987713">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithContainer.php" timestamp="1599138556979">
         <mark key="'" line="38" column="25" />
       </file>
@@ -131,7 +137,7 @@
         <mark key="^" line="49" column="110" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1599458333201">
+      <file name="/PHP Console" timestamp="1599531967040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/composer.json" timestamp="1599458116086" />
@@ -140,9 +146,6 @@
         <mark key="]" line="68" column="38" />
         <mark key="^" line="68" column="38" />
         <mark key="." line="68" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/SellingResourceController.php" timestamp="1599137184477">
-        <mark key="'" line="727" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1599462981248" />
       <file name="/Dummy.txt" timestamp="1599462074102">
@@ -271,8 +274,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybDogaHR0cDovL2xvY2F0aW9uLmxpbmh1aS5jb20K</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -293,7 +296,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>develop</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZXNcPg==</text>
