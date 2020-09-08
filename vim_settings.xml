@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21wYW55SW5kZXhSZXNvdXJjZUNvbGxlY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxTdG9yZVw+</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry encoding="base64">XDxTdG9yZUNvbnRhY3RcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpbnN0YW5jZXNcPg==</entry>
         <entry encoding="base64">XDxzZWVkX2RiXD4=</entry>
         <entry encoding="base64">XDxicmFuY2hcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVfZW52XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/var/const/c</entry>
@@ -109,7 +109,7 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env" timestamp="1599457712067" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/resources/lang/en/enums.php" timestamp="1599457211548" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.unit_test" timestamp="1599457713741">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.unit_test" timestamp="1599553455487">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="59" />
         <mark key="." line="2" column="58" />
@@ -138,6 +138,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/composer.json" timestamp="1599458116086" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.testing" timestamp="1599553467962">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Api/CustomerFlowController.php" timestamp="1599213292574">
         <mark key="[" line="68" column="33" />
         <mark key="]" line="68" column="38" />
@@ -158,19 +164,15 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/ErrorCode/CommunityEnum.php" timestamp="1599212042015">
         <mark key="'" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1599552018405">
-        <mark key="'" line="17" column="29" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1599553410837">
+        <mark key="'" line="10" column="4" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/Approval/ApprovalController.php" timestamp="1599183735463">
-        <mark key="'" line="222" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1599458305950" />
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Models/Community/CommunityModel.php" />
       <jump line="22" column="60" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="1202" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="1173" column="45" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -270,6 +272,7 @@
       <jump line="20" column="48" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
       <jump line="19" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
       <jump line="17" column="29" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,8 +280,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>locai</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -299,10 +302,10 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>Command</text>
+        <text>locai</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicmFuY2hcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVfZW52XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY29tbXVuaXR5LT5zZXROYW1lKCRjb21tdW5pdHlNb2RlbC0+bmFtZSk7Cg==</text>
@@ -365,12 +368,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxicmFuY2hcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfZW52XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxicmFuY2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfZW52XD4=</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
