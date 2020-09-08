@@ -128,6 +128,7 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.testing" timestamp="1599554148427" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599551863132">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -138,11 +139,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/composer.json" timestamp="1599458116086" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.testing" timestamp="1599553467962">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.testing" timestamp="1599554125419">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Api/CustomerFlowController.php" timestamp="1599213292574">
         <mark key="[" line="68" column="33" />
@@ -150,20 +151,19 @@
         <mark key="^" line="68" column="38" />
         <mark key="." line="68" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.integration" timestamp="1599554254478">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="48" column="33" />
+        <mark key="^" line="48" column="33" />
+        <mark key="." line="48" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1599554249743" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1599462981248" />
       <file name="/Dummy.txt" timestamp="1599551468908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.unit_test" timestamp="1599457614300" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/composer.json" timestamp="1599198981451">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1599458122428" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy2/location/app/ErrorCode/CommunityEnum.php" timestamp="1599212042015">
-        <mark key="'" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1599553410837">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="16" column="0" />
@@ -281,7 +281,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>locai</text>
+        <text>localhost</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -302,7 +302,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>locai</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVfZW52XD4=</text>
