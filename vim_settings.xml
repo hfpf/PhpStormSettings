@@ -113,7 +113,7 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/config/database.php" timestamp="1599643634838" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/config/database.php" timestamp="1599644388297" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599467834336">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="12" />
@@ -130,11 +130,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" timestamp="1599641054523">
         <mark key="'" line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599642300865">
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="45" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="45" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599645015535">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="48" />
+        <mark key="^" line="32" column="48" />
+        <mark key="." line="32" column="47" />
       </file>
       <file name="/PHP Console" timestamp="1599620905580">
         <mark key="[" line="0" column="0" />
@@ -155,10 +155,13 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1599555325931" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Dockerfile" timestamp="1599629809121" />
-      <file name="/Dummy.txt" timestamp="1599642320323">
+      <file name="/Dummy.txt" timestamp="1599645022438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/CreateDb.php" timestamp="1599648214801">
+        <mark key="'" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/routes/web.php" timestamp="1599631351607">
         <mark key="[" line="14" column="0" />
@@ -181,10 +184,8 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1599458305950" />
     </filemarks>
     <jumps>
-      <jump line="253" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="1155" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="1186" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="14" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php" />
@@ -284,6 +285,7 @@
       <jump line="65" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
       <jump line="63" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
       <jump line="5" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" />
+      <jump line="45" column="22" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/CreateDb.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
