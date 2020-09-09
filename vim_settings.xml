@@ -107,11 +107,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/MySqlPlatform.php" timestamp="1599649216205" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/MySqlPlatform.php" timestamp="1599649640438" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" timestamp="1599649541471">
         <mark key="'" line="54" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/config/database.php" timestamp="1599644388297" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/config/database.php" timestamp="1599649803324" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" timestamp="1599641054523">
         <mark key="'" line="5" column="58" />
       </file>
@@ -140,7 +140,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/CreateDb.php" timestamp="1599649081334">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/CreateDb.php" timestamp="1599651703684">
         <mark key="'" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/routes/web.php" timestamp="1599631351607">
