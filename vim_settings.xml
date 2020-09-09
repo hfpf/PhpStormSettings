@@ -107,7 +107,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env" timestamp="1599457712067" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.unit_test" timestamp="1599553455487">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="59" />
@@ -144,8 +143,9 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/server.php" timestamp="1599634108194" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.integration" timestamp="1599630829725">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/server.php" timestamp="1599636165847" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2020_08_31_145834_create_permission_tables.php" timestamp="1599636189095" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.integration" timestamp="1599636289227">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="48" column="33" />
         <mark key="^" line="48" column="33" />
