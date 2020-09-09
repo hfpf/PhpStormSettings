@@ -113,13 +113,13 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/config/database.php" timestamp="1599641402184" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1599467834336">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="12" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1599458218916" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/AddDatabase.php" timestamp="1599531997876">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="31" />
@@ -127,16 +127,18 @@
         <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.testing" timestamp="1599554148427" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599637806799">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="14" />
-        <mark key="^" line="55" column="14" />
-        <mark key="." line="55" column="13" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" timestamp="1599641054523">
+        <mark key="'" line="5" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599641478779">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="45" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="45" />
       </file>
       <file name="/PHP Console" timestamp="1599620905580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/composer.json" timestamp="1599458116086" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.testing" timestamp="1599554125419">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="35" />
@@ -182,7 +184,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpunit.xml" timestamp="1599458305950" />
     </filemarks>
     <jumps>
-      <jump line="126" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="253" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="1155" column="27" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="1186" column="41" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -282,6 +283,7 @@
       <jump line="14" column="33" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Dockerfile" />
       <jump line="65" column="34" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
       <jump line="63" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" />
+      <jump line="5" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,8 +291,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,dazheng,abc</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -311,7 +313,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>on_success</text>
+        <text>,dazheng,abc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVfZW52XD4=</text>
