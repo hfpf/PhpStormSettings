@@ -167,7 +167,7 @@
         <mark key="." line="26" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php" timestamp="1599649404969" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.gitlab-ci.yml" timestamp="1599816293183" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/.gitlab-ci.yml" timestamp="1599822202986" />
     </filemarks>
     <jumps>
       <jump line="350" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Form/CommunityStore.php" />
