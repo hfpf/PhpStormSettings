@@ -115,7 +115,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/CreateDb.php" timestamp="1599651724827">
         <mark key="'" line="45" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/AMapService.php" timestamp="1599910747738" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" timestamp="1599649541471">
         <mark key="'" line="54" column="24" />
       </file>
@@ -134,6 +133,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" timestamp="1599649555001">
         <mark key="'" line="422" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1600071699625">
+        <mark key="'" line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" timestamp="1599641054523">
         <mark key="'" line="5" column="58" />
@@ -162,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="10" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Form/CommunityStore.php" />
       <jump line="6" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Form/CommunityStore.php" />
       <jump line="15" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Form/BaseFormParameter.php" />
       <jump line="890" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CommunityController.php" />
@@ -262,6 +263,7 @@
       <jump line="577" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
       <jump line="54" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" />
       <jump line="422" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
+      <jump line="21" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
