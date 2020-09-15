@@ -131,6 +131,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpcs.xml" timestamp="1600148294325" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" timestamp="1599649555001">
         <mark key="'" line="422" column="53" />
       </file>
