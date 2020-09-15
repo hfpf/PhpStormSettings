@@ -124,7 +124,7 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1600152436039">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1600155258853">
         <mark key="'" line="63" column="7" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="4" />
@@ -154,9 +154,13 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Middleware/Authenticate.php" timestamp="1600157106029">
+        <mark key="'" line="51" column="21" />
+      </file>
       <file name="/PHP Console" timestamp="1599620905580">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1600157132678" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.integration" timestamp="1599636289227">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="48" column="33" />
@@ -166,7 +170,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Controllers/Account/PointBillController.php" timestamp="1600148532267" />
     </filemarks>
     <jumps>
-      <jump line="6" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Form/CommunityStore.php" />
       <jump line="15" column="19" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/Form/BaseFormParameter.php" />
       <jump line="890" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CommunityController.php" />
       <jump line="955" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CommunityController.php" />
@@ -266,6 +269,7 @@
       <jump line="54" column="24" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" />
       <jump line="422" column="53" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
       <jump line="21" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" />
+      <jump line="51" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Middleware/Authenticate.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
