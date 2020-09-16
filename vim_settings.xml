@@ -107,6 +107,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" timestamp="1600241582986">
+        <mark key="'" line="77" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1600071699625">
+        <mark key="'" line="21" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1600236120563" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ApprovalFlowController.php" timestamp="1600241016017">
+        <mark key="'" line="74" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599811580373">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/PayController.php" timestamp="1600235566415">
+        <mark key="'" line="37" column="21" />
+      </file>
+      <file name="/PHP Console" timestamp="1600157621538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1600241163378" />
       <file name="/Dummy.txt" timestamp="1599719857758">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -114,9 +137,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Console/Commands/CreateDb.php" timestamp="1599651724827">
         <mark key="'" line="45" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php" timestamp="1599649541471">
-        <mark key="'" line="54" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1600155258853">
         <mark key="'" line="63" column="7" />
@@ -127,16 +147,7 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/phpcs.xml" timestamp="1600148294325" />
       <file name="/PointMenuTest.php" timestamp="1600172646802" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" timestamp="1599649555001">
-        <mark key="'" line="422" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1600071699625">
-        <mark key="'" line="21" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/readme.md" timestamp="1600236120563" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" timestamp="1599641054523">
-        <mark key="'" line="5" column="58" />
-      </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/BoothOccupationService.php" timestamp="1600240835697" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Dockerfile" timestamp="1599719854354">
         <mark key="'" line="14" column="33" />
         <mark key="[" line="26" column="10" />
@@ -144,36 +155,13 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.gitlab-ci.yml" timestamp="1599811580373">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="4" />
-        <mark key="^" line="44" column="4" />
-        <mark key="." line="44" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Middleware/Authenticate.php" timestamp="1600157106029">
         <mark key="'" line="51" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/PayController.php" timestamp="1600235566415">
-        <mark key="'" line="37" column="21" />
-      </file>
-      <file name="/PHP Console" timestamp="1600157621538">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1600157132678" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/.env.integration" timestamp="1599636289227">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="48" column="33" />
-        <mark key="^" line="48" column="33" />
-        <mark key="." line="48" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Controllers/Account/PointBillController.php" timestamp="1600148532267" />
     </filemarks>
     <jumps>
-      <jump line="890" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CommunityController.php" />
-      <jump line="955" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CommunityController.php" />
-      <jump line="25" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Entity/Community.php" />
-      <jump line="1212" column="44" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Controllers/Api/Inner/V1/CommunityController.php" />
-      <jump line="21" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Entity/ValueObject/Publisher.php" />
       <jump line="24" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
       <jump line="14" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
@@ -269,6 +257,11 @@
       <jump line="21" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" />
       <jump line="51" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Middleware/Authenticate.php" />
       <jump line="37" column="21" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/PayController.php" />
+      <jump line="74" column="59" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ApprovalFlowController.php" />
+      <jump line="30" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" />
+      <jump line="39" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" />
+      <jump line="55" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" />
+      <jump line="77" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
