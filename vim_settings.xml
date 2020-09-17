@@ -125,6 +125,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/sentry.php" timestamp="1600325837524" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" timestamp="1600071699625">
         <mark key="'" line="21" column="52" />
       </file>
