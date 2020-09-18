@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdG9yZUNvbnRhY3RcPg==</entry>
-        <entry encoding="base64">XDxmaWVsZFw+</entry>
         <entry encoding="base64">XDxmaWVsZFR5cGVcPg==</entry>
         <entry encoding="base64">XDxyZWNvcmRNYXBwaW5nc1w+</entry>
         <entry encoding="base64">XDxjdXN0b21TZXhEaXNwbGF5XD4=</entry>
@@ -25,6 +23,8 @@
         <entry>1.0.2</entry>
         <entry encoding="base64">XDxzdGFnZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVfZW52XD4=</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/var/const/c</entry>
@@ -110,6 +110,9 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" timestamp="1600241722496">
         <mark key="'" line="77" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1600429410586">
+        <mark key="'" line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/sentry.php" timestamp="1600325837524" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/deployment/v1.6.1-deploy.sh" timestamp="1600419697399" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ApprovalFlowController.php" timestamp="1600241016017">
@@ -126,12 +129,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/Envoy.blade.php" timestamp="1600155258853">
-        <mark key="'" line="63" column="7" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="4" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" timestamp="1600429162439">
+        <mark key="'" line="94" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Middleware/Authenticate.php" timestamp="1600157106029">
         <mark key="'" line="51" column="21" />
@@ -142,11 +141,6 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Services/EBooking/OrderService.php" timestamp="1600340130540" />
     </filemarks>
     <jumps>
-      <jump line="24" column="43" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
-      <jump line="14" column="17" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
-      <jump line="15" column="20" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Services/CommunityApplicationService.php" />
-      <jump line="10" column="42" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/app/Http/Resources/EBooking/AftermarketRecordsResource.php" />
-      <jump line="4" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/Resource.php" />
       <jump line="24" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Interfaces/Assembler/CommunityAssembler.php" />
       <jump line="26" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Domain/Community/Service/CommunityService.php" />
       <jump line="28" column="47" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
@@ -242,6 +236,11 @@
       <jump line="55" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" />
       <jump line="77" column="49" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" />
       <jump line="67" column="52" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" />
+      <jump line="203" column="58" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" />
+      <jump line="369" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" />
+      <jump line="94" column="54" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" />
+      <jump line="66" column="7" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
+      <jump line="39" column="4" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -274,7 +273,7 @@
         <text>mycrypt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfZW52XD4=</text>
+        <text encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY29tbXVuaXR5LT5zZXROYW1lKCRjb21tdW5pdHlNb2RlbC0+bmFtZSk7Cg==</text>
@@ -337,12 +336,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfZW52XD4=</last-search>
+      <last-search encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfZW52XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpbWl6YXRpb25cPg==</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute encoding="base64">XDxkaXZpc2lvbnRpbWV0cmVuZFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
