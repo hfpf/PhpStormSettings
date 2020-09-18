@@ -107,10 +107,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/Envoy.blade.php" timestamp="1600433692093" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" timestamp="1600241722496">
         <mark key="'" line="77" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1600429410586">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1600433756938">
         <mark key="'" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/config/sentry.php" timestamp="1600325837524" />
@@ -121,7 +122,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/PayController.php" timestamp="1600235566415">
         <mark key="'" line="37" column="21" />
       </file>
-      <file name="/PHP Console" timestamp="1600407244755">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/LinhuibaServer/deployment/ebooking1.1.1deploy.sh" timestamp="1600429489547" />
+      <file name="/PHP Console" timestamp="1600433665771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1600333377710">
@@ -131,9 +133,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" timestamp="1600429162439">
         <mark key="'" line="94" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/location/app/Http/Middleware/Authenticate.php" timestamp="1600157106029">
-        <mark key="'" line="51" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Exceptions/Handler.php" timestamp="1600325319851">
         <mark key="'" line="67" column="52" />
