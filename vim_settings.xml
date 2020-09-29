@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1600753720084">
+      <file name="/Dummy.txt" timestamp="1601366390255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -132,7 +132,7 @@
         <mark key="." line="4" column="78" />
         <mark key="^" line="4" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1601364152575" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.gitlab-ci.yml" timestamp="1601366384312" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/routes/property/api.php" timestamp="1600429162439">
         <mark key="'" line="94" column="54" />
       </file>
