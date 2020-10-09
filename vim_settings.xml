@@ -117,6 +117,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Services/ApprovalFlowService.php" timestamp="1600241722496">
         <mark key="'" line="77" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/composer.json" timestamp="1602232127884" />
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/Envoy.blade.php" timestamp="1602230495969">
         <mark key="'" line="93" column="11" />
       </file>
@@ -152,6 +153,7 @@
         <mark key="^" line="126" column="13" />
         <mark key="." line="126" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/laravel-wechat/composer.json" timestamp="1602232199270" />
       <file name="/PHP Console" timestamp="1601364265913">
         <mark key="[" line="0" column="0" />
       </file>
