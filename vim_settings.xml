@@ -138,7 +138,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" timestamp="1602234812918">
         <mark key="'" line="19" column="30" />
       </file>
-      <file name="/PHP Console" timestamp="1602310266229">
+      <file name="/PHP Console" timestamp="1602310390878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1602234195455" />
@@ -165,10 +165,11 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1602233396369">
         <mark key="'" line="53" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" timestamp="1602298282894" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" timestamp="1602310298888">
+        <mark key="'" line="34" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="25" column="66" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
       <jump line="35" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
       <jump line="116" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/mockery/mockery/library/Mockery.php" />
@@ -268,6 +269,7 @@
       <jump line="95" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
       <jump line="117" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
       <jump line="109" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
+      <jump line="34" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,8 +277,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpwb3N0KCdodHRwOi8vbGluaHVpYmFzZXJ2ZXIudGVzdC9vYXV0aC90b2tlbicsIFsKICAgICAgICAgICAgJ2dyYW50X3R5cGUnID0+ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnY2xpZW50X2lkJyA9PiA5LAogICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gJ3B4UFZ5YU1vT2NnS2xOTEd2OHU0Z01naVVQUVFGdzk2emhpMDNlelYnLAogICAgICAgICAgICAnc2NvcGUnID0+ICcqJywKICAgICAgICBdKTsKICAgICAgICBDYWNoZTo6YWRkKCdhY2Nlc3NfdG9rZW4nLCAkcmVzcG9uc2UtPmpzb24oKVsnYWNjZXNzX3Rva2VuJ10sIDE0NDAqMzYwKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Cannot open file</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ2dldF90b2tlbjEnOwo=</text>
@@ -297,7 +299,7 @@
         <text>integrity</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.0.197</text>
+        <text>Cannot open file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lfZGlyXD4=</text>
