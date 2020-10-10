@@ -142,8 +142,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1602234195455" />
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/.env.integration" timestamp="1602230484658" />
-      <file name="/Dummy.txt" timestamp="1602230637513">
+      <file name="/Dummy.txt" timestamp="1602297745727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,6 +165,7 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1602233396369">
         <mark key="'" line="53" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" timestamp="1602298273633" />
     </filemarks>
     <jumps>
       <jump line="12" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
