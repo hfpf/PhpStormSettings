@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1602310211934">
+      <file name="/Dummy.txt" timestamp="1602315866742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -130,8 +130,8 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/database/seeds/AdminSeeder.php" timestamp="1602234793681">
         <mark key="'" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" timestamp="1602310286824">
-        <mark key="'" line="109" column="23" />
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" timestamp="1602315865455">
+        <mark key="'" line="70" column="38" />
         <mark key="[" line="118" column="65" />
         <mark key="]" line="119" column="67" />
         <mark key="^" line="119" column="67" />
@@ -155,16 +155,18 @@
       <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Models/Admin.php" timestamp="1602234812918">
         <mark key="'" line="19" column="30" />
       </file>
-      <file name="/PHP Console" timestamp="1602310723874">
+      <file name="/PHP Console" timestamp="1602315764400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" timestamp="1602310298888">
+      <file name="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" timestamp="1602315758400">
         <mark key="'" line="34" column="18" />
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="66" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/app/Http/Controllers/Community/Admin/CommunityController.php" />
-      <jump line="35" column="56" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
       <jump line="116" column="50" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/vendor/mockery/mockery/library/Mockery.php" />
       <jump line="36" column="62" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
       <jump line="37" column="25" filename="$USER_HOME$/Documents/PhpStormWorkcopy/location-szj/tests/Feature/Community/CommunityAdminTest.php" />
@@ -261,8 +263,10 @@
       <jump line="55" column="28" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Merchant/BoothController.php" />
       <jump line="95" column="30" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
       <jump line="117" column="39" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
-      <jump line="109" column="23" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
       <jump line="34" column="18" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/tests/Feature/Property/ScheduleControllerTest.php" />
+      <jump line="37" column="32" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
+      <jump line="109" column="26" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
+      <jump line="70" column="38" filename="$USER_HOME$/Documents/PhpStormWorkcopy/locationServer/app/Http/Controllers/Property/ScheduleController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
