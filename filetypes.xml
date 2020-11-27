@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="new_registered_selling_resource_data_45" type="PLAIN_TEXT" />
