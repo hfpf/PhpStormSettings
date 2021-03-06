@@ -16,6 +16,7 @@
       <mapping pattern=".env.integration" type="PLAIN_TEXT" />
       <mapping pattern="new_shared_community_resource_data_40" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
